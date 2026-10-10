@@ -2,7 +2,7 @@
   "name": "Iris & Oculus Flywheel Compat",
   "side": "auto",
   "explicit": false,
-  "disabled": false,
+  "disabled": true,
   "preferred": "modrinth",
   "sources": {
     "modrinth": {

@@ -1,6 +1,6 @@
 # createAeronautics
 
-**Minecraft 1.21.1 · neoforge 21.1.258**, 91 mods (17 dependencies)
+**Minecraft 1.21.1 · neoforge 21.1.258**, 111 mods (18 dependencies)
 
 ## Contents
 
@@ -24,14 +24,18 @@
 - [CC:C Bridge](https://modrinth.com/project/cccbridge) `1.7.3`
 - [CC:CBC](https://modrinth.com/project/cc-cbc) `1.1.1`
 - [CIDE-CC](https://modrinth.com/project/cide-cc) `1.1.0`
-- [Cloth Config API](https://modrinth.com/project/cloth-config) `15.0.140+neoforge`
+- [Colorwheel](https://modrinth.com/project/colorwheel) `1.3.0+mc1.21.1`
+- [Colorwheel Patcher](https://modrinth.com/project/colorwheel-patcher) `1.0.5+mc1.21.1`
 - [Concurrent Chunk Management Engine (NeoForge)](https://modrinth.com/project/c2me-neoforge) `0.4.0-alpha.0.122+1.21.1`
+- [Contraption Lights (Bi-directional Coloured Dynamic Lights)](https://modrinth.com/project/contraption-lights) `1.5.3`
 - [Copycats+ aeronautics weight](https://modrinth.com/project/copycats+-aeronautics-weight) `1.1.1`
 - [Create](https://modrinth.com/project/create) `6.0.10+mc1.21.1`
 - [Create Aeronautics](https://modrinth.com/project/create-aeronautics) `1.3.2+mc1.21.1`
 - [Create Aeronautics: Delivery Required](https://modrinth.com/project/create-aeronautics-delivery-required) `1.0.2`
 - [Create Aeronautics: Gadgets & Gizmos](https://modrinth.com/project/create-aeronautics-gadgets-and-gizmos) `2.0.0-Beta-2`
 - [Create Big Cannons](https://modrinth.com/project/create-big-cannons) `5.11.7`
+- [Create Cosmonautics](https://modrinth.com/project/create-cosmonatics) `26.08.307`
+- [Create Cosmonautics Expansion](https://modrinth.com/project/create-cosmonautics-expansion) `1.0.0`
 - [Create Deco](https://modrinth.com/project/create-deco) `2.1.3`
 - [Create Deep Seas](https://modrinth.com/project/create-deep-seas) `3.3.0`
 - [Create Jetpack](https://modrinth.com/project/create-jetpack) `5.2.1`
@@ -77,10 +81,19 @@
 - [FerriteCore](https://modrinth.com/project/ferrite-core) `7.0.3-neoforge`
 - [Glaiden's Audio](https://modrinth.com/project/glaidens-audio) `1.5.1`
 - [Glaiden's audio Aeronautics compat](https://modrinth.com/project/glaidens-audio-aeronautics-compat) `1.0.0`
+- [Glaiden's Vista improvements](https://modrinth.com/project/glaidens-vista-improvements) `1.0.6`
 - [ImmediatelyFast](https://modrinth.com/project/immediatelyfast) `1.6.14+1.21.1-neoforge`
+- [Iris Shaders](https://modrinth.com/project/iris) `1.8.14-beta.1+1.21.1-neoforge`
+- [Iris Veil Compat](https://modrinth.com/project/iris-veil-compat) `1.21.1+0.4.0-alpha`
+- [Jade Addons (Neo/Forge)](https://modrinth.com/project/jade-addons-forge) `6.1.2+neoforge`
 - [Jade 🔍](https://modrinth.com/project/jade) `15.10.6+neoforge`
+- [LambDynamicLights - Dynamic Lights](https://modrinth.com/project/lambdynamiclights) `4.8.11+1.21.1`
 - [Lithium](https://modrinth.com/project/lithium) `mc1.21.1-0.15.4-neoforge`
+- [Lootr](https://modrinth.com/project/lootr) `1.21.1-1.11.38.127`
 - [ModernFix](https://modrinth.com/project/modernfix) `5.27.26+mc1.21.1`
+- [More Culling](https://modrinth.com/project/moreculling) `1.0.10`
+- [Mouse Tweaks](https://modrinth.com/project/mouse-tweaks) `1.21-2.26.1-neoforge`
+- [Not Enough Animations](https://modrinth.com/project/not-enough-animations) `1.12.6`
 - [Not Enough Glyphs](https://modrinth.com/project/not-enough-glyphs) `4.6.2`
 - [Reese's Sodium Options](https://modrinth.com/project/reeses-sodium-options) `mc1.21.1-2.2.4+neoforge`
 - [Reliable EMI (REMI)](https://modrinth.com/project/reliable-emi) `4.7.9-1.21.1-neoforge`
@@ -89,10 +102,17 @@
 - [Sodium](https://modrinth.com/project/sodium) `mc1.21.1-0.8.13-neoforge`
 - [Sodium Extra](https://modrinth.com/project/sodium-extra) `mc1.21.1-0.9.4+neoforge`
 - [Steam 'n' Rails Neoforge](https://modrinth.com/project/create-steam-n-rails-1.21.1) `0.3.0-beta.2+neoforge-mc1.21.1`
+- [Structure Layout Optimizer](https://modrinth.com/project/structure-layout-optimizer) `1.0.12+1.21.1-neoforge`
+- [Structurify - Structure Control](https://modrinth.com/project/structurify) `neoforge-2.0.42+mc1.21.1`
 - [Supplementaries](https://modrinth.com/project/supplementaries) `1.21.1-3.9.9`
 - [Supplementaries Squared](https://modrinth.com/project/supplementaries-squared) `1.21-1.2.18`
 - [Tectonic](https://modrinth.com/project/tectonic) `3.0.28-neoforge-21.1`
 - [Terralith](https://modrinth.com/project/terralith) `2.6.2`
+- [Veil](https://modrinth.com/project/veil) `4.5.2`
+- [vista](https://modrinth.com/project/vista_tv) `1.21.1-5.5.7`
+- [Vista - All The Cassettes](https://modrinth.com/project/vista-all-the-cassettes) `1.2.0+neoforge.mc1.21.1`
+- [Vista: Recipes](https://modrinth.com/project/vista-recipes) `v3.1`
+- [VS / Sable Hose Connectors](https://modrinth.com/project/vs-hose-connectors) `0.1.9`
 - [Xaero's Minimap](https://modrinth.com/project/xaeros-minimap) `neoforge-1.21.1-26.6.0`
 - [Xaero's World Map](https://modrinth.com/project/xaeros-world-map) `neoforge-1.21.1-1.47.0`
 

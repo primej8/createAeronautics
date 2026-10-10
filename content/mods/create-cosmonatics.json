@@ -1,0 +1,25 @@
+{
+  "name": "Create Cosmonautics",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "micg1iTH",
+      "slug": "create-cosmonatics",
+      "versionId": "HuCMavv8",
+      "versionNumber": "26.08.307",
+      "filename": "cosmonautics-26.08.307.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/micg1iTH/versions/HuCMavv8/cosmonautics-26.08.307.jar",
+      "sha1": "9b70ebf3ff2beaee0ab0ba6c8f46643da3e4f4fc",
+      "sha512": "72ff1be7f31767eb64635a5fd827428410b0899fe5431f951bb4ab2a006ed105bf1cae24b803d51a5b18b067f5f956c493bb827573b22567e204b6b2d84a0de8",
+      "fileSize": 22566115
+    }
+  },
+  "dependents": [
+    "gD7M0IgY"
+  ],
+  "clientSide": "required",
+  "serverSide": "required"
+}

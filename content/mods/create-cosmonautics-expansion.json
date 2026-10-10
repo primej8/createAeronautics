@@ -1,0 +1,23 @@
+{
+  "name": "Create Cosmonautics Expansion",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "gD7M0IgY",
+      "slug": "create-cosmonautics-expansion",
+      "versionId": "48ItKoZ3",
+      "versionNumber": "1.0.0",
+      "filename": "rocketnautics_addon-1.0.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/gD7M0IgY/versions/48ItKoZ3/rocketnautics_addon-1.0.0.jar",
+      "sha1": "b9a95f48bdd4928f448ed0125edca80534bc66f9",
+      "sha512": "bc45672327218fcc365ff5fbb7d16a1a56818e655212e90c54ab8b960c6c6f3736b0a8953eb117bc99df9f259f7e3394ae55ab44d580c902b4109827d2ba9de7",
+      "fileSize": 308063
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

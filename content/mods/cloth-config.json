@@ -1,7 +1,7 @@
 {
   "name": "Cloth Config API",
   "side": "auto",
-  "explicit": true,
+  "explicit": false,
   "disabled": false,
   "preferred": "modrinth",
   "sources": {
@@ -17,7 +17,9 @@
       "fileSize": 1163890
     }
   },
-  "dependents": [],
+  "dependents": [
+    "51shyZVL"
+  ],
   "clientSide": "optional",
   "serverSide": "optional"
 }

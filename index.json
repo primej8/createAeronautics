@@ -90,7 +90,19 @@
     },
     {
       "path": "content/mods/cloth-config.json",
-      "sha1": "6e05f95aa2625d21b949325198fadd9fd14b7aa4"
+      "sha1": "482e15185ade47dae1dd1077ef4f62565b79ef3c"
+    },
+    {
+      "path": "content/mods/colorwheel-patcher.json",
+      "sha1": "6fa4e0ab49278a4d3bcdb6bd4db5725daa61bb34"
+    },
+    {
+      "path": "content/mods/colorwheel.json",
+      "sha1": "f23837b1c0e786263ad23976c46d8ad4c4682716"
+    },
+    {
+      "path": "content/mods/contraption-lights.json",
+      "sha1": "2829ea079327165d085c137fd0ed74c733c032f7"
     },
     {
       "path": "content/mods/copycats--aeronautics-weight.json",
@@ -110,7 +122,7 @@
     },
     {
       "path": "content/mods/create-aeronautics.json",
-      "sha1": "7019f1b1066d6579472e4eb68a52f5fede7059bf"
+      "sha1": "718a4d9003f398958f385362aff999e46844e6ae"
     },
     {
       "path": "content/mods/create-aeroworks.json",
@@ -143,6 +155,14 @@
     {
       "path": "content/mods/create-connected.json",
       "sha1": "a216072e71a122a3cef8f35e5cdf10a7a0aceaff"
+    },
+    {
+      "path": "content/mods/create-cosmonatics.json",
+      "sha1": "12eb124fbb87781ca31c372c038c1ecc62ab6476"
+    },
+    {
+      "path": "content/mods/create-cosmonautics-expansion.json",
+      "sha1": "4bd76209cabd1c334d4eb31f40641fc2604da8bd"
     },
     {
       "path": "content/mods/create-deco.json",
@@ -202,7 +222,7 @@
     },
     {
       "path": "content/mods/create.json",
-      "sha1": "283be87ec9c0171be47f98061056290b6ff37ce9"
+      "sha1": "dc057c7dc04699d1c4a9eda28a16cc4771347d56"
     },
     {
       "path": "content/mods/creeper-firework.json",
@@ -305,6 +325,10 @@
       "sha1": "f6c77b468a9ef53365196bc6daf7c3e7d76a3453"
     },
     {
+      "path": "content/mods/glaidens-vista-improvements.json",
+      "sha1": "272904304a8301ad5dfd7151119bc2ed9c451cbe"
+    },
+    {
       "path": "content/mods/glodium.json",
       "sha1": "26e27bb072da8351170778ebb284970585c4fbd7"
     },
@@ -317,20 +341,28 @@
       "sha1": "b53954a4e72a3425f1ca010e27f0beaca0d2fa6d"
     },
     {
-      "path": "content/mods/iris-flw-compat.json",
-      "sha1": "0ff3a3f31ab56d7bae00e6344113e3b127055ff4"
+      "path": "content/mods/iris-veil-compat.json",
+      "sha1": "d8bccd5c2d1348d5b8948085c8f6c0ae5c3d182a"
     },
     {
       "path": "content/mods/iris.json",
-      "sha1": "b7a226ddddb1405ad51dc949233be69ad9ab036f"
+      "sha1": "d1eed3c157c47eea02f779b736dd3044e09929a6"
+    },
+    {
+      "path": "content/mods/jade-addons-forge.json",
+      "sha1": "cc37be58d10f8723baa337d013cc4acffd2345e9"
     },
     {
       "path": "content/mods/jade.json",
-      "sha1": "71a09e1c1e6a3436a1fdb40bfe446d06fc35a0cc"
+      "sha1": "6c9a723bb1be4ad66bdd8af0d0cc902b49440f71"
     },
     {
       "path": "content/mods/kotlin-for-forge.json",
       "sha1": "7d4e0f00246e0c9abd411686629fea087b133f28"
+    },
+    {
+      "path": "content/mods/lambdynamiclights.json",
+      "sha1": "cec10ce7221dbac2be6a9ce0283fdb8f1c103d4f"
     },
     {
       "path": "content/mods/lithium.json",
@@ -341,12 +373,28 @@
       "sha1": "2482ffafa3f85313d6a6330cf5f54db7fd3695f2"
     },
     {
+      "path": "content/mods/lootr.json",
+      "sha1": "ff2f6fc2795c6a0443de463b782c05f258570c51"
+    },
+    {
       "path": "content/mods/modernfix.json",
       "sha1": "49fe72b3ea8294e7b9d4da43e28a4ae6f67592e9"
     },
     {
       "path": "content/mods/moonlight.json",
-      "sha1": "19e7116ef305379441f4898abcd2eaca5225b913"
+      "sha1": "486d8be093d6e37c5d94336eee6866e8427c703a"
+    },
+    {
+      "path": "content/mods/moreculling.json",
+      "sha1": "89358d047e6ab3cc4d3cefffea2b9191096e68a8"
+    },
+    {
+      "path": "content/mods/mouse-tweaks.json",
+      "sha1": "9f6e2f2f1f2d235a51fb654250430398c8283a4f"
+    },
+    {
+      "path": "content/mods/not-enough-animations.json",
+      "sha1": "1367fa8b4839c6d2f8e4abf2951e995dc3e333d3"
     },
     {
       "path": "content/mods/not-enough-glyphs.json",
@@ -369,12 +417,16 @@
       "sha1": "3a223c6a96a74f4d7b600031770132a0c6c90ffd"
     },
     {
+      "path": "content/mods/resourceful-config.json",
+      "sha1": "70f23a34fc1da54d8da9e530ea64a517198814d7"
+    },
+    {
       "path": "content/mods/rpl.json",
       "sha1": "ad7da09346694af145fac796ead3aa9c5aefa514"
     },
     {
       "path": "content/mods/sable.json",
-      "sha1": "2fb309f1b83d867ed6011536bb1aaba5ca33628d"
+      "sha1": "4d92975e8af30b39c9147a8d998a606b95165062"
     },
     {
       "path": "content/mods/scalablelux.json",
@@ -398,7 +450,15 @@
     },
     {
       "path": "content/mods/sodium.json",
-      "sha1": "61b92ad798f3d4d1ea980c922e998559d5279695"
+      "sha1": "767e843f6633d041cd0fe8dd0eff130140b406ed"
+    },
+    {
+      "path": "content/mods/structure-layout-optimizer.json",
+      "sha1": "05b9d1403aa8bbd9a2cf4491d91edb24891ae6af"
+    },
+    {
+      "path": "content/mods/structurify.json",
+      "sha1": "874989bfa39cf00652267fd2f3ec0b904b5b4355"
     },
     {
       "path": "content/mods/supplementaries-squared.json",
@@ -417,6 +477,26 @@
       "sha1": "7fd07d679d59733164f18e20e2e54a77681c4aa7"
     },
     {
+      "path": "content/mods/veil.json",
+      "sha1": "e51c19e06cda6a1a98d638e1e8d20238825fb4f4"
+    },
+    {
+      "path": "content/mods/vista-all-the-cassettes.json",
+      "sha1": "10a9f5589233bf58dfbac8ae7c5f632dea3d86d4"
+    },
+    {
+      "path": "content/mods/vista-recipes.json",
+      "sha1": "447d9817d3c562236ca54d8e38a99ae9c20c6741"
+    },
+    {
+      "path": "content/mods/vista_tv.json",
+      "sha1": "5e885546cced2bf0ec564eec66bc75842995fcf7"
+    },
+    {
+      "path": "content/mods/vs-hose-connectors.json",
+      "sha1": "6f920ec074d1bbd8cfb8580763c43f99a3d779cf"
+    },
+    {
       "path": "content/mods/xaeros-minimap.json",
       "sha1": "1b13e2f1961c715ee8498afa8bebe6319ea4cbef"
     },
@@ -426,7 +506,7 @@
     },
     {
       "path": "content/mods/yacl.json",
-      "sha1": "7be3386baeca7adadc1ec6b71e9bef7a4f23edd6"
+      "sha1": "f6cd0b6edeb642adedb67570da2ee49814b1b1d2"
     },
     {
       "path": "content/mods/zfastnoise.json",

@@ -1,0 +1,23 @@
+{
+  "name": "Glaiden's audio Aeronautics compat",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "tHRJ9zhl",
+      "slug": "glaidens-audio-aeronautics-compat",
+      "versionId": "TCTetYHz",
+      "versionNumber": "1.0.0",
+      "filename": "glaidens_audio_compat-1.0.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/tHRJ9zhl/versions/TCTetYHz/glaidens_audio_compat-1.0.0.jar",
+      "sha1": "d593c5b8abf5595f512f26d4dfd16c082ad30a9b",
+      "sha512": "d621e1d873d74d20f7dd81c408b4bfaf7d91698cc499c8c785e71bbabd9f6fdf0679c8a1a19b88af8781ace8960be20bbf859056b2e7f4a0f594a77eba74e642",
+      "fileSize": 13708
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

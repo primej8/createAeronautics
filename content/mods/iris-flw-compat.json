@@ -1,0 +1,25 @@
+{
+  "name": "Iris & Oculus Flywheel Compat",
+  "side": "auto",
+  "explicit": false,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "ndHYMY2K",
+      "slug": "iris-flw-compat",
+      "versionId": "6ZQz5Ow2",
+      "versionNumber": "1.21.1+2.4.0-release",
+      "filename": "iris-flywheel-compat-NeoForge-2.4.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/ndHYMY2K/versions/6ZQz5Ow2/iris-flywheel-compat-NeoForge-2.4.0.jar",
+      "sha1": "b8630517b6017f4d075ce594e5ef333b38748029",
+      "sha512": "192e5f00f2c146d2920867d7cd691ecec7ddd2acfb95880cc59084e8949225db92ecfb9221ba7223fc924ec43f2ca861115f83f9dc3f79e14a2f2a8db5287070",
+      "fileSize": 907133
+    }
+  },
+  "dependents": [
+    "mva5q4qZ"
+  ],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

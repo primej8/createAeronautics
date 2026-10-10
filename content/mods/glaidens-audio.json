@@ -1,0 +1,23 @@
+{
+  "name": "Glaiden's Audio",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "JQHhusVl",
+      "slug": "glaidens-audio",
+      "versionId": "jHXMJnnK",
+      "versionNumber": "1.5.1",
+      "filename": "glaidens_audio_mod-1.5.1-neoforge-1.21.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/JQHhusVl/versions/jHXMJnnK/glaidens_audio_mod-1.5.1-neoforge-1.21.1.jar",
+      "sha1": "208f564300c31dc63b94171fccf72744b2ff173f",
+      "sha512": "6b8e7325273a9c0859c76017097bb5ab7a80d880aeafac0ad581540572ab590a0a8e2b36407c4abfda5430ee0e84472e1971d5ed1e836de34301082df0fc04cb",
+      "fileSize": 6933900
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

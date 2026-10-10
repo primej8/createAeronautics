@@ -1,0 +1,23 @@
+{
+  "name": "Create Pocket Sized",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "KbwNRCY7",
+      "slug": "create-pocket-sized",
+      "versionId": "Ywtiurnv",
+      "versionNumber": "0.20.0",
+      "filename": "pocket-0.20.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/KbwNRCY7/versions/Ywtiurnv/pocket-0.20.0.jar",
+      "sha1": "266d1eddea73ffe49768600174734cb0340b784f",
+      "sha512": "169ca8454cbdfa484e7500063dbe7c95ca6cf2d425cbe559e466bc551c80cb83a5f56cfe3fc9442dc25556b0635ea95db61b95b384585acfb58f8dab3054705f",
+      "fileSize": 1414655
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

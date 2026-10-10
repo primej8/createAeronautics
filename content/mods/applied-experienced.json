@@ -1,0 +1,23 @@
+{
+  "name": "Applied Experienced",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "yKwUnZCV",
+      "slug": "applied-experienced",
+      "versionId": "OIa8aSku",
+      "versionNumber": "1.21.1-1.3.2",
+      "filename": "applied-experienced-1.21.1-1.3.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/yKwUnZCV/versions/OIa8aSku/applied-experienced-1.21.1-1.3.2.jar",
+      "sha1": "751aceaca3309b5618e7ee435a133ec245180ea3",
+      "sha512": "7ae46ba4167c928087a2084eb651f2bb87e39e2bdf48c361febac32eaa8cc985b16304ae1d493e8dd07848665897041cda0ab180ab67c24a09ff03690832a4c4",
+      "fileSize": 214764
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "CC:CBC",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "zA9Klldw",
+      "slug": "cc-cbc",
+      "versionId": "naLCoIB4",
+      "versionNumber": "1.1.1",
+      "filename": "cc-cbc-v1.1.1-1.21.1-neoforge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/zA9Klldw/versions/naLCoIB4/cc-cbc-v1.1.1-1.21.1-neoforge.jar",
+      "sha1": "06d6a1bac3b78c4a1ec975ec74acebe877e3a270",
+      "sha512": "0bb9959fc21c940e307430225bcf8f3878092dbacb073b16f6e47c06057ea5b67bb2ce4a2f9bc8d4acd5784061e7212267c7eeb3b02eaecbded1234b4cc284a5",
+      "fileSize": 32014
+    }
+  },
+  "dependents": [],
+  "clientSide": "optional",
+  "serverSide": "required"
+}

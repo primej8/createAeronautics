@@ -1,0 +1,23 @@
+{
+  "name": "Create: CC Better Recipes",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "WZfuGM1m",
+      "slug": "create-ccbr",
+      "versionId": "zRhaiENu",
+      "versionNumber": "1.2.1",
+      "filename": "ccbr-1.2.1-neoforge-1.21.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/WZfuGM1m/versions/zRhaiENu/ccbr-1.2.1-neoforge-1.21.1.jar",
+      "sha1": "cbc64baf934c03eefc120315b1aefecbe8c3c322",
+      "sha512": "9aefd479946f3db61c366c803f768431c525cdd611158591862fd8d008c1355bd7972b74df2ea347c684f3081257bbe18b275894217feb00c1bded475512b3a4",
+      "fileSize": 205407
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

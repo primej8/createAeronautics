@@ -1,0 +1,23 @@
+{
+  "name": "Create: Easy Stock Ticker",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "qYDytzUC",
+      "slug": "create-easy-stock-ticker",
+      "versionId": "QbAj26pf",
+      "versionNumber": "1.1.2",
+      "filename": "create_ez_stock_ticker-1.1.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/qYDytzUC/versions/QbAj26pf/create_ez_stock_ticker-1.1.2.jar",
+      "sha1": "d6430c19c156096a7c03537d5e4c48c6384f4eff",
+      "sha512": "a6b11dd07551512c310a3d7d62f64d0381efccf2de544d7341b0648b241aa154fce1c0d558b9d59c3bc7f0b38385b9835017e3ff90b814daa9253705e0b01ffe",
+      "fileSize": 723787
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

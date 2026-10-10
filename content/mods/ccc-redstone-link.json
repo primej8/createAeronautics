@@ -1,0 +1,23 @@
+{
+  "name": "CC: Create Redstone Link",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "zDWcAhSD",
+      "slug": "ccc-redstone-link",
+      "versionId": "XcFaJqfR",
+      "versionNumber": "0.1.1",
+      "filename": "cccredstonelink-0.1.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/zDWcAhSD/versions/XcFaJqfR/cccredstonelink-0.1.1.jar",
+      "sha1": "4071a08dab2f349a287fe097549152a00aa4ce69",
+      "sha512": "1d048b8cc573a56f5ae4504b1a0ab254c97955e038907c76a773640994f1ee73f06c398044daa94d1ec64338faf9c7f031dbe379a4e6a0657877761e1b071aa2",
+      "fileSize": 41073
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

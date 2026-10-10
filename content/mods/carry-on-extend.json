@@ -1,0 +1,23 @@
+{
+  "name": "Carry On Extend",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "JbqjOoQj",
+      "slug": "carry-on-extend",
+      "versionId": "mlwItoGT",
+      "versionNumber": "1.5.2",
+      "filename": "CarryOnExtend-Architectury-neoforge-1.5.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/JbqjOoQj/versions/mlwItoGT/CarryOnExtend-Architectury-neoforge-1.5.2.jar",
+      "sha1": "e60de5000a1f6d1fbb5f2048a8e7dfd1561fcb60",
+      "sha512": "8efb8f0826a257fc4489f43bc170861ccd0db1135ad109088a0eb770f23db54fc4722751eb9c915016824ad3a2cd0afea07c70b4a27acd4d8bc512d0a0b60e51",
+      "fileSize": 60597
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

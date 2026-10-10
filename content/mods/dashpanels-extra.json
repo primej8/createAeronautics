@@ -1,0 +1,23 @@
+{
+  "name": "Dashpanels: Extra",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "bPbnsb3f",
+      "slug": "dashpanels-extra",
+      "versionId": "MppwLqKx",
+      "versionNumber": "1.4.1",
+      "filename": "dashpanelsextra-1.4.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/bPbnsb3f/versions/MppwLqKx/dashpanelsextra-1.4.1.jar",
+      "sha1": "6741ad2e8c1a0b309466c04b7c23dfc47da1c9dc",
+      "sha512": "0ee62d79186e5743a9444afe9f085bf4718eb0ac0d3943d1327617f9f7fe9f97d45dbd8cd56ef37418cd71cc7d5a79dec27b073eb0f85f55f28c0b0a1b344ad9",
+      "fileSize": 8515568
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

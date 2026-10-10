@@ -1,0 +1,23 @@
+{
+  "name": "Create Aeronautics: Delivery Required",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "hSTW3jx7",
+      "slug": "create-aeronautics-delivery-required",
+      "versionId": "NOeDEseI",
+      "versionNumber": "1.0.2",
+      "filename": "createdeliveryrequired-1.0.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/hSTW3jx7/versions/NOeDEseI/createdeliveryrequired-1.0.2.jar",
+      "sha1": "6f175ae10ab5cee2e9f3e40e0cc096ca2263c01e",
+      "sha512": "2a19b78b3f6f12d3e7f60892eefaf853af75e51b68e08f6d3d3067e46ef46e252a975f0e37e55e1834727e17ba1da0f515b397561cbfef8a4c6cfa57bd0c4963",
+      "fileSize": 467452
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

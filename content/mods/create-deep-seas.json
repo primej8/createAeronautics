@@ -1,0 +1,23 @@
+{
+  "name": "Create Deep Seas",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "mva5q4qZ",
+      "slug": "create-deep-seas",
+      "versionId": "8CV1LRTl",
+      "versionNumber": "3.3.0",
+      "filename": "create_submarine-3.3.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/mva5q4qZ/versions/8CV1LRTl/create_submarine-3.3.0.jar",
+      "sha1": "b1aaaf64423d9e80aa750c71de426f6aaa33989e",
+      "sha512": "df2cf8242deaf7954f146fd8571000b654f0660e78e52bd1888bdd13aef4ed658dfabd89741e914313d746b0b5b7f78acfd02642f8718b51593bb6ec38b308de",
+      "fileSize": 8109785
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

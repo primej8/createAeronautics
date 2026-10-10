@@ -1,0 +1,23 @@
+{
+  "name": "EMILink",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "andySBF0",
+      "slug": "emilink",
+      "versionId": "sZqfpPmB",
+      "versionNumber": "1.1.13",
+      "filename": "emilink-1.1.13.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/andySBF0/versions/sZqfpPmB/emilink-1.1.13.jar",
+      "sha1": "576c90729ad35a67f07d57f48eb7b4f920d47a3d",
+      "sha512": "926eb29caced9a3ce414306a6676479382a80eb46334d54fbd948127f1791a940e885a8cd62ff814b6cd1fa8b543708723ce4bc37c05895bc8eb930f5f441826",
+      "fileSize": 299835
+    }
+  },
+  "dependents": [],
+  "clientSide": "optional",
+  "serverSide": "required"
+}

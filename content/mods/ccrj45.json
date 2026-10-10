@@ -1,0 +1,23 @@
+{
+  "name": "CC: RJ45",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "GZ875jdx",
+      "slug": "ccrj45",
+      "versionId": "XMQqbhTg",
+      "versionNumber": "1.2.2",
+      "filename": "ccrj45-1.2.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/GZ875jdx/versions/XMQqbhTg/ccrj45-1.2.2.jar",
+      "sha1": "bdef39e7100a69f735eee03ab4ab734e1b91a41b",
+      "sha512": "c6ad78bdcc3aef4399a010afe91ba579c5816bec10536d04994f1819e02cc2af9c8b73975560344b8dd1126e1e6dbf5300ab4f7a15cae30ec687f2916fa1c1ba",
+      "fileSize": 127745
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

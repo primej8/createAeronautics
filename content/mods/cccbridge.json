@@ -1,0 +1,23 @@
+{
+  "name": "CC:C Bridge",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "fXt291FO",
+      "slug": "cccbridge",
+      "versionId": "MKK6cYI5",
+      "versionNumber": "1.7.3",
+      "filename": "cccbridge-mc1.21.1-v1.7.3-neoforge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/fXt291FO/versions/MKK6cYI5/cccbridge-mc1.21.1-v1.7.3-neoforge.jar",
+      "sha1": "2f0df007d6ed849266a505f0854ab07f55a58b41",
+      "sha512": "bcface30c088371b080ad998a521968d921b814a5d293492e9c5f37ed29630610bbaeb18f3aeaa93d48b2f2c54cd2a21a62130cfab97ce52031218ad7f415a45",
+      "fileSize": 490733
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

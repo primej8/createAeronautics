@@ -1,0 +1,23 @@
+{
+  "name": "Ars Énergistique",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "IJI3QuK8",
+      "slug": "ars-energistique",
+      "versionId": "Bdb8HLZ0",
+      "versionNumber": "2.1.1-beta",
+      "filename": "arseng-2.1.1-beta.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/IJI3QuK8/versions/Bdb8HLZ0/arseng-2.1.1-beta.jar",
+      "sha1": "e46e7cf5c4fc5f48d1b1ea025eb59c484811b2c6",
+      "sha512": "4d6229c3c4f627e9804b2afdbeb58fedf172c70e8704b0fa91cfc4d5073bb13ede99b71cd35ee397a92b891a4f884b63bead4a7fbcbe8513fbc8f29c786f42c2",
+      "fileSize": 123229
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Create Aeronautics: Gadgets & Gizmos",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "Sza3GgEL",
+      "slug": "create-aeronautics-gadgets-and-gizmos",
+      "versionId": "19E5dCzP",
+      "versionNumber": "2.0.0-Beta-2",
+      "filename": "gadgets-and-gizmos-bundled-2.0.0-Beta-2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/Sza3GgEL/versions/19E5dCzP/gadgets-and-gizmos-bundled-2.0.0-Beta-2.jar",
+      "sha1": "6e38aa4ef4801425c5be333dd6d848aa1358d5f2",
+      "sha512": "fdf3d8489223db055b79fbc2a3afda32899e79e89dbd130943479f7cd9092be156a7304ede2a144e55b428666da1fc59542c8138661673f82398d8b9d0782699",
+      "fileSize": 35986349
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

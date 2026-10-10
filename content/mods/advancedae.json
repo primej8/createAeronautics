@@ -1,0 +1,23 @@
+{
+  "name": "AdvancedAE",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "rxYaglEe",
+      "slug": "advancedae",
+      "versionId": "ablTMAjP",
+      "versionNumber": "1.6.12-1.21.1",
+      "filename": "AdvancedAE-1.6.12-1.21.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/rxYaglEe/versions/ablTMAjP/AdvancedAE-1.6.12-1.21.1.jar",
+      "sha1": "9358ccfa5477c7ab1c5ffab6c831e105fe46ecc3",
+      "sha512": "ab61c57355649a967a0bcf6b9413cd6b62728d26e914543b3231eea33bde5571536bd589ae1ac026d46799711508c942284c3419e19ff5d5bf80f1045442f33a",
+      "fileSize": 4791255
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

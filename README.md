@@ -1,8 +1,99 @@
 # createAeronautics
 
-**Minecraft 1.21.1 · neoforge 21.1.258**, 0 mods
+**Minecraft 1.21.1 · neoforge 21.1.258**, 91 mods (17 dependencies)
 
 ## Contents
 
+- [AdvancedAE](https://modrinth.com/project/advancedae) `1.6.12-1.21.1`
+- [Amendments](https://modrinth.com/project/amendments) `1.21-2.1.11`
+- [AppleSkin](https://modrinth.com/project/appleskin) `3.0.9+mc1.21`
+- [Applied Energistics 2](https://modrinth.com/project/ae2) `19.2.18`
+- [Applied Experienced](https://modrinth.com/project/applied-experienced) `1.21.1-1.3.2`
+- [Ars Creo](https://modrinth.com/project/ars-creo) `5.4.0`
+- [Ars Nouveau](https://modrinth.com/project/ars-nouveau) `5.13.3`
+- [Ars Sable](https://modrinth.com/project/ars-sable) `1.2.0`
+- [Ars Unification](https://modrinth.com/project/ars-unification) `1.2.21`
+- [Ars Énergistique](https://modrinth.com/project/ars-energistique) `2.1.1-beta`
+- [C2ME OpenCL Acceleration Module](https://modrinth.com/project/c2me-ocl) `0.4.0-alpha.0.122+1.21.1`
+- [Carry On](https://modrinth.com/project/carry-on) `2.2.6`
+- [Carry On Extend](https://modrinth.com/project/carry-on-extend) `1.5.2`
+- [CC: Create Redstone Link](https://modrinth.com/project/ccc-redstone-link) `0.1.1`
+- [CC: RJ45](https://modrinth.com/project/ccrj45) `1.2.2`
+- [CC: Sable](https://modrinth.com/project/cc-sable) `1.3.4`
+- [CC: Tweaked](https://modrinth.com/project/cc-tweaked) `1.120.2`
+- [CC:C Bridge](https://modrinth.com/project/cccbridge) `1.7.3`
+- [CC:CBC](https://modrinth.com/project/cc-cbc) `1.1.1`
+- [CIDE-CC](https://modrinth.com/project/cide-cc) `1.1.0`
+- [Cloth Config API](https://modrinth.com/project/cloth-config) `15.0.140+neoforge`
+- [Concurrent Chunk Management Engine (NeoForge)](https://modrinth.com/project/c2me-neoforge) `0.4.0-alpha.0.122+1.21.1`
+- [Copycats+ aeronautics weight](https://modrinth.com/project/copycats+-aeronautics-weight) `1.1.1`
+- [Create](https://modrinth.com/project/create) `6.0.10+mc1.21.1`
+- [Create Aeronautics](https://modrinth.com/project/create-aeronautics) `1.3.2+mc1.21.1`
+- [Create Aeronautics: Delivery Required](https://modrinth.com/project/create-aeronautics-delivery-required) `1.0.2`
+- [Create Aeronautics: Gadgets & Gizmos](https://modrinth.com/project/create-aeronautics-gadgets-and-gizmos) `2.0.0-Beta-2`
+- [Create Big Cannons](https://modrinth.com/project/create-big-cannons) `5.11.7`
+- [Create Deco](https://modrinth.com/project/create-deco) `2.1.3`
+- [Create Deep Seas](https://modrinth.com/project/create-deep-seas) `3.3.0`
+- [Create Jetpack](https://modrinth.com/project/create-jetpack) `5.2.1`
+- [Create Pocket Sized](https://modrinth.com/project/create-pocket-sized) `0.20.0`
+- [Create Slice & Dice](https://modrinth.com/project/slice-and-dice) `4.3.4`
+- [Create Stock Bridge](https://modrinth.com/project/create-stock-bridge) `1.21.1-0.2.0`
+- [Create: Aeroworks](https://modrinth.com/project/create-aeroworks) `1.5.0+mc1.21.1`
+- [Create: Avionics — ComputerCraft for Aeronautics](https://modrinth.com/project/create-avionics) `0.6.0`
+- [Create: Cardboarded Conveynience](https://modrinth.com/project/create-cardboarded-conveynience) `1.0.0`
+- [Create: CC Better Recipes](https://modrinth.com/project/create-ccbr) `1.2.1`
+- [Create: CC Total Logistics](https://modrinth.com/project/create-cc-total-logistics) `0.3.6`
+- [Create: Coasters Simulated](https://modrinth.com/project/create-coasters-simulated) `0.1.5`
+- [Create: Connected](https://modrinth.com/project/create-connected) `1.3.3-mc1.21.1`
+- [Create: Copycats+](https://modrinth.com/project/copycats) `3.0.9+mc.1.21.1-neoforge`
+- [Create: Diesel Generators](https://modrinth.com/project/create-diesel-generators) `1.21.1-1.3.15`
+- [Create: Easy Stock Ticker](https://modrinth.com/project/create-easy-stock-ticker) `1.1.2`
+- [Create: Enchantment Industry](https://modrinth.com/project/create-enchantment-industry) `2.5.4b`
+- [Create: Mobile Packages](https://modrinth.com/project/create-mobile-packages) `1.21.1-0.7.8`
+- [Create: Numismatics](https://modrinth.com/project/numismatics) `1.1.0+neoforge-mc1.21.1`
+- [Create: Redstone Link GUI](https://modrinth.com/project/create-redstone-link-gui) `1.21.1-1.9.2`
+- [Create: Rolling Tones](https://modrinth.com/project/create-rolling-tones) `rolling_tones_0.2.2`
+- [Create: Train Track Rail Grinding](https://modrinth.com/project/create-rail-grinding) `1.2.2+mc1.21.1`
+- [Creeper Firework](https://modrinth.com/project/creeper-firework) `2.2.0`
+- [Dashpanels](https://modrinth.com/project/dashpanels) `2.1+neoforge1.21.1`
+- [Dashpanels: Expanded](https://modrinth.com/project/dashpanels-expanded) `2.0.1`
+- [Dashpanels: Extra](https://modrinth.com/project/dashpanels-extra) `1.4.1`
+- [Drive-By-Sable](https://modrinth.com/project/drive-by-sable) `r2.0.2`
+- [EMI](https://modrinth.com/project/emi) `1.1.24+1.21.1+neoforge`
+- [EMI Enchanting](https://modrinth.com/project/emi-enchanting) `0.1.2+1.21+neoforge`
+- [EMI Loot](https://modrinth.com/project/emi-loot) `0.7.9+1.21+neoforge`
+- [EMI Ores](https://modrinth.com/project/emi-ores) `1.3+1.21.1+neoforge`
+- [EMI professions (EMIP)](https://modrinth.com/project/emi-professions-(emip)) `1.0.3`
+- [EMIffect](https://modrinth.com/project/emiffect) `2.1.6+mc1.21.1`
+- [EMILink](https://modrinth.com/project/emilink) `1.1.13`
+- [Entity Culling](https://modrinth.com/project/entityculling) `1.11.3`
+- [Exposure](https://modrinth.com/project/exposure) `1.9.19`
+- [Exposure: Expanded](https://modrinth.com/project/exposure-expanded) `1.0.1`
+- [Exposure: Polaroid](https://modrinth.com/project/exposure-polaroid) `1.1.6`
+- [Exposure: Space](https://modrinth.com/project/exposure-space) `1.3.0`
+- [Extended AE](https://modrinth.com/project/extended-ae) `1.21-2.2.35-neoforge`
+- [Farmer's Delight](https://modrinth.com/project/farmers-delight) `1.21.1-1.3.4`
+- [Fast Noise](https://modrinth.com/project/zfastnoise) `1.0.13+1.21.1+neoforge`
+- [FerriteCore](https://modrinth.com/project/ferrite-core) `7.0.3-neoforge`
+- [Glaiden's Audio](https://modrinth.com/project/glaidens-audio) `1.5.1`
+- [Glaiden's audio Aeronautics compat](https://modrinth.com/project/glaidens-audio-aeronautics-compat) `1.0.0`
+- [ImmediatelyFast](https://modrinth.com/project/immediatelyfast) `1.6.14+1.21.1-neoforge`
+- [Jade 🔍](https://modrinth.com/project/jade) `15.10.6+neoforge`
+- [Lithium](https://modrinth.com/project/lithium) `mc1.21.1-0.15.4-neoforge`
+- [ModernFix](https://modrinth.com/project/modernfix) `5.27.26+mc1.21.1`
+- [Not Enough Glyphs](https://modrinth.com/project/not-enough-glyphs) `4.6.2`
+- [Reese's Sodium Options](https://modrinth.com/project/reeses-sodium-options) `mc1.21.1-2.2.4+neoforge`
+- [Reliable EMI (REMI)](https://modrinth.com/project/reliable-emi) `4.7.9-1.21.1-neoforge`
+- [ServerCore](https://modrinth.com/project/servercore) `1.5.19+1.21.1`
+- [Simple Voice Chat](https://modrinth.com/project/simple-voice-chat) `neoforge-1.21.1-2.6.24`
+- [Sodium](https://modrinth.com/project/sodium) `mc1.21.1-0.8.13-neoforge`
+- [Sodium Extra](https://modrinth.com/project/sodium-extra) `mc1.21.1-0.9.4+neoforge`
+- [Steam 'n' Rails Neoforge](https://modrinth.com/project/create-steam-n-rails-1.21.1) `0.3.0-beta.2+neoforge-mc1.21.1`
+- [Supplementaries](https://modrinth.com/project/supplementaries) `1.21.1-3.9.9`
+- [Supplementaries Squared](https://modrinth.com/project/supplementaries-squared) `1.21-1.2.18`
+- [Tectonic](https://modrinth.com/project/tectonic) `3.0.28-neoforge-21.1`
+- [Terralith](https://modrinth.com/project/terralith) `2.6.2`
+- [Xaero's Minimap](https://modrinth.com/project/xaeros-minimap) `neoforge-1.21.1-26.6.0`
+- [Xaero's World Map](https://modrinth.com/project/xaeros-world-map) `neoforge-1.21.1-1.47.0`
 
 _Generated by packweave._

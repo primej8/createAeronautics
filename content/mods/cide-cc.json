@@ -1,0 +1,23 @@
+{
+  "name": "CIDE-CC",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "xwfHmqSv",
+      "slug": "cide-cc",
+      "versionId": "xdnAXaAa",
+      "versionNumber": "1.1.0",
+      "filename": "cide-1.1.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/xwfHmqSv/versions/xdnAXaAa/cide-1.1.0.jar",
+      "sha1": "7483d867742530c7982490e4737ff7e72809e5d7",
+      "sha512": "de786d6d94ede227f3d8fce9dbdfa8edd443fc8050fbe09fa0b200e6a0c73552e3acde3a9a7a2ecac6422d20cf3541c8d71dfc9fe7def7fcaa57df259b5276a8",
+      "fileSize": 645130
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

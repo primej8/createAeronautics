@@ -1,0 +1,23 @@
+{
+  "name": "C2ME OpenCL Acceleration Module",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "qtPMklut",
+      "slug": "c2me-ocl",
+      "versionId": "shL6D1IO",
+      "versionNumber": "0.4.0-alpha.0.122+1.21.1",
+      "filename": "c2me-neoforge-opts-accel-opencl-mc1.21.1-0.4.0-alpha.0.122.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/qtPMklut/versions/shL6D1IO/c2me-neoforge-opts-accel-opencl-mc1.21.1-0.4.0-alpha.0.122.jar",
+      "sha1": "5c46530abacdb587ead9a5efebf392bc469ade9f",
+      "sha512": "b3cb22306081354d9c5a9dfae7d129d399d97ef6ad6563c67353ec93a18022a1223fcfe5204a8d3de113b8932c6ee248f6c8e42b8fef643a612d2bca0ccc9d2a",
+      "fileSize": 2991649
+    }
+  },
+  "dependents": [],
+  "clientSide": "unsupported",
+  "serverSide": "required"
+}

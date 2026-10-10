@@ -1,0 +1,23 @@
+{
+  "name": "Creeper Firework",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "owUiXPam",
+      "slug": "creeper-firework",
+      "versionId": "OwxZJkGR",
+      "versionNumber": "2.2.0",
+      "filename": "CreeperFirework-neoforge-2.2.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/owUiXPam/versions/OwxZJkGR/CreeperFirework-neoforge-2.2.0.jar",
+      "sha1": "083d5b56712427691999b798d2749a59a4ff0918",
+      "sha512": "776ced2fc04d52e2617c1a0cae56acafcb9b61a85ff3793b6a26e55509c5ce309c607447fe8b632ff48e39e281b2b673d58f4093dc2895b3d6f6f524179f2bd7",
+      "fileSize": 41106
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

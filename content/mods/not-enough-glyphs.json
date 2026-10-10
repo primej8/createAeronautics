@@ -1,0 +1,23 @@
+{
+  "name": "Not Enough Glyphs",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "WgAFDDv0",
+      "slug": "not-enough-glyphs",
+      "versionId": "PECvNoZU",
+      "versionNumber": "4.6.2",
+      "filename": "not_enough_glyphs-1.21.1-4.6.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/WgAFDDv0/versions/PECvNoZU/not_enough_glyphs-1.21.1-4.6.2.jar",
+      "sha1": "32eea2c478a346ee7499f6a0db156241116f73e9",
+      "sha512": "5e91115ba3144f90b5e7d55d75d6fc175d0d6c3a9cc36a53b8989a48fa13532d0efa60952edecb52d5fac3f7b5f1d183cba13f56a2b35cef453b68bd116d021b",
+      "fileSize": 637382
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

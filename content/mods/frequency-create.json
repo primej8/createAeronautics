@@ -1,0 +1,23 @@
+{
+  "name": "Frequency Create",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "RgoFrYci",
+      "slug": "frequency-create",
+      "versionId": "kgyQ1pbG",
+      "versionNumber": "0.2.0",
+      "filename": "frequency-1.21.1-neoforge-0.2.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/RgoFrYci/versions/kgyQ1pbG/frequency-1.21.1-neoforge-0.2.0.jar",
+      "sha1": "49249ab4464b195165bd1700909dc5020633e766",
+      "sha512": "34e0e198e22e85fc19d6e3cd4126e82a904497e7376b4bbaacbcbedca98cbcc7dd3d6adfe772fe0b49fb1b1b2e1fa092094fbd20e1571b8ce642efe50b6781f6",
+      "fileSize": 805071
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

@@ -1,10 +1,11 @@
 # createAeronautics
 
-**Minecraft 1.21.1 · neoforge 21.1.258**, 139 mods (31 dependencies), 2 resource packs, 2 shaders
+**Minecraft 1.21.1 · neoforge 21.1.258**, 156 mods (35 dependencies), 2 resource packs, 2 shaders
 
 ## Contents
 
 - [AdvancedAE](https://modrinth.com/project/advancedae) `1.6.12-1.21.1`
+- [Aeronautics Camera Sync](https://modrinth.com/project/aero_cam_sync) `1.4.0`
 - [Amendments](https://modrinth.com/project/amendments) `1.21-2.1.11`
 - [AppleSkin](https://modrinth.com/project/appleskin) `3.0.9+mc1.21`
 - [Applied Energistics 2](https://modrinth.com/project/ae2) `19.2.18`
@@ -15,6 +16,8 @@
 - [Ars Unification](https://modrinth.com/project/ars-unification) `1.2.21`
 - [Ars Énergistique](https://modrinth.com/project/ars-energistique) `2.1.1-beta`
 - [Better Clouds](https://modrinth.com/project/better-clouds) `1.13.11+1.21.1-neoforge-release`
+- [BetterEnd: New Dawn](https://modrinth.com/project/betterend-neoforge) `21.0.36`
+- [BetterNether: New Dawn](https://modrinth.com/project/betternether-neoforge) `21.0.27`
 - [Carry On](https://modrinth.com/project/carry-on) `2.2.6`
 - [Carry On Extend](https://modrinth.com/project/carry-on-extend) `1.5.2`
 - [CC: Create Redstone Link](https://modrinth.com/project/ccc-redstone-link) `0.1.1`
@@ -82,10 +85,15 @@
 - [Exposure: Polaroid](https://modrinth.com/project/exposure-polaroid) `1.1.6`
 - [Exposure: Space](https://modrinth.com/project/exposure-space) `1.3.0`
 - [Extended AE](https://modrinth.com/project/extended-ae) `1.21-2.2.35-neoforge`
+- [Farmer's Cutting: BetterEnd](https://modrinth.com/project/farmers-cutting-betterend) `1.21.1-2.0-neoforge+mod`
+- [Farmer's Cutting: BetterNether](https://modrinth.com/project/farmers-cutting-betternether) `1.21.1-1.0-neoforge+mod`
+- [Farmer's Cutting: Oh The Biomes We've Gone](https://modrinth.com/project/farmers-cutting-oh-the-biomes-weve-gone) `1.21.1-2.1-neoforge+mod`
+- [Farmer's Cutting: Quark](https://modrinth.com/project/farmers-cutting-quark) `1.21.1-1.0+mod`
 - [Farmer's Delight](https://modrinth.com/project/farmers-delight) `1.21.1-1.3.4`
 - [Fast Noise](https://modrinth.com/project/zfastnoise) `1.0.13+1.21.1+neoforge`
 - [Feature Recycler](https://modrinth.com/project/feature-recycler) `2.0.0-neoforge`
 - [FerriteCore](https://modrinth.com/project/ferrite-core) `7.0.3-neoforge`
+- [Frequency Create](https://modrinth.com/project/frequency-create) `0.2.0`
 - [Glaiden's Audio](https://modrinth.com/project/glaidens-audio) `1.5.1`
 - [Glaiden's audio Aeronautics compat](https://modrinth.com/project/glaidens-audio-aeronautics-compat) `1.0.0`
 - [Glaiden's Vista improvements](https://modrinth.com/project/glaidens-vista-improvements) `1.0.6`
@@ -109,9 +117,18 @@
 - [Oh The Biomes We've Gone](https://modrinth.com/project/oh-the-biomes-weve-gone) `2.6.3-NeoForge`
 - [Photon Shaders](https://modrinth.com/project/photon-shader) `v1.3b`
 - [Ponder for KubeJS](https://modrinth.com/project/ponder) `1.21.1-2.4.0+neoforge`
+- [Quark](https://modrinth.com/project/quark) `4.1-487`
+- [Quark Oddities](https://modrinth.com/project/quark-oddities) `1.21.1`
+- [Ragdoll Reactions](https://modrinth.com/project/ragdoll-reactions) `0.7.0`
 - [Reese's Sodium Options](https://modrinth.com/project/reeses-sodium-options) `mc1.21.1-2.2.4+neoforge`
 - [Reliable EMI (REMI)](https://modrinth.com/project/reliable-emi) `4.7.9-1.21.1-neoforge`
 - [Roxy](https://modrinth.com/project/roxy) `0.4.0-neoforge+mc1.21.1`
+- [Sable Beyond](https://modrinth.com/project/sable_beyond) `neoforge1.21.1+v0.5.0`
+- [Sable: Far and Wide (Create Aeronautics)](https://modrinth.com/project/sable-far-and-wide) `1.0.0`
+- [Sable: Physics Compat](https://modrinth.com/project/sablecompat) `1.3.0`
+- [Sable: Ragdoll Corpse](https://modrinth.com/project/sable-ragdoll-corpse) `0.3.0`
+- [Sable: Ragdolls](https://modrinth.com/project/sable-ragdolls) `0.7.5`
+- [Separate Sable Render Distance (Create Aeronautics Addon)](https://modrinth.com/project/ssrd) `1.8.6`
 - [ServerCore](https://modrinth.com/project/servercore) `1.5.19+1.21.1`
 - [Simple Voice Chat](https://modrinth.com/project/simple-voice-chat) `neoforge-1.21.1-2.6.24`
 - [SnAssets Library - General](https://modrinth.com/project/snassets-library-general) `snassets-general-1.0.2`

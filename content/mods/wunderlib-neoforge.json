@@ -1,0 +1,28 @@
+{
+  "name": "WunderLib: New Dawn",
+  "side": "auto",
+  "explicit": false,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "HZmhgdJk",
+      "slug": "wunderlib-neoforge",
+      "versionId": "5db3GZzg",
+      "versionNumber": "21.0.10",
+      "filename": "wunderlib-21.0.10.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/HZmhgdJk/versions/5db3GZzg/wunderlib-21.0.10.jar",
+      "sha1": "330ab9d6d8d92a9337e97ef22e64f83fe2d4bf2a",
+      "sha512": "8785b16968ed82ead0fc3f6f42ca3dd7fa94b94a79eeb97a61e57b258bf8c0e6775002a561cf28a1840216bd06f3b86a31da420d4ccc2d37c14abe22058bdf96",
+      "fileSize": 378820
+    }
+  },
+  "dependents": [
+    "7bdKEtKC",
+    "IcERKldh",
+    "R8uGDQpB",
+    "fxX3RlL5"
+  ],
+  "clientSide": "required",
+  "serverSide": "required"
+}

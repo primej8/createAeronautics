@@ -9,6 +9,10 @@
       "sha1": "a68698f652480a4afea98509ad5bd8d2bfefdbb8"
     },
     {
+      "path": "content/mods/aero_cam_sync.json",
+      "sha1": "7ab668d27fd312ffed480258d539456082e12a6a"
+    },
+    {
       "path": "content/mods/amendments.json",
       "sha1": "0014b22ae0a6c63939501f0e56b6a433aa27256a"
     },
@@ -45,12 +49,24 @@
       "sha1": "6fcb0f00cc6ed8d2a9fefa660b9b0193cb7be4cf"
     },
     {
+      "path": "content/mods/bclib-neoforge.json",
+      "sha1": "7d79728c0700ed804d5fefbf2804ce6029eaa993"
+    },
+    {
       "path": "content/mods/better-advanced-tooltips.json",
       "sha1": "219624a10fd5fac1e6b3bb6414af9353dc12ec34"
     },
     {
       "path": "content/mods/better-clouds.json",
       "sha1": "55a9604bf4d269e6650f10f7498576a56aead2e4"
+    },
+    {
+      "path": "content/mods/betterend-neoforge.json",
+      "sha1": "ad28e01117b3f0c0c8c3ca43aea673935c367a93"
+    },
+    {
+      "path": "content/mods/betternether-neoforge.json",
+      "sha1": "0687d6d927af49e6daa4a50d9bf46336ff504f30"
     },
     {
       "path": "content/mods/c2me-neoforge.json",
@@ -142,7 +158,7 @@
     },
     {
       "path": "content/mods/create-aeronautics.json",
-      "sha1": "063d499729a8e5e9dba35553814fe8eeefa117ad"
+      "sha1": "b67f36bd326a41ee0a7dfde4601915a89172764a"
     },
     {
       "path": "content/mods/create-aeroworks.json",
@@ -250,7 +266,7 @@
     },
     {
       "path": "content/mods/create.json",
-      "sha1": "0aec449dcdf95b729d9df7604afc6b71d828f4f7"
+      "sha1": "b0e7c699e18d1181430356101238116fbccb1ac7"
     },
     {
       "path": "content/mods/creeper-firework.json",
@@ -298,7 +314,7 @@
     },
     {
       "path": "content/mods/emi.json",
-      "sha1": "01d6713816540f26d16fcf598b9b6c845b9ce611"
+      "sha1": "e37e8299b54174b3548be216aa65165f0ed8c170"
     },
     {
       "path": "content/mods/emiffect.json",
@@ -337,8 +353,24 @@
       "sha1": "88bf7c0ad95c1d24f25075ecb5180cd5feeedf6a"
     },
     {
+      "path": "content/mods/farmers-cutting-betterend.json",
+      "sha1": "e6cb4e46f5f9ae3e6eb6be65a1829dff1ea3d0e0"
+    },
+    {
+      "path": "content/mods/farmers-cutting-betternether.json",
+      "sha1": "217702a8864165bab2d6ad8d91283ed4b4af903b"
+    },
+    {
+      "path": "content/mods/farmers-cutting-oh-the-biomes-weve-gone.json",
+      "sha1": "1563f7180a84bc84b4906d6e8222f49c9d07f3e7"
+    },
+    {
+      "path": "content/mods/farmers-cutting-quark.json",
+      "sha1": "264d7fc9fa2059e1d584d2e8e8bb55711f82a5fd"
+    },
+    {
       "path": "content/mods/farmers-delight.json",
-      "sha1": "3cee49375af39d4e046fcb0bb7e7783641190235"
+      "sha1": "6f69fa240f649525f28ea19bca08d799f0d4c519"
     },
     {
       "path": "content/mods/feature-recycler.json",
@@ -351,6 +383,10 @@
     {
       "path": "content/mods/forgified-fabric-api.json",
       "sha1": "ba21db43af58db9abecf282b62e4717a7dd54ede"
+    },
+    {
+      "path": "content/mods/frequency-create.json",
+      "sha1": "af5ca886ba84100d94f4568859319c9b3ba271b9"
     },
     {
       "path": "content/mods/fzzy-config.json",
@@ -402,7 +438,7 @@
     },
     {
       "path": "content/mods/jei.json",
-      "sha1": "d82cc28a49e5b677cdcdf24aa8f86f581cda5060"
+      "sha1": "132561e1fa500d1a50c82b253603a4fecd60794b"
     },
     {
       "path": "content/mods/just-zoom.json",
@@ -478,7 +514,7 @@
     },
     {
       "path": "content/mods/oh-the-biomes-weve-gone.json",
-      "sha1": "fce217d9b6bf2a0b6c125808d0e4584c5e4da9ab"
+      "sha1": "31128ce5f1de5e50ad0a34162473b4ee04599966"
     },
     {
       "path": "content/mods/oh-the-trees-youll-grow.json",
@@ -491,6 +527,18 @@
     {
       "path": "content/mods/ponder.json",
       "sha1": "453c4627a1f8ea3d703f9c28ce19e9f95c197c99"
+    },
+    {
+      "path": "content/mods/quark-oddities.json",
+      "sha1": "18ddfd028fc4d53570142c00245681843e8e6935"
+    },
+    {
+      "path": "content/mods/quark.json",
+      "sha1": "b397ee8deaad29a0ba6072adec29a7ef371932d9"
+    },
+    {
+      "path": "content/mods/ragdoll-reactions.json",
+      "sha1": "7898c5a6d4f8963188b70676f0025e14e17b6c5f"
     },
     {
       "path": "content/mods/reeses-sodium-options.json",
@@ -517,8 +565,28 @@
       "sha1": "ad7da09346694af145fac796ead3aa9c5aefa514"
     },
     {
+      "path": "content/mods/sable-far-and-wide.json",
+      "sha1": "14ec2bc9b2813f5f631c53350caecbd1e5b9d456"
+    },
+    {
+      "path": "content/mods/sable-ragdoll-corpse.json",
+      "sha1": "fc6379e62edb70a6251f2c8c62665b452985badf"
+    },
+    {
+      "path": "content/mods/sable-ragdolls.json",
+      "sha1": "e4f6c9de92d3d9db12c6808acf3256ddbd954e63"
+    },
+    {
       "path": "content/mods/sable.json",
-      "sha1": "0436428305dbc41a53dfa46914fc7e7dce2806cb"
+      "sha1": "873bc9671c31133d329bc7a4f11bdc9f01741837"
+    },
+    {
+      "path": "content/mods/sable_beyond.json",
+      "sha1": "7b230af10d33bc8f50966ab7737735728bdcf515"
+    },
+    {
+      "path": "content/mods/sablecompat.json",
+      "sha1": "8a7965f1ce38c8e3c2228e84e0ca6482cbafc01e"
     },
     {
       "path": "content/mods/searchables.json",
@@ -546,7 +614,11 @@
     },
     {
       "path": "content/mods/sodium.json",
-      "sha1": "551eba685b4b627b2340fdcc6392ebe6f1d3d01e"
+      "sha1": "abc0ebaae0711eec56061de3191c0b3bcdd77719"
+    },
+    {
+      "path": "content/mods/ssrd.json",
+      "sha1": "3b481633d174a200f9f3f26a7ba983515c437c4f"
     },
     {
       "path": "content/mods/structure-layout-optimizer.json",
@@ -598,7 +670,7 @@
     },
     {
       "path": "content/mods/voxy.json",
-      "sha1": "f8c4bc6282368ee54ee124ae5b30ae35361fd0c9"
+      "sha1": "3193bfc39c2b93f67256abecc487482e5b4037ab"
     },
     {
       "path": "content/mods/vs-hose-connectors.json",
@@ -607,6 +679,14 @@
     {
       "path": "content/mods/when-dungeons-arise.json",
       "sha1": "b230a972e90c10523144501faa240dc678924dad"
+    },
+    {
+      "path": "content/mods/worldweaver-neoforge.json",
+      "sha1": "977a25c334465d65789b21fc0e1e920253be0907"
+    },
+    {
+      "path": "content/mods/wunderlib-neoforge.json",
+      "sha1": "dea54a00d4ce467ad5b849400d2c508a14ee743b"
     },
     {
       "path": "content/mods/xaeros-minimap.json",
@@ -671,6 +751,10 @@
     {
       "path": "content/mods/yungs-extras.json",
       "sha1": "90bf71325adcf8f823a65631a7f115729632b3f2"
+    },
+    {
+      "path": "content/mods/zeta.json",
+      "sha1": "def9c3e5736eac01b830527eb7a0988dbe3ba251"
     },
     {
       "path": "content/mods/zfastnoise.json",

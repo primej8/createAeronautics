@@ -1,0 +1,27 @@
+{
+  "name": "BCLib: New Dawn",
+  "side": "auto",
+  "explicit": false,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "7bdKEtKC",
+      "slug": "bclib-neoforge",
+      "versionId": "QkXw8Fsl",
+      "versionNumber": "21.0.26",
+      "filename": "bclib-21.0.26.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/7bdKEtKC/versions/QkXw8Fsl/bclib-21.0.26.jar",
+      "sha1": "06cc971fd149d7dae65c75792798b98be7439141",
+      "sha512": "0724010228a724c77b021676310e96e6d428a5df1f66890ee11b74ea1c2592bdaf9be250bcdbd0eb8bf4a1d4d0c5bddde06fca5ab5d6d700be19d0c86fe67bf2",
+      "fileSize": 2159176
+    }
+  },
+  "dependents": [
+    "IcERKldh",
+    "R8uGDQpB",
+    "fxX3RlL5"
+  ],
+  "clientSide": "required",
+  "serverSide": "required"
+}

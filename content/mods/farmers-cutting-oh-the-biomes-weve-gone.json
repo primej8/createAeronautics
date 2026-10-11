@@ -1,0 +1,23 @@
+{
+  "name": "Farmer's Cutting: Oh The Biomes We've Gone",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "ickBpNUE",
+      "slug": "farmers-cutting-oh-the-biomes-weve-gone",
+      "versionId": "HxjFzjdy",
+      "versionNumber": "1.21.1-2.1-neoforge+mod",
+      "filename": "farmers-cutting-oh-the-biomes-weve-gone-1.21.1-2.1-neoforge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/ickBpNUE/versions/HxjFzjdy/farmers-cutting-oh-the-biomes-weve-gone-1.21.1-2.1-neoforge.jar",
+      "sha1": "add7e0e1a8dd747ada512c8d0763ef952e962bcc",
+      "sha512": "2448f3db7a67bc0fdf8a1bd809a12cba4f2d1dc4f12aa8430f3e8977421bcb8ac871b19ca9041fbcfc16f499f08bc21ac8a7da5964b9f81554c71a6d25f8fb27",
+      "fileSize": 100636
+    }
+  },
+  "dependents": [],
+  "clientSide": "optional",
+  "serverSide": "required"
+}

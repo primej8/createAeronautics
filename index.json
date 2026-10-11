@@ -646,7 +646,7 @@
     },
     {
       "path": "content/mods/supplementaries.json",
-      "sha1": "002f97d23da0c8b389a5792e56b93d85fea4e05c"
+      "sha1": "b8f51b8fe3eb373d0e27ea6dbe5bd01df35cf1a2"
     },
     {
       "path": "content/mods/tectonic.json",
@@ -679,10 +679,6 @@
     {
       "path": "content/mods/vista_tv.json",
       "sha1": "5e885546cced2bf0ec564eec66bc75842995fcf7"
-    },
-    {
-      "path": "content/mods/voxy-server-side.json",
-      "sha1": "5c6fe4deeae0c1edcf65ad4ed714558391c014a9"
     },
     {
       "path": "content/mods/voxy.json",

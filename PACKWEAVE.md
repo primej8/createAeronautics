@@ -1,6 +1,6 @@
 # createAeronautics
 
-**Minecraft 1.21.1 · neoforge 21.1.258**, 159 mods (37 dependencies), 2 resource packs, 2 shaders
+**Minecraft 1.21.1 · neoforge 21.1.258**, 158 mods (37 dependencies), 2 resource packs, 2 shaders
 
 ## Contents
 
@@ -140,7 +140,7 @@
 - [Steam 'n' Rails Neoforge](https://modrinth.com/project/create-steam-n-rails-1.21.1) `0.3.0-beta.2+neoforge-mc1.21.1`
 - [Structure Layout Optimizer](https://modrinth.com/project/structure-layout-optimizer) `1.0.12+1.21.1-neoforge`
 - [Structurify - Structure Control](https://modrinth.com/project/structurify) `neoforge-2.0.42+mc1.21.1`
-- [Supplementaries](https://modrinth.com/project/supplementaries) `1.21.1-3.9.9`
+- [Supplementaries](https://modrinth.com/project/supplementaries) `1.21.1-4.0.0`
 - [Supplementaries Squared](https://modrinth.com/project/supplementaries-squared) `1.21-1.2.18`
 - [Tectonic](https://modrinth.com/project/tectonic) `3.0.28-neoforge-21.1`
 - [Terralith](https://modrinth.com/project/terralith) `2.6.2`
@@ -150,7 +150,6 @@
 - [vista](https://modrinth.com/project/vista_tv) `1.21.1-5.5.7`
 - [Vista - All The Cassettes](https://modrinth.com/project/vista-all-the-cassettes) `1.2.0+neoforge.mc1.21.1`
 - [Vista: Recipes](https://modrinth.com/project/vista-recipes) `v3.1`
-- [Voxy Server Side](https://modrinth.com/project/voxy-server-side) `0.17.0`
 - [VS / Sable Hose Connectors](https://modrinth.com/project/vs-hose-connectors) `0.2.1`
 - [When Dungeons Arise](https://modrinth.com/project/when-dungeons-arise) `2.1.68`
 - [Xaero's Minimap](https://modrinth.com/project/xaeros-minimap) `neoforge-1.21.1-26.6.0`

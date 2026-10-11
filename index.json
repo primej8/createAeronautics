@@ -578,7 +578,7 @@
     },
     {
       "path": "content/mods/sable.json",
-      "sha1": "873bc9671c31133d329bc7a4f11bdc9f01741837"
+      "sha1": "2c4c0e742b2d1302f1fe765f90695bfd9fd04676"
     },
     {
       "path": "content/mods/sable_beyond.json",
@@ -587,6 +587,10 @@
     {
       "path": "content/mods/sablecompat.json",
       "sha1": "8a7965f1ce38c8e3c2228e84e0ca6482cbafc01e"
+    },
+    {
+      "path": "content/mods/sableedit.json",
+      "sha1": "c70560a92c7d129e7f52c104f6891c85ebedbe3b"
     },
     {
       "path": "content/mods/searchables.json",
@@ -679,6 +683,10 @@
     {
       "path": "content/mods/when-dungeons-arise.json",
       "sha1": "b230a972e90c10523144501faa240dc678924dad"
+    },
+    {
+      "path": "content/mods/worldedit.json",
+      "sha1": "6c5ad5f65ad0094c87138d256bcb02eb77a1d8ea"
     },
     {
       "path": "content/mods/worldweaver-neoforge.json",

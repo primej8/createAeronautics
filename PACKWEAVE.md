@@ -1,6 +1,6 @@
 # createAeronautics
 
-**Minecraft 1.21.1 · neoforge 21.1.258**, 156 mods (35 dependencies), 2 resource packs, 2 shaders
+**Minecraft 1.21.1 · neoforge 21.1.258**, 157 mods (36 dependencies), 2 resource packs, 2 shaders
 
 ## Contents
 
@@ -128,6 +128,7 @@
 - [Sable: Physics Compat](https://modrinth.com/project/sablecompat) `1.3.0`
 - [Sable: Ragdoll Corpse](https://modrinth.com/project/sable-ragdoll-corpse) `0.3.0`
 - [Sable: Ragdolls](https://modrinth.com/project/sable-ragdolls) `0.7.5`
+- [SableEdit](https://modrinth.com/project/sableedit) `0.0.4`
 - [Separate Sable Render Distance (Create Aeronautics Addon)](https://modrinth.com/project/ssrd) `1.8.6`
 - [ServerCore](https://modrinth.com/project/servercore) `1.5.19+1.21.1`
 - [Simple Voice Chat](https://modrinth.com/project/simple-voice-chat) `neoforge-1.21.1-2.6.24`

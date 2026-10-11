@@ -138,7 +138,7 @@
     },
     {
       "path": "content/mods/create-aeronautics.json",
-      "sha1": "c03c30365a3db826d20fe96e2f315fbba7be5678"
+      "sha1": "92c99a1647b42e36037830a6a8d616b88f51aa72"
     },
     {
       "path": "content/mods/create-aeroworks.json",
@@ -246,7 +246,7 @@
     },
     {
       "path": "content/mods/create.json",
-      "sha1": "18a641413e8b1025083be718493504fe9e0d39fb"
+      "sha1": "7905053e7b1ded469e558190811cd66f7e61e460"
     },
     {
       "path": "content/mods/creeper-firework.json",
@@ -393,6 +393,10 @@
       "sha1": "6c9a723bb1be4ad66bdd8af0d0cc902b49440f71"
     },
     {
+      "path": "content/mods/jei.json",
+      "sha1": "3bdbc2913d2286b07cada497c97fc22745ad3abc"
+    },
+    {
       "path": "content/mods/just-zoom.json",
       "sha1": "0bf436a4a110513d8eed188982b4bc97f5b22e15"
     },
@@ -427,6 +431,10 @@
     {
       "path": "content/mods/lootr.json",
       "sha1": "ff2f6fc2795c6a0443de463b782c05f258570c51"
+    },
+    {
+      "path": "content/mods/mezzconfig.json",
+      "sha1": "e0a192fbdabdb943fcbd392fae7426167f8af712"
     },
     {
       "path": "content/mods/modernfix.json",
@@ -498,7 +506,7 @@
     },
     {
       "path": "content/mods/sable.json",
-      "sha1": "4d92975e8af30b39c9147a8d998a606b95165062"
+      "sha1": "a5ee8ad3f99dfc5b86b61a2cdab95c6208fa19be"
     },
     {
       "path": "content/mods/searchables.json",

@@ -1,6 +1,6 @@
 # createAeronautics
 
-**Minecraft 1.21.1 · neoforge 21.1.258**, 135 mods (31 dependencies), 1 resource pack, 2 shaders
+**Minecraft 1.21.1 · neoforge 21.1.258**, 136 mods (32 dependencies), 1 resource pack, 2 shaders
 
 ## Contents
 
@@ -93,6 +93,7 @@
 - [Iris Veil Compat](https://modrinth.com/project/iris-veil-compat) `1.21.1+0.4.0-alpha`
 - [Jade Addons (Neo/Forge)](https://modrinth.com/project/jade-addons-forge) `6.1.2+neoforge`
 - [Jade 🔍](https://modrinth.com/project/jade) `15.10.6+neoforge`
+- [Just Enough Items (JEI)](https://modrinth.com/project/jei) `19.57.0.451`
 - [Just Zoom](https://modrinth.com/project/just-zoom) `3.0.1-1.21.1-neoforge`
 - [LambDynamicLights - Dynamic Lights](https://modrinth.com/project/lambdynamiclights) `4.8.11+1.21.1`
 - [LDLib](https://modrinth.com/project/ldlib) `mc1.21.1-2.2.42-neoforge`

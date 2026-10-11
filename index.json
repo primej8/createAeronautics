@@ -691,6 +691,10 @@
     {
       "path": "content/shaders/photon-shader.json",
       "sha1": "6ba85d9304eb852257e16ea980c8d7682e2f4b36"
+    },
+    {
+      "path": "overrides/packweaver.jar",
+      "sha1": "2bcc5a3596a57d4ae2752a0b61645f36e048a5a4"
     }
   ]
 }

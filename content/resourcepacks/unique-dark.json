@@ -1,0 +1,23 @@
+{
+  "name": "Unique Dark",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "BaY1UdGV",
+      "slug": "unique-dark",
+      "versionId": "qVSXehMX",
+      "versionNumber": "2.9.1",
+      "filename": "Unique Dark - Lite - 1.20.2-26.x.zip",
+      "downloadUrl": "https://cdn.modrinth.com/data/BaY1UdGV/versions/qVSXehMX/Unique%20Dark%20-%20Lite%20-%201.20.2-26.x.zip",
+      "sha1": "c6e5c35d47d9a0016fd3c878019ba6e07e1fa13e",
+      "sha512": "b7de6dafd4abec6168ce7e6b36f819f3a3b8cf851b17479768a5da1432a36c1a07554ceabd93f5407ea1827ac362fc758e44c9f8478bb87af352c48df2681f33",
+      "fileSize": 9595909
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

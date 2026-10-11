@@ -1,0 +1,23 @@
+{
+  "name": "Photon Shaders",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "lLqFfGNs",
+      "slug": "photon-shader",
+      "versionId": "gUv7fBPN",
+      "versionNumber": "v1.3b",
+      "filename": "photon_v1.3b.zip",
+      "downloadUrl": "https://cdn.modrinth.com/data/lLqFfGNs/versions/gUv7fBPN/photon_v1.3b.zip",
+      "sha1": "d975d25c9686de5f10e8b86c8518613cdf3f040a",
+      "sha512": "40bcbac9c656f2965f543e4b35cd0698723b2db8b67662f1b53c14223cfbef7d60d7fbf0176f73fcadd0d1e19ba60d951ed77e9eece8c8df7dca4d2be6315309",
+      "fileSize": 3800987
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

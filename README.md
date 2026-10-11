@@ -1,6 +1,6 @@
 # createAeronautics
 
-**Minecraft 1.21.1 · neoforge 21.1.258**, 116 mods (21 dependencies)
+**Minecraft 1.21.1 · neoforge 21.1.258**, 118 mods (21 dependencies), 1 resource pack, 2 shaders
 
 ## Contents
 
@@ -14,7 +14,6 @@
 - [Ars Sable](https://modrinth.com/project/ars-sable) `1.2.0`
 - [Ars Unification](https://modrinth.com/project/ars-unification) `1.2.21`
 - [Ars Énergistique](https://modrinth.com/project/ars-energistique) `2.1.1-beta`
-- [C2ME OpenCL Acceleration Module](https://modrinth.com/project/c2me-ocl) `0.4.0-alpha.0.122+1.21.1`
 - [Carry On](https://modrinth.com/project/carry-on) `2.2.6`
 - [Carry On Extend](https://modrinth.com/project/carry-on-extend) `1.5.2`
 - [CC: Create Redstone Link](https://modrinth.com/project/ccc-redstone-link) `0.1.1`
@@ -26,8 +25,10 @@
 - [CIDE-CC](https://modrinth.com/project/cide-cc) `1.1.0`
 - [Colorwheel](https://modrinth.com/project/colorwheel) `1.3.0+mc1.21.1`
 - [Colorwheel Patcher](https://modrinth.com/project/colorwheel-patcher) `1.0.5+mc1.21.1`
+- [Complementary Shaders - Reimagined](https://modrinth.com/project/complementary-reimagined) `r5.9.3`
 - [Concurrent Chunk Management Engine (NeoForge)](https://modrinth.com/project/c2me-neoforge) `0.4.0-alpha.0.122+1.21.1`
 - [Contraption Lights (Bi-directional Coloured Dynamic Lights)](https://modrinth.com/project/contraption-lights) `1.5.3`
+- [Controlling](https://modrinth.com/project/controlling) `19.0.5`
 - [Copycats+ aeronautics weight](https://modrinth.com/project/copycats+-aeronautics-weight) `1.1.1`
 - [Crash Assistant](https://modrinth.com/project/crash-assistant) `1.11.12`
 - [Create](https://modrinth.com/project/create) `6.0.10+mc1.21.1`
@@ -54,6 +55,7 @@
 - [Create: Diesel Generators](https://modrinth.com/project/create-diesel-generators) `1.21.1-1.3.15`
 - [Create: Easy Stock Ticker](https://modrinth.com/project/create-easy-stock-ticker) `1.1.2`
 - [Create: Enchantment Industry](https://modrinth.com/project/create-enchantment-industry) `2.5.4b`
+- [Create: Flight Control](https://modrinth.com/project/create-flight-control) `0.7.7`
 - [Create: Mobile Packages](https://modrinth.com/project/create-mobile-packages) `1.21.1-0.7.8`
 - [Create: Numismatics](https://modrinth.com/project/numismatics) `1.1.0+neoforge-mc1.21.1`
 - [Create: Redstone Link GUI](https://modrinth.com/project/create-redstone-link-gui) `1.21.1-1.9.2`
@@ -99,11 +101,13 @@
 - [Not Enough Animations](https://modrinth.com/project/not-enough-animations) `1.12.6`
 - [Not Enough Crashes](https://modrinth.com/project/notenoughcrashes) `4.4.9+1.21.1-neoforge`
 - [Not Enough Glyphs](https://modrinth.com/project/not-enough-glyphs) `4.6.2`
+- [Photon Shaders](https://modrinth.com/project/photon-shader) `v1.3b`
 - [Ponder for KubeJS](https://modrinth.com/project/ponder) `1.21.1-2.4.0+neoforge`
 - [Reese's Sodium Options](https://modrinth.com/project/reeses-sodium-options) `mc1.21.1-2.2.4+neoforge`
 - [Reliable EMI (REMI)](https://modrinth.com/project/reliable-emi) `4.7.9-1.21.1-neoforge`
 - [ServerCore](https://modrinth.com/project/servercore) `1.5.19+1.21.1`
 - [Simple Voice Chat](https://modrinth.com/project/simple-voice-chat) `neoforge-1.21.1-2.6.24`
+- [SnAssets Library - General](https://modrinth.com/project/snassets-library-general) `snassets-general-1.0.2`
 - [Sodium](https://modrinth.com/project/sodium) `mc1.21.1-0.8.13-neoforge`
 - [Sodium Extra](https://modrinth.com/project/sodium-extra) `mc1.21.1-0.9.4+neoforge`
 - [Steam 'n' Rails Neoforge](https://modrinth.com/project/create-steam-n-rails-1.21.1) `0.3.0-beta.2+neoforge-mc1.21.1`
@@ -113,6 +117,7 @@
 - [Supplementaries Squared](https://modrinth.com/project/supplementaries-squared) `1.21-1.2.18`
 - [Tectonic](https://modrinth.com/project/tectonic) `3.0.28-neoforge-21.1`
 - [Terralith](https://modrinth.com/project/terralith) `2.6.2`
+- [Unique Dark](https://modrinth.com/project/unique-dark) `2.9.1`
 - [Veil](https://modrinth.com/project/veil) `4.5.2`
 - [vista](https://modrinth.com/project/vista_tv) `1.21.1-5.5.7`
 - [Vista - All The Cassettes](https://modrinth.com/project/vista-all-the-cassettes) `1.2.0+neoforge.mc1.21.1`

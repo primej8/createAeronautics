@@ -1,0 +1,23 @@
+{
+  "name": "Create: Flight Control",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "IGVrnkhH",
+      "slug": "create-flight-control",
+      "versionId": "act82pgK",
+      "versionNumber": "0.7.7",
+      "filename": "create_flight_control-neoforge-0.7.7.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/IGVrnkhH/versions/act82pgK/create_flight_control-neoforge-0.7.7.jar",
+      "sha1": "75e29167fcecef20a213631cf9cf0abfcbdb83cd",
+      "sha512": "31b430b7977cf9fe3192a82b44f72c22d1e379702c93319abbb4901aede9ae79202d830ba2d4c346524d6f07c8f4c469ae8a1c3523a467e994e05a70a8de43ea",
+      "fileSize": 4318917
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

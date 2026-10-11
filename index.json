@@ -50,11 +50,7 @@
     },
     {
       "path": "content/mods/c2me-neoforge.json",
-      "sha1": "cf86b534e885361719395da167eac8af05d9e65d"
-    },
-    {
-      "path": "content/mods/c2me-ocl.json",
-      "sha1": "d5dc11951d250628582590f78de34a857e92291f"
+      "sha1": "7b2a70c8c93d9b892c1a7f4f64faf77793c9d945"
     },
     {
       "path": "content/mods/carry-on-extend.json",
@@ -107,6 +103,10 @@
     {
       "path": "content/mods/contraption-lights.json",
       "sha1": "2829ea079327165d085c137fd0ed74c733c032f7"
+    },
+    {
+      "path": "content/mods/controlling.json",
+      "sha1": "8186006ede3e1d54e6b01519383fa47e31a8e0bd"
     },
     {
       "path": "content/mods/copycats--aeronautics-weight.json",
@@ -195,6 +195,10 @@
     {
       "path": "content/mods/create-enchantment-industry.json",
       "sha1": "3612b19614f8acd5793add6c6e5f0d72154808cf"
+    },
+    {
+      "path": "content/mods/create-flight-control.json",
+      "sha1": "c650bd6981530a33771cab2de9e82cc65e6b2a55"
     },
     {
       "path": "content/mods/create-jetpack.json",
@@ -461,6 +465,10 @@
       "sha1": "4d92975e8af30b39c9147a8d998a606b95165062"
     },
     {
+      "path": "content/mods/searchables.json",
+      "sha1": "491f599c58d0dc0fb63f23652dc60d7455b70aa5"
+    },
+    {
       "path": "content/mods/servercore.json",
       "sha1": "2328497721535ee60efb4fd934e0d868e54620d6"
     },
@@ -471,6 +479,10 @@
     {
       "path": "content/mods/slice-and-dice.json",
       "sha1": "552ab5e0c725aaba692c928e3d7bb145b2a3e670"
+    },
+    {
+      "path": "content/mods/snassets-library-general.json",
+      "sha1": "5de1c85f64eedb38c2dfad1281bc9d3190b3834b"
     },
     {
       "path": "content/mods/sodium-extra.json",
@@ -539,6 +551,18 @@
     {
       "path": "content/mods/zfastnoise.json",
       "sha1": "757320931c822e7a1e38edb991436e7f96d9123a"
+    },
+    {
+      "path": "content/resourcepacks/unique-dark.json",
+      "sha1": "5f8c0cb0a4fd854af16589c4630ef621ec03f25d"
+    },
+    {
+      "path": "content/shaders/complementary-reimagined.json",
+      "sha1": "92b32bfb110af5b6eaf485c2cc122435eebd2f9f"
+    },
+    {
+      "path": "content/shaders/photon-shader.json",
+      "sha1": "6ba85d9304eb852257e16ea980c8d7682e2f4b36"
     }
   ]
 }

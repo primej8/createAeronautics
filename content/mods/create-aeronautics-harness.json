@@ -1,0 +1,22 @@
+{
+  "name": "Create Aeronautics: Harness",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "1590651",
+      "slug": "create-aeronautics-harness",
+      "versionId": "8350008",
+      "versionNumber": "CreateAeronauticsHarness-1.21.1-1.0.1.jar",
+      "filename": "CreateAeronauticsHarness-1.21.1-1.0.1.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/8350/8/CreateAeronauticsHarness-1.21.1-1.0.1.jar",
+      "sha1": "0adc35650c48aa7327d2e0d702b8d7626209da38",
+      "fileSize": 540834
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

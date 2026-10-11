@@ -133,8 +133,12 @@
       "sha1": "650cf53b4f0d7f5e8c4ed655fd78ae4c6631bcc1"
     },
     {
+      "path": "content/mods/create-aeronautics-harness.json",
+      "sha1": "c80de930be94e7d9faf84f358bc83b849d25fd7d"
+    },
+    {
       "path": "content/mods/create-aeronautics.json",
-      "sha1": "718a4d9003f398958f385362aff999e46844e6ae"
+      "sha1": "c03c30365a3db826d20fe96e2f315fbba7be5678"
     },
     {
       "path": "content/mods/create-aeroworks.json",
@@ -217,6 +221,10 @@
       "sha1": "d692d7cc685b6ba57e8e8c2090cd0e51264cb268"
     },
     {
+      "path": "content/mods/create-propulsion-simulated.json",
+      "sha1": "96bdbdb77fdd11821d2e58159864130209b46a1f"
+    },
+    {
       "path": "content/mods/create-rail-grinding.json",
       "sha1": "fad589ed1a77625ed6283f4eaa2ee5a0e7461fc0"
     },
@@ -238,7 +246,7 @@
     },
     {
       "path": "content/mods/create.json",
-      "sha1": "dc057c7dc04699d1c4a9eda28a16cc4771347d56"
+      "sha1": "18a641413e8b1025083be718493504fe9e0d39fb"
     },
     {
       "path": "content/mods/creeper-firework.json",

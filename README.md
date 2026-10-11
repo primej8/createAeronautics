@@ -1,6 +1,6 @@
 # createAeronautics
 
-**Minecraft 1.21.1 · neoforge 21.1.258**, 135 mods (26 dependencies), 1 resource pack, 2 shaders
+**Minecraft 1.21.1 · neoforge 21.1.258**, 135 mods (31 dependencies), 1 resource pack, 2 shaders
 
 ## Contents
 
@@ -31,10 +31,9 @@
 - [Controlling](https://modrinth.com/project/controlling) `19.0.5`
 - [Copycats+ aeronautics weight](https://modrinth.com/project/copycats+-aeronautics-weight) `1.1.1`
 - [Crash Assistant](https://modrinth.com/project/crash-assistant) `1.11.12`
-- [Create](https://modrinth.com/project/create) `6.0.10+mc1.21.1`
-- [Create Aeronautics](https://modrinth.com/project/create-aeronautics) `1.3.2+mc1.21.1`
 - [Create Aeronautics: Delivery Required](https://modrinth.com/project/create-aeronautics-delivery-required) `1.0.2`
 - [Create Aeronautics: Gadgets & Gizmos](https://modrinth.com/project/create-aeronautics-gadgets-and-gizmos) `2.0.0-Beta-2`
+- Create Aeronautics: Harness `CreateAeronauticsHarness-1.21.1-1.0.1.jar` (curseforge)
 - [Create Big Cannons](https://modrinth.com/project/create-big-cannons) `5.11.7`
 - [Create Cosmonautics](https://modrinth.com/project/create-cosmonatics) `26.08.307`
 - [Create Cosmonautics Expansion](https://modrinth.com/project/create-cosmonautics-expansion) `1.0.0`
@@ -42,6 +41,7 @@
 - [Create Deep Seas](https://modrinth.com/project/create-deep-seas) `3.3.0`
 - [Create Jetpack](https://modrinth.com/project/create-jetpack) `5.2.1`
 - [Create Pocket Sized](https://modrinth.com/project/create-pocket-sized) `0.20.0`
+- [Create Propulsion: Simulated](https://modrinth.com/project/create-propulsion-simulated) `1.1.5`
 - [Create Slice & Dice](https://modrinth.com/project/slice-and-dice) `4.3.4`
 - [Create Stock Bridge](https://modrinth.com/project/create-stock-bridge) `1.21.1-0.2.0`
 - [Create: Aeroworks](https://modrinth.com/project/create-aeroworks) `1.5.0+mc1.21.1`

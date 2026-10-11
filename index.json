@@ -49,6 +49,10 @@
       "sha1": "219624a10fd5fac1e6b3bb6414af9353dc12ec34"
     },
     {
+      "path": "content/mods/better-clouds.json",
+      "sha1": "55a9604bf4d269e6650f10f7498576a56aead2e4"
+    },
+    {
       "path": "content/mods/c2me-neoforge.json",
       "sha1": "c5f827fd4634e9bc9f26ac048ed7f79e7467bfda"
     },
@@ -138,7 +142,7 @@
     },
     {
       "path": "content/mods/create-aeronautics.json",
-      "sha1": "c03c30365a3db826d20fe96e2f315fbba7be5678"
+      "sha1": "92c99a1647b42e36037830a6a8d616b88f51aa72"
     },
     {
       "path": "content/mods/create-aeroworks.json",
@@ -514,7 +518,7 @@
     },
     {
       "path": "content/mods/sable.json",
-      "sha1": "4d92975e8af30b39c9147a8d998a606b95165062"
+      "sha1": "a5ee8ad3f99dfc5b86b61a2cdab95c6208fa19be"
     },
     {
       "path": "content/mods/searchables.json",
@@ -614,7 +618,7 @@
     },
     {
       "path": "content/mods/yacl.json",
-      "sha1": "f6cd0b6edeb642adedb67570da2ee49814b1b1d2"
+      "sha1": "1c434d251cec8153b3d5548e3d32e1caa1c7312c"
     },
     {
       "path": "content/mods/yungs-api.json",

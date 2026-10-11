@@ -1,6 +1,6 @@
 # createAeronautics
 
-**Minecraft 1.21.1 · neoforge 21.1.258**, 138 mods (34 dependencies), 1 resource pack, 2 shaders
+**Minecraft 1.21.1 · neoforge 21.1.258**, 139 mods (34 dependencies), 1 resource pack, 2 shaders
 
 ## Contents
 
@@ -14,6 +14,7 @@
 - [Ars Sable](https://modrinth.com/project/ars-sable) `1.2.0`
 - [Ars Unification](https://modrinth.com/project/ars-unification) `1.2.21`
 - [Ars Énergistique](https://modrinth.com/project/ars-energistique) `2.1.1-beta`
+- [Better Clouds](https://modrinth.com/project/better-clouds) `1.13.11+1.21.1-neoforge-release`
 - [Carry On](https://modrinth.com/project/carry-on) `2.2.6`
 - [Carry On Extend](https://modrinth.com/project/carry-on-extend) `1.5.2`
 - [CC: Create Redstone Link](https://modrinth.com/project/ccc-redstone-link) `0.1.1`

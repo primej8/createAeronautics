@@ -1,6 +1,6 @@
 # createAeronautics
 
-**Minecraft 1.21.1 · neoforge 21.1.258**, 111 mods (18 dependencies)
+**Minecraft 1.21.1 · neoforge 21.1.258**, 116 mods (21 dependencies)
 
 ## Contents
 
@@ -29,6 +29,7 @@
 - [Concurrent Chunk Management Engine (NeoForge)](https://modrinth.com/project/c2me-neoforge) `0.4.0-alpha.0.122+1.21.1`
 - [Contraption Lights (Bi-directional Coloured Dynamic Lights)](https://modrinth.com/project/contraption-lights) `1.5.3`
 - [Copycats+ aeronautics weight](https://modrinth.com/project/copycats+-aeronautics-weight) `1.1.1`
+- [Crash Assistant](https://modrinth.com/project/crash-assistant) `1.11.12`
 - [Create](https://modrinth.com/project/create) `6.0.10+mc1.21.1`
 - [Create Aeronautics](https://modrinth.com/project/create-aeronautics) `1.3.2+mc1.21.1`
 - [Create Aeronautics: Delivery Required](https://modrinth.com/project/create-aeronautics-delivery-required) `1.0.2`
@@ -59,6 +60,7 @@
 - [Create: Rolling Tones](https://modrinth.com/project/create-rolling-tones) `rolling_tones_0.2.2`
 - [Create: Train Track Rail Grinding](https://modrinth.com/project/create-rail-grinding) `1.2.2+mc1.21.1`
 - [Creeper Firework](https://modrinth.com/project/creeper-firework) `2.2.0`
+- [Curios API](https://modrinth.com/project/curios) `9.5.1+1.21.1`
 - [Dashpanels](https://modrinth.com/project/dashpanels) `2.1+neoforge1.21.1`
 - [Dashpanels: Expanded](https://modrinth.com/project/dashpanels-expanded) `2.0.1`
 - [Dashpanels: Extra](https://modrinth.com/project/dashpanels-extra) `1.4.1`
@@ -88,13 +90,16 @@
 - [Jade Addons (Neo/Forge)](https://modrinth.com/project/jade-addons-forge) `6.1.2+neoforge`
 - [Jade 🔍](https://modrinth.com/project/jade) `15.10.6+neoforge`
 - [LambDynamicLights - Dynamic Lights](https://modrinth.com/project/lambdynamiclights) `4.8.11+1.21.1`
+- [LDLib](https://modrinth.com/project/ldlib) `mc1.21.1-2.2.42-neoforge`
 - [Lithium](https://modrinth.com/project/lithium) `mc1.21.1-0.15.4-neoforge`
 - [Lootr](https://modrinth.com/project/lootr) `1.21.1-1.11.38.127`
 - [ModernFix](https://modrinth.com/project/modernfix) `5.27.26+mc1.21.1`
 - [More Culling](https://modrinth.com/project/moreculling) `1.0.10`
 - [Mouse Tweaks](https://modrinth.com/project/mouse-tweaks) `1.21-2.26.1-neoforge`
 - [Not Enough Animations](https://modrinth.com/project/not-enough-animations) `1.12.6`
+- [Not Enough Crashes](https://modrinth.com/project/notenoughcrashes) `4.4.9+1.21.1-neoforge`
 - [Not Enough Glyphs](https://modrinth.com/project/not-enough-glyphs) `4.6.2`
+- [Ponder for KubeJS](https://modrinth.com/project/ponder) `1.21.1-2.4.0+neoforge`
 - [Reese's Sodium Options](https://modrinth.com/project/reeses-sodium-options) `mc1.21.1-2.2.4+neoforge`
 - [Reliable EMI (REMI)](https://modrinth.com/project/reliable-emi) `4.7.9-1.21.1-neoforge`
 - [ServerCore](https://modrinth.com/project/servercore) `1.5.19+1.21.1`

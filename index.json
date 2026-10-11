@@ -45,6 +45,10 @@
       "sha1": "6fcb0f00cc6ed8d2a9fefa660b9b0193cb7be4cf"
     },
     {
+      "path": "content/mods/better-advanced-tooltips.json",
+      "sha1": "219624a10fd5fac1e6b3bb6414af9353dc12ec34"
+    },
+    {
       "path": "content/mods/c2me-neoforge.json",
       "sha1": "cf86b534e885361719395da167eac8af05d9e65d"
     },
@@ -111,6 +115,10 @@
     {
       "path": "content/mods/copycats.json",
       "sha1": "7dacf869f46f79ed64a55e76c2e8b5a82e3d50e4"
+    },
+    {
+      "path": "content/mods/crash-assistant.json",
+      "sha1": "17fb326d78adb5315cca44b67ed5fca4e3c55e2c"
     },
     {
       "path": "content/mods/create-aeronautics-delivery-required.json",
@@ -227,6 +235,10 @@
     {
       "path": "content/mods/creeper-firework.json",
       "sha1": "99218e0f59805b6ad316fc204bf6cfd5b13fae27"
+    },
+    {
+      "path": "content/mods/curios.json",
+      "sha1": "ebcaa34f890c53b29967ba941fbeeb5dc786ca3f"
     },
     {
       "path": "content/mods/dashpanels-expanded.json",
@@ -361,8 +373,16 @@
       "sha1": "7d4e0f00246e0c9abd411686629fea087b133f28"
     },
     {
+      "path": "content/mods/kubejs.json",
+      "sha1": "110e7325362c25144d3a4176e6e40fbcc940da68"
+    },
+    {
       "path": "content/mods/lambdynamiclights.json",
       "sha1": "cec10ce7221dbac2be6a9ce0283fdb8f1c103d4f"
+    },
+    {
+      "path": "content/mods/ldlib.json",
+      "sha1": "8691bf4ecbfec8bc6dcff4b5280e263e867bc0df"
     },
     {
       "path": "content/mods/lithium.json",
@@ -401,12 +421,20 @@
       "sha1": "188365e05dc8cd2ed4bfc8a03baf77de6485b82a"
     },
     {
+      "path": "content/mods/notenoughcrashes.json",
+      "sha1": "9ea840df98619332b7c103916bd36c3749c59030"
+    },
+    {
       "path": "content/mods/numismatics.json",
       "sha1": "a375748891d53ab52343e1a2dbdb082298ec6806"
     },
     {
       "path": "content/mods/pehkui.json",
       "sha1": "ba60a87661156d2f6887a902669b1e7743e883fd"
+    },
+    {
+      "path": "content/mods/ponder.json",
+      "sha1": "453c4627a1f8ea3d703f9c28ce19e9f95c197c99"
     },
     {
       "path": "content/mods/reeses-sodium-options.json",
@@ -421,16 +449,16 @@
       "sha1": "70f23a34fc1da54d8da9e530ea64a517198814d7"
     },
     {
+      "path": "content/mods/rhino.json",
+      "sha1": "c9524753f7d111645155084793a8760849e56294"
+    },
+    {
       "path": "content/mods/rpl.json",
       "sha1": "ad7da09346694af145fac796ead3aa9c5aefa514"
     },
     {
       "path": "content/mods/sable.json",
       "sha1": "4d92975e8af30b39c9147a8d998a606b95165062"
-    },
-    {
-      "path": "content/mods/scalablelux.json",
-      "sha1": "9a76d4378e9ad258e6f727c673c3998c8f772ba4"
     },
     {
       "path": "content/mods/servercore.json",

@@ -1,0 +1,23 @@
+{
+  "name": "Ponder for KubeJS",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "5A34Stj8",
+      "slug": "ponder",
+      "versionId": "BqhDf7W8",
+      "versionNumber": "1.21.1-2.4.0+neoforge",
+      "filename": "ponderjs-neoforge-1.21.1-2.4.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/5A34Stj8/versions/BqhDf7W8/ponderjs-neoforge-1.21.1-2.4.0.jar",
+      "sha1": "9c35c5c31a613d58fc06e591e455bccfc3de6022",
+      "sha512": "6390c4bf631561c29a76b8b29a496d4b984bf847572940b28e551f2c2e3da4a8fb04b6a82cf98a7935792a7d3485cdc45c76f2bdf7f93799210262ba5f184955",
+      "fileSize": 1571893
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

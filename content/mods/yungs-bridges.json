@@ -1,0 +1,23 @@
+{
+  "name": "YUNG's Bridges",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "Ht4BfYp6",
+      "slug": "yungs-bridges",
+      "versionId": "urkCzBf6",
+      "versionNumber": "1.21.1-NeoForge-5.1.1",
+      "filename": "YungsBridges-1.21.1-NeoForge-5.1.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/Ht4BfYp6/versions/urkCzBf6/YungsBridges-1.21.1-NeoForge-5.1.1.jar",
+      "sha1": "18099c2d54acd16bb8ab90a66f40fa16496d065e",
+      "sha512": "20b07ae4c08974980f976bcae32f18ccb885745d6cd50d4a5d0156eb5c51c29e49f8b2bf7dc2ae160d39b62f2332513bd9850efc5cba13697e36a2ac2848bc3b",
+      "fileSize": 136820
+    }
+  },
+  "dependents": [],
+  "clientSide": "unsupported",
+  "serverSide": "required"
+}

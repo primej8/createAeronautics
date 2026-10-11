@@ -1,0 +1,23 @@
+{
+  "name": "Oh The Biomes We've Gone",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "NTi7d3Xc",
+      "slug": "oh-the-biomes-weve-gone",
+      "versionId": "gAxM0bHs",
+      "versionNumber": "2.6.3-NeoForge",
+      "filename": "Oh-The-Biomes-Weve-Gone-NeoForge-2.6.3.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/NTi7d3Xc/versions/gAxM0bHs/Oh-The-Biomes-Weve-Gone-NeoForge-2.6.3.jar",
+      "sha1": "693292b80590ea4cf3b4d3e180a6532eac71f546",
+      "sha512": "6b6ec749feb595e8d01b2328a0f630a1e4280bdb804dc1e3bcb29c2ca3fd60911eb27a64cdda7ee0a4719192f154677f07bd261c605791c759ffb73799eeef02",
+      "fileSize": 20493453
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Just Zoom",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "iAiqcykM",
+      "slug": "just-zoom",
+      "versionId": "c9bc4pyu",
+      "versionNumber": "3.0.1-1.21.1-neoforge",
+      "filename": "justzoom_neoforge_3.0.1_MC_1.21.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/iAiqcykM/versions/c9bc4pyu/justzoom_neoforge_3.0.1_MC_1.21.1.jar",
+      "sha1": "3151a603551f8794c4bc80ae65b4e03b17578cde",
+      "sha512": "0a7cc9cc49237558ec8de742576084767a7204f42d9598ee173fc9fc941282072820823b71bf1fe56f355ccc6d416586906eb42759a64538256147d038f6656a",
+      "fileSize": 153049
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

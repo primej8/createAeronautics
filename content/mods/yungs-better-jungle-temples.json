@@ -1,0 +1,23 @@
+{
+  "name": "YUNG's Better Jungle Temples",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "z9Ve58Ih",
+      "slug": "yungs-better-jungle-temples",
+      "versionId": "P00i2hJn",
+      "versionNumber": "1.21.1-NeoForge-3.1.2",
+      "filename": "YungsBetterJungleTemples-1.21.1-NeoForge-3.1.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/z9Ve58Ih/versions/P00i2hJn/YungsBetterJungleTemples-1.21.1-NeoForge-3.1.2.jar",
+      "sha1": "d6b7ce6cf351b09cbd23147ff166c35cfdc572e8",
+      "sha512": "eca4233e874a55886c63d2111b8685d479771d3627bad2922582e65b78c51ba74733dc4624aabf91f2a2178a940a72d9209ae33eef74e34f84f07d62256709d9",
+      "fileSize": 795839
+    }
+  },
+  "dependents": [],
+  "clientSide": "unsupported",
+  "serverSide": "required"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Feature Recycler",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "IAzu52kG",
+      "slug": "feature-recycler",
+      "versionId": "TsMXDaL7",
+      "versionNumber": "2.0.0-neoforge",
+      "filename": "Feature-Recycler-neoforge-2.0.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/IAzu52kG/versions/TsMXDaL7/Feature-Recycler-neoforge-2.0.0.jar",
+      "sha1": "1c14b70c4e1341d1b92b51da684529644c0ab5cb",
+      "sha512": "0909f39c1ec6f435eb2a51b95bdc4d48b2b3c31466002f0e36aec1e1315f54079faed084a440e1ef91ac267fdcedc313bd4e6dd0eac81afdd4a7a6e16db162e9",
+      "fileSize": 144306
+    }
+  },
+  "dependents": [],
+  "clientSide": "unsupported",
+  "serverSide": "required"
+}

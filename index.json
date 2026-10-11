@@ -117,6 +117,10 @@
       "sha1": "7dacf869f46f79ed64a55e76c2e8b5a82e3d50e4"
     },
     {
+      "path": "content/mods/corgilib.json",
+      "sha1": "9f91745279528494b235de68b1f02bbb8e01a322"
+    },
+    {
       "path": "content/mods/crash-assistant.json",
       "sha1": "17fb326d78adb5315cca44b67ed5fca4e3c55e2c"
     },
@@ -261,6 +265,10 @@
       "sha1": "a0b43775447645ab172bf14f602fb54dba9fe912"
     },
     {
+      "path": "content/mods/dungeons-and-taverns.json",
+      "sha1": "07d1504fbb1b4756cfeee24d456290238c7a9189"
+    },
+    {
       "path": "content/mods/emi-enchanting.json",
       "sha1": "e868d097c234581cda2f1515735e97e240c33409"
     },
@@ -321,6 +329,10 @@
       "sha1": "4c599037e77bc51a5392104238bc655ad423c000"
     },
     {
+      "path": "content/mods/feature-recycler.json",
+      "sha1": "d4c9bd80ed1063bb7dc3f4a75ca69fc1929c70f3"
+    },
+    {
       "path": "content/mods/ferrite-core.json",
       "sha1": "29f87c9a4280abe96b7c7266488d2d4cf323be15"
     },
@@ -330,7 +342,7 @@
     },
     {
       "path": "content/mods/geckolib.json",
-      "sha1": "7c6909bd2cb6e01c53e862bfcfa303f0e130385c"
+      "sha1": "92ebacffb1eebc5a529b9a2422a3fac906b5a2a9"
     },
     {
       "path": "content/mods/glaidens-audio-aeronautics-compat.json",
@@ -371,6 +383,14 @@
     {
       "path": "content/mods/jade.json",
       "sha1": "6c9a723bb1be4ad66bdd8af0d0cc902b49440f71"
+    },
+    {
+      "path": "content/mods/just-zoom.json",
+      "sha1": "0bf436a4a110513d8eed188982b4bc97f5b22e15"
+    },
+    {
+      "path": "content/mods/konkrete.json",
+      "sha1": "f389486585d38861bc5796eaec3a3b7520076b43"
     },
     {
       "path": "content/mods/kotlin-for-forge.json",
@@ -431,6 +451,14 @@
     {
       "path": "content/mods/numismatics.json",
       "sha1": "a375748891d53ab52343e1a2dbdb082298ec6806"
+    },
+    {
+      "path": "content/mods/oh-the-biomes-weve-gone.json",
+      "sha1": "fce217d9b6bf2a0b6c125808d0e4584c5e4da9ab"
+    },
+    {
+      "path": "content/mods/oh-the-trees-youll-grow.json",
+      "sha1": "65e17d16bc194dadfdd0500af47995c830e96b69"
     },
     {
       "path": "content/mods/pehkui.json",
@@ -513,6 +541,10 @@
       "sha1": "a0b9340166b62240b27bbd62bd6cc96742b74019"
     },
     {
+      "path": "content/mods/terrablender.json",
+      "sha1": "70d63c32546e497be5b3e725ff293b92db0be8b5"
+    },
+    {
       "path": "content/mods/terralith.json",
       "sha1": "7fd07d679d59733164f18e20e2e54a77681c4aa7"
     },
@@ -537,6 +569,10 @@
       "sha1": "6f920ec074d1bbd8cfb8580763c43f99a3d779cf"
     },
     {
+      "path": "content/mods/when-dungeons-arise.json",
+      "sha1": "b230a972e90c10523144501faa240dc678924dad"
+    },
+    {
       "path": "content/mods/xaeros-minimap.json",
       "sha1": "1b13e2f1961c715ee8498afa8bebe6319ea4cbef"
     },
@@ -547,6 +583,58 @@
     {
       "path": "content/mods/yacl.json",
       "sha1": "f6cd0b6edeb642adedb67570da2ee49814b1b1d2"
+    },
+    {
+      "path": "content/mods/yungs-api.json",
+      "sha1": "53059b5fdec50f2e45c4bda76e189579e9e01baf"
+    },
+    {
+      "path": "content/mods/yungs-better-desert-temples.json",
+      "sha1": "313fb5006900f8e049bf8720b17e24f870774eb7"
+    },
+    {
+      "path": "content/mods/yungs-better-dungeons.json",
+      "sha1": "b1a292ade9157c2998dcbbf872e6fec0a32e3fce"
+    },
+    {
+      "path": "content/mods/yungs-better-end-island.json",
+      "sha1": "f771c2ed5813e6e58c550a785c1d5716737a7781"
+    },
+    {
+      "path": "content/mods/yungs-better-jungle-temples.json",
+      "sha1": "bae89ff3332f953a2061cc9d4702f2438b553c19"
+    },
+    {
+      "path": "content/mods/yungs-better-mineshafts.json",
+      "sha1": "11e90f2e70c8b5747111d98a2d73c44d1f51f95d"
+    },
+    {
+      "path": "content/mods/yungs-better-nether-fortresses.json",
+      "sha1": "425c2f4498b0703b65e8c0dadaf057e83b717c8a"
+    },
+    {
+      "path": "content/mods/yungs-better-ocean-monuments.json",
+      "sha1": "51b2c092801f0dee008bb65614f59a18a36458c9"
+    },
+    {
+      "path": "content/mods/yungs-better-strongholds.json",
+      "sha1": "e1bb52ab603e9f78d3fd9bb90a78bbcb042415e1"
+    },
+    {
+      "path": "content/mods/yungs-better-witch-huts.json",
+      "sha1": "85a02432ac41295bf7c9357742448c70d66feae3"
+    },
+    {
+      "path": "content/mods/yungs-bridges.json",
+      "sha1": "2aca25fb0c2c4b126f8ae84f1a83712d4d7278e0"
+    },
+    {
+      "path": "content/mods/yungs-cave-biomes.json",
+      "sha1": "851ff687505f962af8c22d92fccceb194019586a"
+    },
+    {
+      "path": "content/mods/yungs-extras.json",
+      "sha1": "90bf71325adcf8f823a65631a7f115729632b3f2"
     },
     {
       "path": "content/mods/zfastnoise.json",

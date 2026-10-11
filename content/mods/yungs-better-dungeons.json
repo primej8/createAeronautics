@@ -1,0 +1,23 @@
+{
+  "name": "YUNG's Better Dungeons",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "o1C1Dkj5",
+      "slug": "yungs-better-dungeons",
+      "versionId": "D6aZn0Em",
+      "versionNumber": "1.21.1-NeoForge-5.1.4",
+      "filename": "YungsBetterDungeons-1.21.1-NeoForge-5.1.4.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/o1C1Dkj5/versions/D6aZn0Em/YungsBetterDungeons-1.21.1-NeoForge-5.1.4.jar",
+      "sha1": "73a660c13063450e555e5e2c015ae24d606b32b4",
+      "sha512": "40513bacd13fa9860abcab507b1fc09dc51649af4b615ce466e0ec361557f02d35e6e44bea1cc17cb4120805f862aad01394eb185f46611e7be63dfd97f272df",
+      "fileSize": 782160
+    }
+  },
+  "dependents": [],
+  "clientSide": "unsupported",
+  "serverSide": "required"
+}

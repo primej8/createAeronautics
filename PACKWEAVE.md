@@ -1,6 +1,6 @@
 # createAeronautics
 
-**Minecraft 1.21.1 · neoforge 21.1.258**, 157 mods (36 dependencies), 2 resource packs, 2 shaders
+**Minecraft 1.21.1 · neoforge 21.1.258**, 159 mods (37 dependencies), 2 resource packs, 2 shaders
 
 ## Contents
 
@@ -120,6 +120,7 @@
 - [Quark](https://modrinth.com/project/quark) `4.1-487`
 - [Quark Oddities](https://modrinth.com/project/quark-oddities) `1.21.1`
 - [Ragdoll Reactions](https://modrinth.com/project/ragdoll-reactions) `0.7.0`
+- [Redirected](https://modrinth.com/project/redirected) `neoforge-1.21.1-1.0.0`
 - [Reese's Sodium Options](https://modrinth.com/project/reeses-sodium-options) `mc1.21.1-2.2.4+neoforge`
 - [Reliable EMI (REMI)](https://modrinth.com/project/reliable-emi) `4.7.9-1.21.1-neoforge`
 - [Roxy](https://modrinth.com/project/roxy) `0.4.0-neoforge+mc1.21.1`
@@ -129,6 +130,7 @@
 - [Sable: Ragdoll Corpse](https://modrinth.com/project/sable-ragdoll-corpse) `0.3.0`
 - [Sable: Ragdolls](https://modrinth.com/project/sable-ragdolls) `0.7.5`
 - [SableEdit](https://modrinth.com/project/sableedit) `0.0.4`
+- [Saturn](https://modrinth.com/project/saturn) `mc1.21.1-0.1.5`
 - [Separate Sable Render Distance (Create Aeronautics Addon)](https://modrinth.com/project/ssrd) `1.8.6`
 - [ServerCore](https://modrinth.com/project/servercore) `1.5.19+1.21.1`
 - [Simple Voice Chat](https://modrinth.com/project/simple-voice-chat) `neoforge-1.21.1-2.6.24`

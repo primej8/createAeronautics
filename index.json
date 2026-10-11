@@ -541,6 +541,10 @@
       "sha1": "7898c5a6d4f8963188b70676f0025e14e17b6c5f"
     },
     {
+      "path": "content/mods/redirected.json",
+      "sha1": "ab5bac301f0c31503ef5a3d89270ae37e38a82e2"
+    },
+    {
       "path": "content/mods/reeses-sodium-options.json",
       "sha1": "2f7c613cf33356a04c90ff119127fd282faf5d42"
     },
@@ -591,6 +595,10 @@
     {
       "path": "content/mods/sableedit.json",
       "sha1": "c70560a92c7d129e7f52c104f6891c85ebedbe3b"
+    },
+    {
+      "path": "content/mods/saturn.json",
+      "sha1": "ea5bc83bb340d86ba7612749f685deba95f880d9"
     },
     {
       "path": "content/mods/searchables.json",
@@ -651,6 +659,10 @@
     {
       "path": "content/mods/terralith.json",
       "sha1": "7fd07d679d59733164f18e20e2e54a77681c4aa7"
+    },
+    {
+      "path": "content/mods/txnilib.json",
+      "sha1": "18fc6e2daee1d8074d925d2732e325315f0306af"
     },
     {
       "path": "content/mods/veil.json",

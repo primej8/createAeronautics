@@ -1,6 +1,6 @@
 # createAeronautics
 
-**Minecraft 1.21.1 · neoforge 21.1.258**, 139 mods (31 dependencies), 1 resource pack, 2 shaders
+**Minecraft 1.21.1 · neoforge 21.1.258**, 139 mods (31 dependencies), 2 resource packs, 2 shaders
 
 ## Contents
 
@@ -125,6 +125,7 @@
 - [Tectonic](https://modrinth.com/project/tectonic) `3.0.28-neoforge-21.1`
 - [Terralith](https://modrinth.com/project/terralith) `2.6.2`
 - [Unique Dark](https://modrinth.com/project/unique-dark) `2.9.1`
+- [Unique Dark Refined](https://modrinth.com/project/unique-dark-refined) `1.9.2`
 - [Veil](https://modrinth.com/project/veil) `4.5.2`
 - [vista](https://modrinth.com/project/vista_tv) `1.21.1-5.5.7`
 - [Vista - All The Cassettes](https://modrinth.com/project/vista-all-the-cassettes) `1.2.0+neoforge.mc1.21.1`

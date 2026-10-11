@@ -48,6 +48,13 @@
     "tHRJ9zhl",
     "zDWcAhSD"
   ],
+  "optionalDependents": [
+    "61XQmq6p",
+    "BzHgFoGz",
+    "T9PomCSv",
+    "gUdYw8o3",
+    "zuARv1N7"
+  ],
   "clientSide": "optional",
   "serverSide": "required"
 }

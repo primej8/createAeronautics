@@ -6,7 +6,7 @@
     },
     {
       "path": "content/mods/ae2.json",
-      "sha1": "7bbf82157293a507445509c25973e9b8f74a192d"
+      "sha1": "a68698f652480a4afea98509ad5bd8d2bfefdbb8"
     },
     {
       "path": "content/mods/amendments.json",
@@ -74,7 +74,7 @@
     },
     {
       "path": "content/mods/cc-tweaked.json",
-      "sha1": "f6b4fddde026eb67cd7e1d0aa1a0f00a80de3cb9"
+      "sha1": "fafd00952aeadaba62a30b56aca7f4f6549f09f4"
     },
     {
       "path": "content/mods/ccc-redstone-link.json",
@@ -94,11 +94,11 @@
     },
     {
       "path": "content/mods/cloth-config.json",
-      "sha1": "482e15185ade47dae1dd1077ef4f62565b79ef3c"
+      "sha1": "0c6fccc6dfad0cb790a05b2a7d43fdbd60aebbe4"
     },
     {
       "path": "content/mods/colorwheel-patcher.json",
-      "sha1": "6fa4e0ab49278a4d3bcdb6bd4db5725daa61bb34"
+      "sha1": "cf529c45c0f82b587511e2a6981ff4302214ba63"
     },
     {
       "path": "content/mods/colorwheel.json",
@@ -142,11 +142,11 @@
     },
     {
       "path": "content/mods/create-aeronautics.json",
-      "sha1": "92c99a1647b42e36037830a6a8d616b88f51aa72"
+      "sha1": "063d499729a8e5e9dba35553814fe8eeefa117ad"
     },
     {
       "path": "content/mods/create-aeroworks.json",
-      "sha1": "a208e16ae15db7fddc4bb751ea9ba6cae496e383"
+      "sha1": "c1450c7da2a35e56212d569acbe3f58c4e74a2f4"
     },
     {
       "path": "content/mods/create-avionics.json",
@@ -206,7 +206,7 @@
     },
     {
       "path": "content/mods/create-enchantment-industry.json",
-      "sha1": "3612b19614f8acd5793add6c6e5f0d72154808cf"
+      "sha1": "56fe4d91da3c73453c1c7dbc61f8287325437af5"
     },
     {
       "path": "content/mods/create-flight-control.json",
@@ -250,7 +250,7 @@
     },
     {
       "path": "content/mods/create.json",
-      "sha1": "7905053e7b1ded469e558190811cd66f7e61e460"
+      "sha1": "0aec449dcdf95b729d9df7604afc6b71d828f4f7"
     },
     {
       "path": "content/mods/creeper-firework.json",
@@ -270,7 +270,7 @@
     },
     {
       "path": "content/mods/dashpanels.json",
-      "sha1": "66bdaa4c925013d5f4584843e8fdb16955d42cb6"
+      "sha1": "393340a43bce74a506e26f0363872ca2188f7f3e"
     },
     {
       "path": "content/mods/drive-by-sable.json",
@@ -298,7 +298,7 @@
     },
     {
       "path": "content/mods/emi.json",
-      "sha1": "325c47c576c1dbb91c386632ff95d9291735a639"
+      "sha1": "01d6713816540f26d16fcf598b9b6c845b9ce611"
     },
     {
       "path": "content/mods/emiffect.json",
@@ -310,7 +310,7 @@
     },
     {
       "path": "content/mods/entityculling.json",
-      "sha1": "2a95e205015292c7735186ca9d1888a3e3bda083"
+      "sha1": "152818cea8c61eae145c1d026c8906fd7c4b4005"
     },
     {
       "path": "content/mods/experiencelib.json",
@@ -318,11 +318,11 @@
     },
     {
       "path": "content/mods/exposure-expanded.json",
-      "sha1": "a9421ffcb4721bcd5a56dbb9b35f42b7dc9091dd"
+      "sha1": "30cb6cd63537a5a23dc61505b741d51e676777d3"
     },
     {
       "path": "content/mods/exposure-polaroid.json",
-      "sha1": "ee3c6592011a23ca34bf434c528e2da3333ac1e7"
+      "sha1": "cf9b6fac025e5a480f4b2d647f377ea66a485876"
     },
     {
       "path": "content/mods/exposure-space.json",
@@ -330,7 +330,7 @@
     },
     {
       "path": "content/mods/exposure.json",
-      "sha1": "dde9b0e9396686c1ae7200fd8235dc06894ac13c"
+      "sha1": "a52b3699a2460f5783805cb6c4f799199b7ae18c"
     },
     {
       "path": "content/mods/extended-ae.json",
@@ -338,7 +338,7 @@
     },
     {
       "path": "content/mods/farmers-delight.json",
-      "sha1": "4c599037e77bc51a5392104238bc655ad423c000"
+      "sha1": "3cee49375af39d4e046fcb0bb7e7783641190235"
     },
     {
       "path": "content/mods/feature-recycler.json",
@@ -390,7 +390,7 @@
     },
     {
       "path": "content/mods/iris.json",
-      "sha1": "d1eed3c157c47eea02f779b736dd3044e09929a6"
+      "sha1": "f014ad762dbd90b39d85a60a6ddc18f05f0a3d15"
     },
     {
       "path": "content/mods/jade-addons-forge.json",
@@ -398,11 +398,11 @@
     },
     {
       "path": "content/mods/jade.json",
-      "sha1": "6c9a723bb1be4ad66bdd8af0d0cc902b49440f71"
+      "sha1": "88361766f2ea0d4e77efb7306f285956e418fa05"
     },
     {
       "path": "content/mods/jei.json",
-      "sha1": "3bdbc2913d2286b07cada497c97fc22745ad3abc"
+      "sha1": "d82cc28a49e5b677cdcdf24aa8f86f581cda5060"
     },
     {
       "path": "content/mods/just-zoom.json",
@@ -422,7 +422,7 @@
     },
     {
       "path": "content/mods/lambdynamiclights.json",
-      "sha1": "cec10ce7221dbac2be6a9ce0283fdb8f1c103d4f"
+      "sha1": "f7af1f5cc8b1f8c82d8c9600ef0c0f7e0e90b331"
     },
     {
       "path": "content/mods/ldlib.json",
@@ -494,7 +494,7 @@
     },
     {
       "path": "content/mods/reeses-sodium-options.json",
-      "sha1": "8f05e305fc7272223d0f8c5cd955f4bc099bb215"
+      "sha1": "2f7c613cf33356a04c90ff119127fd282faf5d42"
     },
     {
       "path": "content/mods/reliable-emi.json",
@@ -518,7 +518,7 @@
     },
     {
       "path": "content/mods/sable.json",
-      "sha1": "a5ee8ad3f99dfc5b86b61a2cdab95c6208fa19be"
+      "sha1": "0436428305dbc41a53dfa46914fc7e7dce2806cb"
     },
     {
       "path": "content/mods/searchables.json",
@@ -530,7 +530,7 @@
     },
     {
       "path": "content/mods/simple-voice-chat.json",
-      "sha1": "3efdcf098822ab012c5dcf78af5601c6104fffa9"
+      "sha1": "39922dcb55643bf7a56184863f01a308360a74fe"
     },
     {
       "path": "content/mods/slice-and-dice.json",
@@ -542,11 +542,11 @@
     },
     {
       "path": "content/mods/sodium-extra.json",
-      "sha1": "8a5304547b8e780e3d613267bd4ec343483974f9"
+      "sha1": "979028cd325df282cb35ff73f6db0c00489ec527"
     },
     {
       "path": "content/mods/sodium.json",
-      "sha1": "b1273f582d092193efe1ce0cd9ada3590828e2aa"
+      "sha1": "551eba685b4b627b2340fdcc6392ebe6f1d3d01e"
     },
     {
       "path": "content/mods/structure-layout-optimizer.json",
@@ -578,7 +578,7 @@
     },
     {
       "path": "content/mods/veil.json",
-      "sha1": "e51c19e06cda6a1a98d638e1e8d20238825fb4f4"
+      "sha1": "6b445cd9e6c725e13c339c8de389ce076dc60755"
     },
     {
       "path": "content/mods/vista-all-the-cassettes.json",
@@ -602,7 +602,7 @@
     },
     {
       "path": "content/mods/vs-hose-connectors.json",
-      "sha1": "7d00f1dafa6fa22c64241bcf49b04c25dc6ce140"
+      "sha1": "4795547107d6267d7c85d40ce5f37a16a7c2599f"
     },
     {
       "path": "content/mods/when-dungeons-arise.json",

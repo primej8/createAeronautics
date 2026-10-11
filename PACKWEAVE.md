@@ -1,6 +1,6 @@
 # createAeronautics
 
-**Minecraft 1.21.1 · neoforge 21.1.258**, 139 mods (34 dependencies), 1 resource pack, 2 shaders
+**Minecraft 1.21.1 · neoforge 21.1.258**, 139 mods (31 dependencies), 1 resource pack, 2 shaders
 
 ## Contents
 
@@ -130,7 +130,7 @@
 - [Vista - All The Cassettes](https://modrinth.com/project/vista-all-the-cassettes) `1.2.0+neoforge.mc1.21.1`
 - [Vista: Recipes](https://modrinth.com/project/vista-recipes) `v3.1`
 - [Voxy Server Side](https://modrinth.com/project/voxy-server-side) `0.17.0`
-- [VS / Sable Hose Connectors](https://modrinth.com/project/vs-hose-connectors) `0.2.0`
+- [VS / Sable Hose Connectors](https://modrinth.com/project/vs-hose-connectors) `0.2.1`
 - [When Dungeons Arise](https://modrinth.com/project/when-dungeons-arise) `2.1.68`
 - [Xaero's Minimap](https://modrinth.com/project/xaeros-minimap) `neoforge-1.21.1-26.6.0`
 - [Xaero's World Map](https://modrinth.com/project/xaeros-world-map) `neoforge-1.21.1-1.47.0`

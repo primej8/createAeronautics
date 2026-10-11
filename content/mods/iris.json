@@ -21,6 +21,12 @@
     "BzHgFoGz",
     "owQyCHo4"
   ],
+  "optionalDependents": [
+    "5srFLIaK",
+    "Bh37bMuy",
+    "PtjYWJkn",
+    "zuARv1N7"
+  ],
   "clientSide": "required",
   "serverSide": "unsupported"
 }

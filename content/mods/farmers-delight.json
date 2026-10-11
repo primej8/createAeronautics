@@ -18,6 +18,10 @@
     }
   },
   "dependents": [],
+  "optionalDependents": [
+    "GmjmRQ0A",
+    "fRdwEsp6"
+  ],
   "clientSide": "required",
   "serverSide": "required"
 }

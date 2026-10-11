@@ -21,6 +21,9 @@
     "bPbnsb3f",
     "gazFBp5k"
   ],
+  "optionalDependents": [
+    "rrNGnYXg"
+  ],
   "clientSide": "required",
   "serverSide": "required"
 }

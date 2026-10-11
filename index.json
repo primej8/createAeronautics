@@ -50,7 +50,7 @@
     },
     {
       "path": "content/mods/c2me-neoforge.json",
-      "sha1": "7b2a70c8c93d9b892c1a7f4f64faf77793c9d945"
+      "sha1": "c5f827fd4634e9bc9f26ac048ed7f79e7467bfda"
     },
     {
       "path": "content/mods/carry-on-extend.json",
@@ -130,7 +130,7 @@
     },
     {
       "path": "content/mods/create-aeronautics-gadgets-and-gizmos.json",
-      "sha1": "650cf53b4f0d7f5e8c4ed655fd78ae4c6631bcc1"
+      "sha1": "2cfdfd3de4993ca04b710d733c23d07703ebf47b"
     },
     {
       "path": "content/mods/create-aeronautics-harness.json",
@@ -138,7 +138,7 @@
     },
     {
       "path": "content/mods/create-aeronautics.json",
-      "sha1": "92c99a1647b42e36037830a6a8d616b88f51aa72"
+      "sha1": "c03c30365a3db826d20fe96e2f315fbba7be5678"
     },
     {
       "path": "content/mods/create-aeroworks.json",
@@ -218,7 +218,7 @@
     },
     {
       "path": "content/mods/create-pocket-sized.json",
-      "sha1": "d692d7cc685b6ba57e8e8c2090cd0e51264cb268"
+      "sha1": "03a276cf0fbf49b59abb92b3c8c7b7e8739a6172"
     },
     {
       "path": "content/mods/create-propulsion-simulated.json",
@@ -343,6 +343,10 @@
     {
       "path": "content/mods/ferrite-core.json",
       "sha1": "29f87c9a4280abe96b7c7266488d2d4cf323be15"
+    },
+    {
+      "path": "content/mods/forgified-fabric-api.json",
+      "sha1": "ba21db43af58db9abecf282b62e4717a7dd54ede"
     },
     {
       "path": "content/mods/fzzy-config.json",
@@ -501,12 +505,16 @@
       "sha1": "c9524753f7d111645155084793a8760849e56294"
     },
     {
+      "path": "content/mods/roxy.json",
+      "sha1": "d45a358b25307c915c861786683d635edebd421f"
+    },
+    {
       "path": "content/mods/rpl.json",
       "sha1": "ad7da09346694af145fac796ead3aa9c5aefa514"
     },
     {
       "path": "content/mods/sable.json",
-      "sha1": "a5ee8ad3f99dfc5b86b61a2cdab95c6208fa19be"
+      "sha1": "4d92975e8af30b39c9147a8d998a606b95165062"
     },
     {
       "path": "content/mods/searchables.json",
@@ -534,7 +542,7 @@
     },
     {
       "path": "content/mods/sodium.json",
-      "sha1": "767e843f6633d041cd0fe8dd0eff130140b406ed"
+      "sha1": "b1273f582d092193efe1ce0cd9ada3590828e2aa"
     },
     {
       "path": "content/mods/structure-layout-optimizer.json",
@@ -581,8 +589,16 @@
       "sha1": "5e885546cced2bf0ec564eec66bc75842995fcf7"
     },
     {
+      "path": "content/mods/voxy-server-side.json",
+      "sha1": "5c6fe4deeae0c1edcf65ad4ed714558391c014a9"
+    },
+    {
+      "path": "content/mods/voxy.json",
+      "sha1": "f8c4bc6282368ee54ee124ae5b30ae35361fd0c9"
+    },
+    {
       "path": "content/mods/vs-hose-connectors.json",
-      "sha1": "6f920ec074d1bbd8cfb8580763c43f99a3d779cf"
+      "sha1": "7d00f1dafa6fa22c64241bcf49b04c25dc6ce140"
     },
     {
       "path": "content/mods/when-dungeons-arise.json",

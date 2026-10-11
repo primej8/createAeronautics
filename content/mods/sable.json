@@ -3,21 +3,32 @@
   "side": "auto",
   "explicit": false,
   "disabled": false,
-  "preferred": "curseforge",
+  "preferred": "modrinth",
   "sources": {
-    "curseforge": {
-      "id": "1312371",
+    "modrinth": {
+      "id": "T9PomCSv",
       "slug": "sable",
-      "versionId": "9043865",
-      "versionNumber": "Sable NeoForge 2.0.6 for mc1.21.1",
+      "versionId": "fg9dTRz9",
+      "versionNumber": "2.0.6+mc1.21.1",
       "filename": "sable-neoforge-1.21.1-2.0.6.jar",
-      "downloadUrl": "https://edge.forgecdn.net/files/9043/865/sable-neoforge-1.21.1-2.0.6.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/T9PomCSv/versions/fg9dTRz9/sable-neoforge-1.21.1-2.0.6.jar",
       "sha1": "cf46f7e8c1511f170abcdbee739944f0540549bf",
+      "sha512": "76d293ce751a01cb9c095a3659b0a41e03e005480bc9d76dfdc73ec7c2eabf7923740c7b077921d42616673c496cd5143569f2085ddcebe174fd91d81e2a04b8",
       "fileSize": 12986135
     }
   },
   "dependents": [
-    "676721"
+    "KbwNRCY7",
+    "OPNBxiZD",
+    "P26k79kP",
+    "W1ZUfWdr",
+    "gmQUWgeV",
+    "h4nsLvjf",
+    "micg1iTH",
+    "mva5q4qZ",
+    "oWaK0Q19",
+    "rrNGnYXg",
+    "wjpmYU1u"
   ],
   "clientSide": "required",
   "serverSide": "required"

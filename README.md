@@ -1,6 +1,6 @@
 # createAeronautics
 
-**Minecraft 1.21.1 · neoforge 21.1.258**, 136 mods (32 dependencies), 1 resource pack, 2 shaders
+**Minecraft 1.21.1 · neoforge 21.1.258**, 138 mods (34 dependencies), 1 resource pack, 2 shaders
 
 ## Contents
 
@@ -26,13 +26,13 @@
 - [Colorwheel](https://modrinth.com/project/colorwheel) `1.3.0+mc1.21.1`
 - [Colorwheel Patcher](https://modrinth.com/project/colorwheel-patcher) `1.0.5+mc1.21.1`
 - [Complementary Shaders - Reimagined](https://modrinth.com/project/complementary-reimagined) `r5.9.3`
-- [Concurrent Chunk Management Engine (NeoForge)](https://modrinth.com/project/c2me-neoforge) `0.4.0-alpha.0.122+1.21.1`
+- [Concurrent Chunk Management Engine (NeoForge)](https://modrinth.com/project/c2me-neoforge) `0.4.0-alpha.0.123+1.21.1`
 - [Contraption Lights (Bi-directional Coloured Dynamic Lights)](https://modrinth.com/project/contraption-lights) `1.5.3`
 - [Controlling](https://modrinth.com/project/controlling) `19.0.5`
 - [Copycats+ aeronautics weight](https://modrinth.com/project/copycats+-aeronautics-weight) `1.1.1`
 - [Crash Assistant](https://modrinth.com/project/crash-assistant) `1.11.12`
 - [Create Aeronautics: Delivery Required](https://modrinth.com/project/create-aeronautics-delivery-required) `1.0.2`
-- [Create Aeronautics: Gadgets & Gizmos](https://modrinth.com/project/create-aeronautics-gadgets-and-gizmos) `2.0.0-Beta-2`
+- [Create Aeronautics: Gadgets & Gizmos](https://modrinth.com/project/create-aeronautics-gadgets-and-gizmos) `1.2.9`
 - Create Aeronautics: Harness `CreateAeronauticsHarness-1.21.1-1.0.1.jar` (curseforge)
 - [Create Big Cannons](https://modrinth.com/project/create-big-cannons) `5.11.7`
 - [Create Cosmonautics](https://modrinth.com/project/create-cosmonatics) `26.08.307`
@@ -40,7 +40,7 @@
 - [Create Deco](https://modrinth.com/project/create-deco) `2.1.3`
 - [Create Deep Seas](https://modrinth.com/project/create-deep-seas) `3.3.0`
 - [Create Jetpack](https://modrinth.com/project/create-jetpack) `5.2.1`
-- [Create Pocket Sized](https://modrinth.com/project/create-pocket-sized) `0.20.0`
+- [Create Pocket Sized](https://modrinth.com/project/create-pocket-sized) `0.20.1`
 - [Create Propulsion: Simulated](https://modrinth.com/project/create-propulsion-simulated) `1.1.5`
 - [Create Slice & Dice](https://modrinth.com/project/slice-and-dice) `4.3.4`
 - [Create Stock Bridge](https://modrinth.com/project/create-stock-bridge) `1.21.1-0.2.0`
@@ -110,6 +110,7 @@
 - [Ponder for KubeJS](https://modrinth.com/project/ponder) `1.21.1-2.4.0+neoforge`
 - [Reese's Sodium Options](https://modrinth.com/project/reeses-sodium-options) `mc1.21.1-2.2.4+neoforge`
 - [Reliable EMI (REMI)](https://modrinth.com/project/reliable-emi) `4.7.9-1.21.1-neoforge`
+- [Roxy](https://modrinth.com/project/roxy) `0.4.0-neoforge+mc1.21.1`
 - [ServerCore](https://modrinth.com/project/servercore) `1.5.19+1.21.1`
 - [Simple Voice Chat](https://modrinth.com/project/simple-voice-chat) `neoforge-1.21.1-2.6.24`
 - [SnAssets Library - General](https://modrinth.com/project/snassets-library-general) `snassets-general-1.0.2`
@@ -127,7 +128,8 @@
 - [vista](https://modrinth.com/project/vista_tv) `1.21.1-5.5.7`
 - [Vista - All The Cassettes](https://modrinth.com/project/vista-all-the-cassettes) `1.2.0+neoforge.mc1.21.1`
 - [Vista: Recipes](https://modrinth.com/project/vista-recipes) `v3.1`
-- [VS / Sable Hose Connectors](https://modrinth.com/project/vs-hose-connectors) `0.1.9`
+- [Voxy Server Side](https://modrinth.com/project/voxy-server-side) `0.17.0`
+- [VS / Sable Hose Connectors](https://modrinth.com/project/vs-hose-connectors) `0.2.0`
 - [When Dungeons Arise](https://modrinth.com/project/when-dungeons-arise) `2.1.68`
 - [Xaero's Minimap](https://modrinth.com/project/xaeros-minimap) `neoforge-1.21.1-26.6.0`
 - [Xaero's World Map](https://modrinth.com/project/xaeros-world-map) `neoforge-1.21.1-1.47.0`

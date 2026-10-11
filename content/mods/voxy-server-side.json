@@ -1,0 +1,23 @@
+{
+  "name": "Voxy Server Side",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "84zcagOb",
+      "slug": "voxy-server-side",
+      "versionId": "xwl6bm8e",
+      "versionNumber": "0.17.0",
+      "filename": "voxy-server-side-neoforge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/84zcagOb/versions/xwl6bm8e/voxy-server-side-neoforge.jar",
+      "sha1": "91924657d57a6386853e506b3b46712b856928ec",
+      "sha512": "eca81f1246e323216edfad63f314afff77b1f346abc46067b0c3da105bc9f7db50e7baa3134565e0020ec4c9639b1327fb39dd48760d61cb8979108cddc55b0b",
+      "fileSize": 14339281
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

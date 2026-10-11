@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "YaZEkFmd",
       "slug": "vs-hose-connectors",
-      "versionId": "MXkbKYIF",
-      "versionNumber": "0.1.9",
-      "filename": "VS-Sable-HoseConnectors-0.1.9-1.21.1.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/YaZEkFmd/versions/MXkbKYIF/VS-Sable-HoseConnectors-0.1.9-1.21.1.jar",
-      "sha1": "938c362e743dd6b447ee29ccf9b7c55c442cd4ef",
-      "sha512": "c790ec176508af6aeca85d87b560e78637bebf4647f4b522c29759e9b86f7d23b0f73c7f6f6eb54fb8b054a928197491256c33acc018e52223ec4edf78dbc1f2",
-      "fileSize": 1569452
+      "versionId": "VPK6yukm",
+      "versionNumber": "0.2.0",
+      "filename": "VS-Sable-HoseConnectors-0.2.0-1.21.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/YaZEkFmd/versions/VPK6yukm/VS-Sable-HoseConnectors-0.2.0-1.21.1.jar",
+      "sha1": "ad107f302c355c230373e46f2424b82a956c8e2b",
+      "sha512": "302324073ca6923731b7c9c0322fe2ee2b2036b934ed5ebfed0d1d289bf32e9a82a86b94e0ba2ea48ef96d1bdc2a1512241aae996699dd8b7fbd0447889f53d4",
+      "fileSize": 2077529
     }
   },
   "dependents": [],

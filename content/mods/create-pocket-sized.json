@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "KbwNRCY7",
       "slug": "create-pocket-sized",
-      "versionId": "Ywtiurnv",
-      "versionNumber": "0.20.0",
-      "filename": "pocket-0.20.0.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/KbwNRCY7/versions/Ywtiurnv/pocket-0.20.0.jar",
-      "sha1": "266d1eddea73ffe49768600174734cb0340b784f",
-      "sha512": "169ca8454cbdfa484e7500063dbe7c95ca6cf2d425cbe559e466bc551c80cb83a5f56cfe3fc9442dc25556b0635ea95db61b95b384585acfb58f8dab3054705f",
-      "fileSize": 1414655
+      "versionId": "5APN0wIs",
+      "versionNumber": "0.20.1",
+      "filename": "pocket-0.20.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/KbwNRCY7/versions/5APN0wIs/pocket-0.20.1.jar",
+      "sha1": "b1ecd726d4823367189b954ab10a5d0bf55167b0",
+      "sha512": "7d24f5adacb1c33073b4cec32c02daa537510596bfcb95e094253d71b9312dd120350440037250f9450c3d3a8d8096753e53ff7051652c3c5239661aa61ced11",
+      "fileSize": 1727283
     }
   },
   "dependents": [],

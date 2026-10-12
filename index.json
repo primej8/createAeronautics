@@ -61,6 +61,10 @@
       "sha1": "55a9604bf4d269e6650f10f7498576a56aead2e4"
     },
     {
+      "path": "content/mods/better_contraption_diagram.json",
+      "sha1": "92174f01d8a0c4d50902b929c89df3564b7f063a"
+    },
+    {
       "path": "content/mods/betterend-neoforge.json",
       "sha1": "ad28e01117b3f0c0c8c3ca43aea673935c367a93"
     },
@@ -158,7 +162,7 @@
     },
     {
       "path": "content/mods/create-aeronautics.json",
-      "sha1": "b67f36bd326a41ee0a7dfde4601915a89172764a"
+      "sha1": "e3e27931af785aae5a5d2ca2bbe3bb2a165a0de4"
     },
     {
       "path": "content/mods/create-aeroworks.json",
@@ -646,7 +650,7 @@
     },
     {
       "path": "content/mods/supplementaries.json",
-      "sha1": "b8f51b8fe3eb373d0e27ea6dbe5bd01df35cf1a2"
+      "sha1": "5d3f522a81f51aa9302a65b517776d709b8caa9c"
     },
     {
       "path": "content/mods/tectonic.json",

@@ -5,7 +5,6 @@
 ## Contents
 
 - [AdvancedAE](https://modrinth.com/project/advancedae) `1.6.12-1.21.1`
-- [Aeronautics Camera Sync](https://modrinth.com/project/aero_cam_sync) `1.4.0`
 - [Amendments](https://modrinth.com/project/amendments) `1.21-2.1.11`
 - [AppleSkin](https://modrinth.com/project/appleskin) `3.0.9+mc1.21`
 - [Applied Energistics 2](https://modrinth.com/project/ae2) `19.2.18`
@@ -120,6 +119,7 @@
 - [Oh The Biomes We've Gone](https://modrinth.com/project/oh-the-biomes-weve-gone) `2.6.3-NeoForge`
 - [Photon Shaders](https://modrinth.com/project/photon-shader) `v1.3b`
 - [Ponder for KubeJS](https://modrinth.com/project/ponder) `1.21.1-2.4.0+neoforge`
+- [Proxy Compatible Forge](https://modrinth.com/project/proxy-compatible-forge) `1.3.1`
 - [Quark](https://modrinth.com/project/quark) `4.1-487`
 - [Quark Oddities](https://modrinth.com/project/quark-oddities) `1.21.1`
 - [Ragdoll Reactions](https://modrinth.com/project/ragdoll-reactions) `0.7.0`

@@ -9,10 +9,6 @@
       "sha1": "a68698f652480a4afea98509ad5bd8d2bfefdbb8"
     },
     {
-      "path": "content/mods/aero_cam_sync.json",
-      "sha1": "7ab668d27fd312ffed480258d539456082e12a6a"
-    },
-    {
       "path": "content/mods/amendments.json",
       "sha1": "0014b22ae0a6c63939501f0e56b6a433aa27256a"
     },
@@ -162,7 +158,7 @@
     },
     {
       "path": "content/mods/create-aeronautics.json",
-      "sha1": "9290b2cfb7b2ffb343fd93ba39cfd46026dfd25b"
+      "sha1": "2fc0f26c0097b46a81c14256db0f7bda8bc69c66"
     },
     {
       "path": "content/mods/create-aeroworks.json",
@@ -533,6 +529,10 @@
       "sha1": "453c4627a1f8ea3d703f9c28ce19e9f95c197c99"
     },
     {
+      "path": "content/mods/proxy-compatible-forge.json",
+      "sha1": "37996d3e39a6c2c156337e048e0c48d8963b3698"
+    },
+    {
       "path": "content/mods/quark-oddities.json",
       "sha1": "18ddfd028fc4d53570142c00245681843e8e6935"
     },
@@ -586,7 +586,7 @@
     },
     {
       "path": "content/mods/sable.json",
-      "sha1": "2c4c0e742b2d1302f1fe765f90695bfd9fd04676"
+      "sha1": "4265f7bc88ba324d53568c186b96d0d670f62273"
     },
     {
       "path": "content/mods/sable_beyond.json",

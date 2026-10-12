@@ -126,7 +126,7 @@
     },
     {
       "path": "content/mods/contraption-lights.json",
-      "sha1": "2829ea079327165d085c137fd0ed74c733c032f7"
+      "sha1": "b7cb099e8bab784da77eec844f85f9520185271c"
     },
     {
       "path": "content/mods/controlling.json",
@@ -154,7 +154,7 @@
     },
     {
       "path": "content/mods/create-aeronautics-gadgets-and-gizmos.json",
-      "sha1": "2cfdfd3de4993ca04b710d733c23d07703ebf47b"
+      "sha1": "dbb1c3fa73b5b72b5fea1aab089ea64dbfa5a151"
     },
     {
       "path": "content/mods/create-aeronautics-harness.json",
@@ -162,7 +162,7 @@
     },
     {
       "path": "content/mods/create-aeronautics.json",
-      "sha1": "c0707ee2ba0f6c8a7ffe142727c52300f6bb559e"
+      "sha1": "9290b2cfb7b2ffb343fd93ba39cfd46026dfd25b"
     },
     {
       "path": "content/mods/create-aeroworks.json",
@@ -270,7 +270,7 @@
     },
     {
       "path": "content/mods/create.json",
-      "sha1": "b0e7c699e18d1181430356101238116fbccb1ac7"
+      "sha1": "e8f8035892492373eeb96507f89a0895957816d2"
     },
     {
       "path": "content/mods/creeper-firework.json",
@@ -386,7 +386,7 @@
     },
     {
       "path": "content/mods/forgified-fabric-api.json",
-      "sha1": "ba21db43af58db9abecf282b62e4717a7dd54ede"
+      "sha1": "9743694c47eadb735096e13a2d10627e016b47a0"
     },
     {
       "path": "content/mods/frequency-create.json",
@@ -554,7 +554,7 @@
     },
     {
       "path": "content/mods/reliable-emi.json",
-      "sha1": "3a223c6a96a74f4d7b600031770132a0c6c90ffd"
+      "sha1": "b7971a55f2619b4c98a0b37be42128f5862d5223"
     },
     {
       "path": "content/mods/resourceful-config.json",
@@ -642,7 +642,7 @@
     },
     {
       "path": "content/mods/structurify.json",
-      "sha1": "874989bfa39cf00652267fd2f3ec0b904b5b4355"
+      "sha1": "fa54d1a6d04686f3a23ffaba101b51f5534382db"
     },
     {
       "path": "content/mods/supplementaries-squared.json",
@@ -690,7 +690,7 @@
     },
     {
       "path": "content/mods/vs-hose-connectors.json",
-      "sha1": "4795547107d6267d7c85d40ce5f37a16a7c2599f"
+      "sha1": "7844e879a6f5a43a36c90c6adec43e28237c9645"
     },
     {
       "path": "content/mods/when-dungeons-arise.json",

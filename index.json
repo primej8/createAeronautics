@@ -73,6 +73,10 @@
       "sha1": "9444239797c4ae9d3255a60cb6050b4a1372f5ba"
     },
     {
+      "path": "content/mods/c2me-neoforge.json",
+      "sha1": "c5f827fd4634e9bc9f26ac048ed7f79e7467bfda"
+    },
+    {
       "path": "content/mods/carry-on-extend.json",
       "sha1": "6f720a631c07580ceef8d667574efd4e707083f4"
     },
@@ -501,10 +505,6 @@
       "sha1": "486d8be093d6e37c5d94336eee6866e8427c703a"
     },
     {
-      "path": "content/mods/moonrise-opt.json",
-      "sha1": "f2836d6d3bfef166325654e071e5a628cf2e0a77"
-    },
-    {
       "path": "content/mods/moreculling.json",
       "sha1": "89358d047e6ab3cc4d3cefffea2b9191096e68a8"
     },
@@ -519,6 +519,10 @@
     {
       "path": "content/mods/not-enough-glyphs.json",
       "sha1": "188365e05dc8cd2ed4bfc8a03baf77de6485b82a"
+    },
+    {
+      "path": "content/mods/notenoughcrashes.json",
+      "sha1": "9ea840df98619332b7c103916bd36c3749c59030"
     },
     {
       "path": "content/mods/notenoughrecipebook.json",
@@ -799,6 +803,10 @@
     {
       "path": "content/mods/zeta.json",
       "sha1": "def9c3e5736eac01b830527eb7a0988dbe3ba251"
+    },
+    {
+      "path": "content/mods/zfastnoise.json",
+      "sha1": "757320931c822e7a1e38edb991436e7f96d9123a"
     },
     {
       "path": "content/resourcepacks/unique-dark-refined.json",

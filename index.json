@@ -49,6 +49,10 @@
       "sha1": "f658ca1ed127d4b77d26c308ac416b7854f1e613"
     },
     {
+      "path": "content/mods/better-advanced-tooltips.json",
+      "sha1": "219624a10fd5fac1e6b3bb6414af9353dc12ec34"
+    },
+    {
       "path": "content/mods/better-clouds.json",
       "sha1": "55a9604bf4d269e6650f10f7498576a56aead2e4"
     },
@@ -417,6 +421,10 @@
       "sha1": "76c6d699f407de5a6d75377f766a5a44ed76ba94"
     },
     {
+      "path": "content/mods/kubejs.json",
+      "sha1": "110e7325362c25144d3a4176e6e40fbcc940da68"
+    },
+    {
       "path": "content/mods/lambdynamiclights.json",
       "sha1": "f7af1f5cc8b1f8c82d8c9600ef0c0f7e0e90b331"
     },
@@ -515,6 +523,10 @@
     {
       "path": "content/mods/resourceful-config.json",
       "sha1": "70f23a34fc1da54d8da9e530ea64a517198814d7"
+    },
+    {
+      "path": "content/mods/rhino.json",
+      "sha1": "c9524753f7d111645155084793a8760849e56294"
     },
     {
       "path": "content/mods/roxy.json",

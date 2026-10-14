@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "HZmhgdJk",
       "slug": "wunderlib-neoforge",
-      "versionId": "5db3GZzg",
-      "versionNumber": "21.0.10",
-      "filename": "wunderlib-21.0.10.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/HZmhgdJk/versions/5db3GZzg/wunderlib-21.0.10.jar",
-      "sha1": "330ab9d6d8d92a9337e97ef22e64f83fe2d4bf2a",
-      "sha512": "8785b16968ed82ead0fc3f6f42ca3dd7fa94b94a79eeb97a61e57b258bf8c0e6775002a561cf28a1840216bd06f3b86a31da420d4ccc2d37c14abe22058bdf96",
-      "fileSize": 378820
+      "versionId": "OMcJPqz0",
+      "versionNumber": "21.0.11",
+      "filename": "wunderlib-21.0.11.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/HZmhgdJk/versions/OMcJPqz0/wunderlib-21.0.11.jar",
+      "sha1": "58a8354e9ecb70a04b51f080ce3c2864a1cf3700",
+      "sha512": "05e70d969d52d4c970d2914d767cce30f083cd1a2ce25c38da222435946d43074d2b998b611d6a867c90401c88e6305505c6ffb91543af9015ff35c3d53f76eb",
+      "fileSize": 378829
     }
   },
   "dependents": [

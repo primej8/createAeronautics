@@ -54,7 +54,7 @@
     },
     {
       "path": "content/mods/bclib-neoforge.json",
-      "sha1": "7d79728c0700ed804d5fefbf2804ce6029eaa993"
+      "sha1": "816dd3b2e411d44609b3e4d103164b70d666feb8"
     },
     {
       "path": "content/mods/better-advanced-tooltips.json",
@@ -65,20 +65,12 @@
       "sha1": "55a9604bf4d269e6650f10f7498576a56aead2e4"
     },
     {
-      "path": "content/mods/better_contraption_diagram.json",
-      "sha1": "92174f01d8a0c4d50902b929c89df3564b7f063a"
-    },
-    {
       "path": "content/mods/betterend-neoforge.json",
-      "sha1": "ad28e01117b3f0c0c8c3ca43aea673935c367a93"
+      "sha1": "a37a789007ec22e06fd06f70e7d5f5bc8a462db7"
     },
     {
       "path": "content/mods/betternether-neoforge.json",
-      "sha1": "0687d6d927af49e6daa4a50d9bf46336ff504f30"
-    },
-    {
-      "path": "content/mods/c2me-neoforge.json",
-      "sha1": "c5f827fd4634e9bc9f26ac048ed7f79e7467bfda"
+      "sha1": "9444239797c4ae9d3255a60cb6050b4a1372f5ba"
     },
     {
       "path": "content/mods/carry-on-extend.json",
@@ -166,7 +158,7 @@
     },
     {
       "path": "content/mods/create-aeronautics.json",
-      "sha1": "2fc0f26c0097b46a81c14256db0f7bda8bc69c66"
+      "sha1": "2711d3a99e014783dc5b7af244c71d5e3045c437"
     },
     {
       "path": "content/mods/create-aeroworks.json",
@@ -333,6 +325,10 @@
       "sha1": "a3279a44e70fa1d96683ed42df506f708ecd524f"
     },
     {
+      "path": "content/mods/enhanced-diagrams.json",
+      "sha1": "8b089990d820f1ee5dca6baf43d38d7ba58f8b98"
+    },
+    {
       "path": "content/mods/entityculling.json",
       "sha1": "152818cea8c61eae145c1d026c8906fd7c4b4005"
     },
@@ -478,7 +474,7 @@
     },
     {
       "path": "content/mods/lithostitched.json",
-      "sha1": "2482ffafa3f85313d6a6330cf5f54db7fd3695f2"
+      "sha1": "6faaa02bd19f5711c1c36cb15cb4e8b9d43374c1"
     },
     {
       "path": "content/mods/lmd.json",
@@ -523,10 +519,6 @@
     {
       "path": "content/mods/not-enough-glyphs.json",
       "sha1": "188365e05dc8cd2ed4bfc8a03baf77de6485b82a"
-    },
-    {
-      "path": "content/mods/notenoughcrashes.json",
-      "sha1": "9ea840df98619332b7c103916bd36c3749c59030"
     },
     {
       "path": "content/mods/notenoughrecipebook.json",
@@ -730,11 +722,11 @@
     },
     {
       "path": "content/mods/worldweaver-neoforge.json",
-      "sha1": "977a25c334465d65789b21fc0e1e920253be0907"
+      "sha1": "5b3f73289e7ac2642eebada6a9257fd4a217a516"
     },
     {
       "path": "content/mods/wunderlib-neoforge.json",
-      "sha1": "dea54a00d4ce467ad5b849400d2c508a14ee743b"
+      "sha1": "22fae65c3912ac644ccfa4b20dd774dd362d8c9b"
     },
     {
       "path": "content/mods/xaeros-minimap.json",
@@ -807,10 +799,6 @@
     {
       "path": "content/mods/zeta.json",
       "sha1": "def9c3e5736eac01b830527eb7a0988dbe3ba251"
-    },
-    {
-      "path": "content/mods/zfastnoise.json",
-      "sha1": "757320931c822e7a1e38edb991436e7f96d9123a"
     },
     {
       "path": "content/resourcepacks/unique-dark-refined.json",

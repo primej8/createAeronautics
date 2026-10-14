@@ -1,0 +1,23 @@
+{
+  "name": "Simulated: Enhanced Diagrams",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "74NMPL0B",
+      "slug": "enhanced-diagrams",
+      "versionId": "P8xHwFhj",
+      "versionNumber": "1.0.0",
+      "filename": "enhanced_diagrams-1.0.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/74NMPL0B/versions/P8xHwFhj/enhanced_diagrams-1.0.0.jar",
+      "sha1": "696d381ebd58b3ca30b4168713687665e0a3e094",
+      "sha512": "d918e0d26c09a0f1e4f37fb325adef578e736e0bedb058a836e8faa5dce4e5528fa800c3de1940b16a30c2ab086ddc0b640ef5c7b47373584f2c791d027631fb",
+      "fileSize": 7316
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

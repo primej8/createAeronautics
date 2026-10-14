@@ -16,9 +16,8 @@
 - [Ars Énergistique](https://modrinth.com/project/ars-energistique) `2.1.1-beta`
 - [BadOptimizations](https://modrinth.com/project/badoptimizations) `2.4.1`
 - [Better Clouds](https://modrinth.com/project/better-clouds) `1.13.11+1.21.1-neoforge-release`
-- [Better Contraption Diagram](https://modrinth.com/project/better_contraption_diagram) `1.2.2`
-- [BetterEnd: New Dawn](https://modrinth.com/project/betterend-neoforge) `21.0.36`
-- [BetterNether: New Dawn](https://modrinth.com/project/betternether-neoforge) `21.0.27`
+- [BetterEnd: New Dawn](https://modrinth.com/project/betterend-neoforge) `21.0.37`
+- [BetterNether: New Dawn](https://modrinth.com/project/betternether-neoforge) `21.0.28`
 - [Carry On](https://modrinth.com/project/carry-on) `2.2.6`
 - [Carry On Extend](https://modrinth.com/project/carry-on-extend) `1.5.2`
 - [CC: Create Redstone Link](https://modrinth.com/project/ccc-redstone-link) `0.1.1`
@@ -142,6 +141,7 @@
 - [Separate Sable Render Distance (Create Aeronautics Addon)](https://modrinth.com/project/ssrd) `1.8.6`
 - [ServerCore](https://modrinth.com/project/servercore) `1.5.19+1.21.1`
 - [Simple Voice Chat](https://modrinth.com/project/simple-voice-chat) `neoforge-1.21.1-2.6.24`
+- [Simulated: Enhanced Diagrams](https://modrinth.com/project/enhanced-diagrams) `1.0.0`
 - [SnAssets Library - General](https://modrinth.com/project/snassets-library-general) `snassets-general-1.0.2`
 - [Sodium](https://modrinth.com/project/sodium) `mc1.21.1-0.8.13-neoforge`
 - [Sodium Extra](https://modrinth.com/project/sodium-extra) `mc1.21.1-0.9.4+neoforge`

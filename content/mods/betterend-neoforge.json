@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "IcERKldh",
       "slug": "betterend-neoforge",
-      "versionId": "pfmzeBpk",
-      "versionNumber": "21.0.36",
-      "filename": "BetterEnd-21.0.36.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/IcERKldh/versions/pfmzeBpk/BetterEnd-21.0.36.jar",
-      "sha1": "f715d81892313da8b524e6d4fa1d6a4a4feb6bf1",
-      "sha512": "17a5007ec2a35bfd32d29bc4c9fdea44519cc9be968835d836861ccc753c2fdb0c6b2c82be7f46f1cf4830c4e8cb2b7a8559080eefd691ff2d4d622033942421",
-      "fileSize": 97696447
+      "versionId": "a1IUWuCb",
+      "versionNumber": "21.0.37",
+      "filename": "BetterEnd-21.0.37.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/IcERKldh/versions/a1IUWuCb/BetterEnd-21.0.37.jar",
+      "sha1": "2b00a82c1bbfde355408512d0470b8e5f6973fe5",
+      "sha512": "25858f1b35f0745f538e762d4e15276a6a3db15f089d52a2b616b80fdb7df47864b0cce2383c6cd9a51921c5378cee5e25cd67650bbc868784d04f3fced5c243",
+      "fileSize": 97707912
     }
   },
   "dependents": [

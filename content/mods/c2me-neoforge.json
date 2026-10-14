@@ -2,7 +2,7 @@
   "name": "Concurrent Chunk Management Engine (NeoForge)",
   "side": "auto",
   "explicit": true,
-  "disabled": false,
+  "disabled": true,
   "preferred": "modrinth",
   "sources": {
     "modrinth": {

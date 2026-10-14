@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "R8uGDQpB",
       "slug": "worldweaver-neoforge",
-      "versionId": "x1laXrzF",
-      "versionNumber": "21.0.26",
-      "filename": "worldweaver-21.0.26.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/R8uGDQpB/versions/x1laXrzF/worldweaver-21.0.26.jar",
-      "sha1": "ebdcc285d6aa4aef53f0926fc40930838f7f3e0f",
-      "sha512": "9b75ab0a6276bd9924ef81c21d356478e668169c901d8dae2f3f251c857f78b4cd73045116d5b98887241c0486b1892086cc0a1c14ae67f1d7663717554ecab9",
-      "fileSize": 2215087
+      "versionId": "lL7lvfic",
+      "versionNumber": "21.0.27",
+      "filename": "worldweaver-21.0.27.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/R8uGDQpB/versions/lL7lvfic/worldweaver-21.0.27.jar",
+      "sha1": "e76bcadec9df4e2d47947ec9ba212ef1aa25ca84",
+      "sha512": "ada4624388a2b991ed9e2e6a98a0e84a2dbf2be8b5bb9fbc29a85622073d35ff517bcda1004b6af98f5f090f3cb322b549b33ccd1c01719ebbadf337ee54a86d",
+      "fileSize": 2214989
     }
   },
   "dependents": [

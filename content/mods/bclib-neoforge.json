@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "7bdKEtKC",
       "slug": "bclib-neoforge",
-      "versionId": "QkXw8Fsl",
-      "versionNumber": "21.0.26",
-      "filename": "bclib-21.0.26.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/7bdKEtKC/versions/QkXw8Fsl/bclib-21.0.26.jar",
-      "sha1": "06cc971fd149d7dae65c75792798b98be7439141",
-      "sha512": "0724010228a724c77b021676310e96e6d428a5df1f66890ee11b74ea1c2592bdaf9be250bcdbd0eb8bf4a1d4d0c5bddde06fca5ab5d6d700be19d0c86fe67bf2",
-      "fileSize": 2159176
+      "versionId": "OBMFlDiD",
+      "versionNumber": "21.0.27",
+      "filename": "bclib-21.0.27.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/7bdKEtKC/versions/OBMFlDiD/bclib-21.0.27.jar",
+      "sha1": "f6a117981f3880d484d7dbcd179f183690e53afd",
+      "sha512": "3248ad73e963cc5d0bd0fd2a18631ea86b077936128080b4e05c69928e549241ec9678bbdcc39174204bc992949f43dae72cfbf5e4b36a4be6273696f0f5ea44",
+      "fileSize": 2159161
     }
   },
   "dependents": [

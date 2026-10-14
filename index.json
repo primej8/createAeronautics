@@ -13,10 +13,6 @@
       "sha1": "39c14a195740c287aaa29df122ee0e1be860bf31"
     },
     {
-      "path": "content/mods/amendments.json",
-      "sha1": "0014b22ae0a6c63939501f0e56b6a433aa27256a"
-    },
-    {
       "path": "content/mods/appleskin.json",
       "sha1": "0d7464a310020b7a0ce306927a2f66e63abf2d6b"
     },
@@ -53,24 +49,8 @@
       "sha1": "f658ca1ed127d4b77d26c308ac416b7854f1e613"
     },
     {
-      "path": "content/mods/bclib-neoforge.json",
-      "sha1": "816dd3b2e411d44609b3e4d103164b70d666feb8"
-    },
-    {
-      "path": "content/mods/better-advanced-tooltips.json",
-      "sha1": "219624a10fd5fac1e6b3bb6414af9353dc12ec34"
-    },
-    {
       "path": "content/mods/better-clouds.json",
       "sha1": "55a9604bf4d269e6650f10f7498576a56aead2e4"
-    },
-    {
-      "path": "content/mods/betterend-neoforge.json",
-      "sha1": "a37a789007ec22e06fd06f70e7d5f5bc8a462db7"
-    },
-    {
-      "path": "content/mods/betternether-neoforge.json",
-      "sha1": "9444239797c4ae9d3255a60cb6050b4a1372f5ba"
     },
     {
       "path": "content/mods/c2me-neoforge.json",
@@ -139,10 +119,6 @@
     {
       "path": "content/mods/copycats.json",
       "sha1": "7dacf869f46f79ed64a55e76c2e8b5a82e3d50e4"
-    },
-    {
-      "path": "content/mods/corgilib.json",
-      "sha1": "9f91745279528494b235de68b1f02bbb8e01a322"
     },
     {
       "path": "content/mods/crash-assistant.json",
@@ -361,28 +337,8 @@
       "sha1": "88bf7c0ad95c1d24f25075ecb5180cd5feeedf6a"
     },
     {
-      "path": "content/mods/farmers-cutting-betterend.json",
-      "sha1": "e6cb4e46f5f9ae3e6eb6be65a1829dff1ea3d0e0"
-    },
-    {
-      "path": "content/mods/farmers-cutting-betternether.json",
-      "sha1": "217702a8864165bab2d6ad8d91283ed4b4af903b"
-    },
-    {
-      "path": "content/mods/farmers-cutting-oh-the-biomes-weve-gone.json",
-      "sha1": "1563f7180a84bc84b4906d6e8222f49c9d07f3e7"
-    },
-    {
-      "path": "content/mods/farmers-cutting-quark.json",
-      "sha1": "264d7fc9fa2059e1d584d2e8e8bb55711f82a5fd"
-    },
-    {
       "path": "content/mods/farmers-delight.json",
-      "sha1": "6f69fa240f649525f28ea19bca08d799f0d4c519"
-    },
-    {
-      "path": "content/mods/feature-recycler.json",
-      "sha1": "d4c9bd80ed1063bb7dc3f4a75ca69fc1929c70f3"
+      "sha1": "3cee49375af39d4e046fcb0bb7e7783641190235"
     },
     {
       "path": "content/mods/ferrite-core.json",
@@ -402,7 +358,7 @@
     },
     {
       "path": "content/mods/geckolib.json",
-      "sha1": "92ebacffb1eebc5a529b9a2422a3fac906b5a2a9"
+      "sha1": "7c6909bd2cb6e01c53e862bfcfa303f0e130385c"
     },
     {
       "path": "content/mods/glaidens-audio-aeronautics-compat.json",
@@ -461,10 +417,6 @@
       "sha1": "76c6d699f407de5a6d75377f766a5a44ed76ba94"
     },
     {
-      "path": "content/mods/kubejs.json",
-      "sha1": "110e7325362c25144d3a4176e6e40fbcc940da68"
-    },
-    {
       "path": "content/mods/lambdynamiclights.json",
       "sha1": "f7af1f5cc8b1f8c82d8c9600ef0c0f7e0e90b331"
     },
@@ -502,7 +454,7 @@
     },
     {
       "path": "content/mods/moonlight.json",
-      "sha1": "486d8be093d6e37c5d94336eee6866e8427c703a"
+      "sha1": "1a57ad227ddd41b280fa07b84db9b8b3b201d5cf"
     },
     {
       "path": "content/mods/moreculling.json",
@@ -533,14 +485,6 @@
       "sha1": "a375748891d53ab52343e1a2dbdb082298ec6806"
     },
     {
-      "path": "content/mods/oh-the-biomes-weve-gone.json",
-      "sha1": "31128ce5f1de5e50ad0a34162473b4ee04599966"
-    },
-    {
-      "path": "content/mods/oh-the-trees-youll-grow.json",
-      "sha1": "65e17d16bc194dadfdd0500af47995c830e96b69"
-    },
-    {
       "path": "content/mods/packet-fixer.json",
       "sha1": "3e70a0817b2ce0856233a01ca1123548f2091107"
     },
@@ -551,14 +495,6 @@
     {
       "path": "content/mods/ponder.json",
       "sha1": "453c4627a1f8ea3d703f9c28ce19e9f95c197c99"
-    },
-    {
-      "path": "content/mods/quark-oddities.json",
-      "sha1": "18ddfd028fc4d53570142c00245681843e8e6935"
-    },
-    {
-      "path": "content/mods/quark.json",
-      "sha1": "b397ee8deaad29a0ba6072adec29a7ef371932d9"
     },
     {
       "path": "content/mods/ragdoll-reactions.json",
@@ -579,10 +515,6 @@
     {
       "path": "content/mods/resourceful-config.json",
       "sha1": "70f23a34fc1da54d8da9e530ea64a517198814d7"
-    },
-    {
-      "path": "content/mods/rhino.json",
-      "sha1": "c9524753f7d111645155084793a8760849e56294"
     },
     {
       "path": "content/mods/roxy.json",
@@ -669,20 +601,8 @@
       "sha1": "fa54d1a6d04686f3a23ffaba101b51f5534382db"
     },
     {
-      "path": "content/mods/supplementaries-squared.json",
-      "sha1": "d0326d1ed1f9ba292fcfc69778ac9139787df08a"
-    },
-    {
-      "path": "content/mods/supplementaries.json",
-      "sha1": "5d3f522a81f51aa9302a65b517776d709b8caa9c"
-    },
-    {
       "path": "content/mods/tectonic.json",
       "sha1": "a0b9340166b62240b27bbd62bd6cc96742b74019"
-    },
-    {
-      "path": "content/mods/terrablender.json",
-      "sha1": "70d63c32546e497be5b3e725ff293b92db0be8b5"
     },
     {
       "path": "content/mods/terralith.json",
@@ -723,14 +643,6 @@
     {
       "path": "content/mods/worldedit.json",
       "sha1": "6c5ad5f65ad0094c87138d256bcb02eb77a1d8ea"
-    },
-    {
-      "path": "content/mods/worldweaver-neoforge.json",
-      "sha1": "5b3f73289e7ac2642eebada6a9257fd4a217a516"
-    },
-    {
-      "path": "content/mods/wunderlib-neoforge.json",
-      "sha1": "22fae65c3912ac644ccfa4b20dd774dd362d8c9b"
     },
     {
       "path": "content/mods/xaeros-minimap.json",
@@ -799,10 +711,6 @@
     {
       "path": "content/mods/yungs-extras.json",
       "sha1": "90bf71325adcf8f823a65631a7f115729632b3f2"
-    },
-    {
-      "path": "content/mods/zeta.json",
-      "sha1": "def9c3e5736eac01b830527eb7a0988dbe3ba251"
     },
     {
       "path": "content/mods/zfastnoise.json",

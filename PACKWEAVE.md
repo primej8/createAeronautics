@@ -1,11 +1,10 @@
 # createAeronautics
 
-**Minecraft 1.21.1 · neoforge 21.1.258**, 166 mods (37 dependencies), 2 resource packs, 2 shaders
+**Minecraft 1.21.1 · neoforge 21.1.258**, 156 mods (29 dependencies), 2 resource packs, 2 shaders
 
 ## Contents
 
 - [AdvancedAE](https://modrinth.com/project/advancedae) `1.6.12-1.21.1`
-- [Amendments](https://modrinth.com/project/amendments) `1.21-2.1.11`
 - [AppleSkin](https://modrinth.com/project/appleskin) `3.0.9+mc1.21`
 - [Applied Energistics 2](https://modrinth.com/project/ae2) `19.2.18`
 - [Applied Experienced](https://modrinth.com/project/applied-experienced) `1.21.1-1.3.2`
@@ -86,13 +85,8 @@
 - [Exposure: Polaroid](https://modrinth.com/project/exposure-polaroid) `1.1.6`
 - [Exposure: Space](https://modrinth.com/project/exposure-space) `1.3.0`
 - [Extended AE](https://modrinth.com/project/extended-ae) `1.21-2.2.35-neoforge`
-- [Farmer's Cutting: BetterEnd](https://modrinth.com/project/farmers-cutting-betterend) `1.21.1-2.0-neoforge+mod`
-- [Farmer's Cutting: BetterNether](https://modrinth.com/project/farmers-cutting-betternether) `1.21.1-1.0-neoforge+mod`
-- [Farmer's Cutting: Oh The Biomes We've Gone](https://modrinth.com/project/farmers-cutting-oh-the-biomes-weve-gone) `1.21.1-2.1-neoforge+mod`
-- [Farmer's Cutting: Quark](https://modrinth.com/project/farmers-cutting-quark) `1.21.1-1.0+mod`
 - [Farmer's Delight](https://modrinth.com/project/farmers-delight) `1.21.1-1.3.4`
 - [Fast Noise](https://modrinth.com/project/zfastnoise) `1.0.13+1.21.1+neoforge`
-- [Feature Recycler](https://modrinth.com/project/feature-recycler) `2.0.0-neoforge`
 - [FerriteCore](https://modrinth.com/project/ferrite-core) `7.0.3-neoforge`
 - [Forgified Fabric API](https://modrinth.com/project/forgified-fabric-api) `0.116.15+2.3.5+1.21.1`
 - [Frequency Create](https://modrinth.com/project/frequency-create) `0.2.0`
@@ -123,8 +117,6 @@
 - [Packet Fixer](https://modrinth.com/project/packet-fixer) `3.3.1`
 - [Photon Shaders](https://modrinth.com/project/photon-shader) `v1.3b`
 - [Ponder for KubeJS](https://modrinth.com/project/ponder) `1.21.1-2.4.0+neoforge`
-- [Quark](https://modrinth.com/project/quark) `4.1-487`
-- [Quark Oddities](https://modrinth.com/project/quark-oddities) `1.21.1`
 - [Ragdoll Reactions](https://modrinth.com/project/ragdoll-reactions) `0.7.0`
 - [Redirected](https://modrinth.com/project/redirected) `neoforge-1.21.1-1.0.0`
 - [Reese's Sodium Options](https://modrinth.com/project/reeses-sodium-options) `mc1.21.1-2.2.4+neoforge`
@@ -147,8 +139,6 @@
 - [Steam 'n' Rails Neoforge](https://modrinth.com/project/create-steam-n-rails-1.21.1) `0.3.0-beta.2+neoforge-mc1.21.1`
 - [Structure Layout Optimizer](https://modrinth.com/project/structure-layout-optimizer) `1.0.12+1.21.1-neoforge`
 - [Structurify - Structure Control](https://modrinth.com/project/structurify) `neoforge-2.0.43+mc1.21.1`
-- [Supplementaries](https://modrinth.com/project/supplementaries) `1.21.1-4.0.1`
-- [Supplementaries Squared](https://modrinth.com/project/supplementaries-squared) `1.21-1.2.18`
 - [Tectonic](https://modrinth.com/project/tectonic) `3.0.28-neoforge-21.1`
 - [Terralith](https://modrinth.com/project/terralith) `2.6.2`
 - [Unique Dark](https://modrinth.com/project/unique-dark) `2.9.1`

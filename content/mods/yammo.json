@@ -1,0 +1,22 @@
+{
+  "name": "Yet Another Memory Optimization (YAMO)",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "1211937",
+      "slug": "yammo",
+      "versionId": "7372662",
+      "versionNumber": "yammo-1.0.6.jar",
+      "filename": "yammo-1.0.6.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/7372/662/yammo-1.0.6.jar",
+      "sha1": "27e48e9b5b9c523dd5cb0ebae6afb780e37789ba",
+      "fileSize": 44539
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

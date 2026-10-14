@@ -9,6 +9,10 @@
       "sha1": "a68698f652480a4afea98509ad5bd8d2bfefdbb8"
     },
     {
+      "path": "content/mods/almanac.json",
+      "sha1": "39c14a195740c287aaa29df122ee0e1be860bf31"
+    },
+    {
       "path": "content/mods/amendments.json",
       "sha1": "0014b22ae0a6c63939501f0e56b6a433aa27256a"
     },
@@ -43,6 +47,10 @@
     {
       "path": "content/mods/ars-unification.json",
       "sha1": "6fcb0f00cc6ed8d2a9fefa660b9b0193cb7be4cf"
+    },
+    {
+      "path": "content/mods/badoptimizations.json",
+      "sha1": "f658ca1ed127d4b77d26c308ac416b7854f1e613"
     },
     {
       "path": "content/mods/bclib-neoforge.json",
@@ -130,7 +138,7 @@
     },
     {
       "path": "content/mods/copycats--aeronautics-weight.json",
-      "sha1": "5f4b029cffd533a7cd2fd47eb92f75a08837f6a5"
+      "sha1": "fdd547b247ad2a36100b10237290774c6e69f4de"
     },
     {
       "path": "content/mods/copycats.json",
@@ -150,7 +158,7 @@
     },
     {
       "path": "content/mods/create-aeronautics-gadgets-and-gizmos.json",
-      "sha1": "dbb1c3fa73b5b72b5fea1aab089ea64dbfa5a151"
+      "sha1": "741455ffef3bf47ed20255f630d9301cde8090ea"
     },
     {
       "path": "content/mods/create-aeronautics-harness.json",
@@ -238,7 +246,7 @@
     },
     {
       "path": "content/mods/create-pocket-sized.json",
-      "sha1": "03a276cf0fbf49b59abb92b3c8c7b7e8739a6172"
+      "sha1": "a941777de3b228adb3b2b57b460a49ffbaa4419c"
     },
     {
       "path": "content/mods/create-propulsion-simulated.json",
@@ -310,7 +318,7 @@
     },
     {
       "path": "content/mods/emi-professions--emip-.json",
-      "sha1": "4fe7cc511bda80786fb8e2be595812ef391ca083"
+      "sha1": "da49df221d8e3bc11c1b5ff4a9c9bd6384f4e7a4"
     },
     {
       "path": "content/mods/emi.json",
@@ -405,10 +413,6 @@
       "sha1": "f6c77b468a9ef53365196bc6daf7c3e7d76a3453"
     },
     {
-      "path": "content/mods/glaidens-vista-improvements.json",
-      "sha1": "272904304a8301ad5dfd7151119bc2ed9c451cbe"
-    },
-    {
       "path": "content/mods/glodium.json",
       "sha1": "26e27bb072da8351170778ebb284970585c4fbd7"
     },
@@ -418,7 +422,7 @@
     },
     {
       "path": "content/mods/immediatelyfast.json",
-      "sha1": "b53954a4e72a3425f1ca010e27f0beaca0d2fa6d"
+      "sha1": "75fd9033066564b102e8076c9b7b347c0d1ee7ad"
     },
     {
       "path": "content/mods/iris-veil-compat.json",
@@ -453,6 +457,10 @@
       "sha1": "7d4e0f00246e0c9abd411686629fea087b133f28"
     },
     {
+      "path": "content/mods/krypton-fnp.json",
+      "sha1": "76c6d699f407de5a6d75377f766a5a44ed76ba94"
+    },
+    {
       "path": "content/mods/kubejs.json",
       "sha1": "110e7325362c25144d3a4176e6e40fbcc940da68"
     },
@@ -473,6 +481,10 @@
       "sha1": "2482ffafa3f85313d6a6330cf5f54db7fd3695f2"
     },
     {
+      "path": "content/mods/lmd.json",
+      "sha1": "92453c9cf6024638e8e4d582df1f9e88b19bd0e5"
+    },
+    {
       "path": "content/mods/lootr.json",
       "sha1": "ff2f6fc2795c6a0443de463b782c05f258570c51"
     },
@@ -481,12 +493,20 @@
       "sha1": "e0a192fbdabdb943fcbd392fae7426167f8af712"
     },
     {
+      "path": "content/mods/mixin-helper.json",
+      "sha1": "ac34d463ffede69ceb55b2b53024c3452b7dbf16"
+    },
+    {
       "path": "content/mods/modernfix.json",
       "sha1": "49fe72b3ea8294e7b9d4da43e28a4ae6f67592e9"
     },
     {
       "path": "content/mods/moonlight.json",
       "sha1": "486d8be093d6e37c5d94336eee6866e8427c703a"
+    },
+    {
+      "path": "content/mods/moonrise-opt.json",
+      "sha1": "f2836d6d3bfef166325654e071e5a628cf2e0a77"
     },
     {
       "path": "content/mods/moreculling.json",
@@ -509,6 +529,10 @@
       "sha1": "9ea840df98619332b7c103916bd36c3749c59030"
     },
     {
+      "path": "content/mods/notenoughrecipebook.json",
+      "sha1": "b896b996d0fa394217dda1d36123749f906724fb"
+    },
+    {
       "path": "content/mods/numismatics.json",
       "sha1": "a375748891d53ab52343e1a2dbdb082298ec6806"
     },
@@ -519,6 +543,10 @@
     {
       "path": "content/mods/oh-the-trees-youll-grow.json",
       "sha1": "65e17d16bc194dadfdd0500af47995c830e96b69"
+    },
+    {
+      "path": "content/mods/packet-fixer.json",
+      "sha1": "3e70a0817b2ce0856233a01ca1123548f2091107"
     },
     {
       "path": "content/mods/pehkui.json",
@@ -550,7 +578,7 @@
     },
     {
       "path": "content/mods/reliable-emi.json",
-      "sha1": "b7971a55f2619b4c98a0b37be42128f5862d5223"
+      "sha1": "5b724e1d5d7456048d75607db82a220d0e176475"
     },
     {
       "path": "content/mods/resourceful-config.json",
@@ -607,6 +635,10 @@
     {
       "path": "content/mods/servercore.json",
       "sha1": "2328497721535ee60efb4fd934e0d868e54620d6"
+    },
+    {
+      "path": "content/mods/shatterbyte-lib.json",
+      "sha1": "c114f7c0b1a3f741062d921137f1c8af81f43fa3"
     },
     {
       "path": "content/mods/simple-voice-chat.json",
@@ -715,6 +747,10 @@
     {
       "path": "content/mods/yacl.json",
       "sha1": "1c434d251cec8153b3d5548e3d32e1caa1c7312c"
+    },
+    {
+      "path": "content/mods/yammo.json",
+      "sha1": "5db78661143d8ecabc48646c07714a9e5323c484"
     },
     {
       "path": "content/mods/yungs-api.json",

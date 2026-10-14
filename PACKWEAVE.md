@@ -1,6 +1,6 @@
 # createAeronautics
 
-**Minecraft 1.21.1 · neoforge 21.1.258**, 161 mods (35 dependencies), 2 resource packs, 2 shaders
+**Minecraft 1.21.1 · neoforge 21.1.258**, 167 mods (37 dependencies), 2 resource packs, 2 shaders
 
 ## Contents
 
@@ -14,6 +14,7 @@
 - [Ars Sable](https://modrinth.com/project/ars-sable) `1.2.0`
 - [Ars Unification](https://modrinth.com/project/ars-unification) `1.2.21`
 - [Ars Énergistique](https://modrinth.com/project/ars-energistique) `2.1.1-beta`
+- [BadOptimizations](https://modrinth.com/project/badoptimizations) `2.4.1`
 - [Better Clouds](https://modrinth.com/project/better-clouds) `1.13.11+1.21.1-neoforge-release`
 - [Better Contraption Diagram](https://modrinth.com/project/better_contraption_diagram) `1.2.2`
 - [BetterEnd: New Dawn](https://modrinth.com/project/betterend-neoforge) `21.0.36`
@@ -33,11 +34,11 @@
 - [Concurrent Chunk Management Engine (NeoForge)](https://modrinth.com/project/c2me-neoforge) `0.4.0-alpha.0.123+1.21.1`
 - [Contraption Lights (Bi-directional Coloured Dynamic Lights)](https://modrinth.com/project/contraption-lights) `1.5.4`
 - [Controlling](https://modrinth.com/project/controlling) `19.0.5`
-- [Copycats+ aeronautics weight](https://modrinth.com/project/copycats+-aeronautics-weight) `1.1.1`
+- [Copycats+ aeronautics weight](https://modrinth.com/project/copycats-plus-aeronautics-weight) `1.1.1`
 - [Crash Assistant](https://modrinth.com/project/crash-assistant) `1.11.12`
 - [Create Aeronautics](https://modrinth.com/project/create-aeronautics) `1.3.2+mc1.21.1`
 - [Create Aeronautics: Delivery Required](https://modrinth.com/project/create-aeronautics-delivery-required) `1.0.2`
-- [Create Aeronautics: Gadgets & Gizmos](https://modrinth.com/project/create-aeronautics-gadgets-and-gizmos) `1.2.10`
+- [Create Aeronautics: Gadgets & Gizmos](https://modrinth.com/project/create-aeronautics-gadgets-and-gizmos) `2.0-prerelease`
 - Create Aeronautics: Harness `CreateAeronauticsHarness-1.21.1-1.0.1.jar` (curseforge)
 - [Create Big Cannons](https://modrinth.com/project/create-big-cannons) `5.11.7`
 - [Create Cosmonautics](https://modrinth.com/project/create-cosmonatics) `26.08.307`
@@ -45,7 +46,6 @@
 - [Create Deco](https://modrinth.com/project/create-deco) `2.1.3`
 - [Create Deep Seas](https://modrinth.com/project/create-deep-seas) `3.3.0`
 - [Create Jetpack](https://modrinth.com/project/create-jetpack) `5.2.1`
-- [Create Pocket Sized](https://modrinth.com/project/create-pocket-sized) `0.20.1`
 - [Create Propulsion: Simulated](https://modrinth.com/project/create-propulsion-simulated) `1.1.5`
 - [Create Slice & Dice](https://modrinth.com/project/slice-and-dice) `4.3.4`
 - [Create Stock Bridge](https://modrinth.com/project/create-stock-bridge) `1.21.1-0.2.0`
@@ -63,6 +63,7 @@
 - [Create: Flight Control](https://modrinth.com/project/create-flight-control) `0.7.7`
 - [Create: Mobile Packages](https://modrinth.com/project/create-mobile-packages) `1.21.1-0.7.8`
 - [Create: Numismatics](https://modrinth.com/project/numismatics) `1.1.0+neoforge-mc1.21.1`
+- [Create: Pocket Sized](https://modrinth.com/project/create-pocket-sized) `0.20.1`
 - [Create: Redstone Link GUI](https://modrinth.com/project/create-redstone-link-gui) `1.21.1-1.9.2`
 - [Create: Rolling Tones](https://modrinth.com/project/create-rolling-tones) `rolling_tones_0.2.2`
 - [Create: Train Track Rail Grinding](https://modrinth.com/project/create-rail-grinding) `1.2.2+mc1.21.1`
@@ -77,7 +78,7 @@
 - [EMI Enchanting](https://modrinth.com/project/emi-enchanting) `0.1.2+1.21+neoforge`
 - [EMI Loot](https://modrinth.com/project/emi-loot) `0.7.9+1.21+neoforge`
 - [EMI Ores](https://modrinth.com/project/emi-ores) `1.3+1.21.1+neoforge`
-- [EMI professions (EMIP)](https://modrinth.com/project/emi-professions-(emip)) `1.0.3`
+- [EMI professions (EMIP)](https://modrinth.com/project/emi-professions-emip) `1.0.3`
 - [EMIffect](https://modrinth.com/project/emiffect) `2.1.6+mc1.21.1`
 - [EMILink](https://modrinth.com/project/emilink) `1.1.13`
 - [Entity Culling](https://modrinth.com/project/entityculling) `1.11.3`
@@ -98,34 +99,38 @@
 - [Frequency Create](https://modrinth.com/project/frequency-create) `0.2.0`
 - [Glaiden's Audio](https://modrinth.com/project/glaidens-audio) `1.5.1`
 - [Glaiden's audio Aeronautics compat](https://modrinth.com/project/glaidens-audio-aeronautics-compat) `1.0.0`
-- [Glaiden's Vista improvements](https://modrinth.com/project/glaidens-vista-improvements) `1.0.6`
-- [ImmediatelyFast](https://modrinth.com/project/immediatelyfast) `1.6.14+1.21.1-neoforge`
+- [ImmediatelyFast](https://modrinth.com/project/immediatelyfast) `1.6.15+1.21.1-neoforge`
 - [Iris Shaders](https://modrinth.com/project/iris) `1.8.14-beta.1+1.21.1-neoforge`
 - [Iris Veil Compat](https://modrinth.com/project/iris-veil-compat) `1.21.1+0.4.0-alpha`
 - [Jade Addons (Neo/Forge)](https://modrinth.com/project/jade-addons-forge) `6.1.2+neoforge`
 - [Jade 🔍](https://modrinth.com/project/jade) `15.10.6+neoforge`
 - [Just Enough Items (JEI)](https://modrinth.com/project/jei) `19.57.0.451`
 - [Just Zoom](https://modrinth.com/project/just-zoom) `3.0.1-1.21.1-neoforge`
+- [Krypton Reno](https://modrinth.com/project/krypton-fnp) `0.2.28.1-1.21.1`
 - [LambDynamicLights - Dynamic Lights](https://modrinth.com/project/lambdynamiclights) `4.8.11+1.21.1`
 - [LDLib](https://modrinth.com/project/ldlib) `mc1.21.1-2.2.42-neoforge`
+- [Let Me Despawn](https://modrinth.com/project/lmd) `1.5.0`
 - [Lithium](https://modrinth.com/project/lithium) `mc1.21.1-0.15.4-neoforge`
 - [Lootr](https://modrinth.com/project/lootr) `1.21.1-1.11.38.127`
+- [Mixin Helper](https://modrinth.com/project/mixin-helper) `1.1.1+neoforge-1211`
 - [ModernFix](https://modrinth.com/project/modernfix) `5.27.26+mc1.21.1`
+- [Moonrise](https://modrinth.com/project/moonrise-opt) `0.1.0-beta.15+2eae1b1`
 - [More Culling](https://modrinth.com/project/moreculling) `1.0.10`
 - [Mouse Tweaks](https://modrinth.com/project/mouse-tweaks) `1.21-2.26.1-neoforge`
 - [Not Enough Animations](https://modrinth.com/project/not-enough-animations) `1.12.6`
 - [Not Enough Crashes](https://modrinth.com/project/notenoughcrashes) `4.4.9+1.21.1-neoforge`
 - [Not Enough Glyphs](https://modrinth.com/project/not-enough-glyphs) `4.6.2`
+- [Not Enough Recipe Book [NERB]](https://modrinth.com/project/notenoughrecipebook) `0.4.3`
 - [Oh The Biomes We've Gone](https://modrinth.com/project/oh-the-biomes-weve-gone) `2.6.3-NeoForge`
+- [Packet Fixer](https://modrinth.com/project/packet-fixer) `3.3.1`
 - [Photon Shaders](https://modrinth.com/project/photon-shader) `v1.3b`
 - [Ponder for KubeJS](https://modrinth.com/project/ponder) `1.21.1-2.4.0+neoforge`
-- [Proxy Compatible Forge](https://modrinth.com/project/proxy-compatible-forge) `1.3.1`
 - [Quark](https://modrinth.com/project/quark) `4.1-487`
 - [Quark Oddities](https://modrinth.com/project/quark-oddities) `1.21.1`
 - [Ragdoll Reactions](https://modrinth.com/project/ragdoll-reactions) `0.7.0`
 - [Redirected](https://modrinth.com/project/redirected) `neoforge-1.21.1-1.0.0`
 - [Reese's Sodium Options](https://modrinth.com/project/reeses-sodium-options) `mc1.21.1-2.2.4+neoforge`
-- [Reliable EMI (REMI)](https://modrinth.com/project/reliable-emi) `4.7.10-1.21.1-neoforge`
+- [Reliable EMI (REMI)](https://modrinth.com/project/reliable-emi) `4.7.12-1.21.1-neoforge`
 - [Roxy](https://modrinth.com/project/roxy) `0.4.0-neoforge+mc1.21.1`
 - [Sable Beyond](https://modrinth.com/project/sable_beyond) `neoforge1.21.1+v0.5.0`
 - [Sable: Far and Wide (Create Aeronautics)](https://modrinth.com/project/sable-far-and-wide) `1.0.0`
@@ -157,6 +162,7 @@
 - [When Dungeons Arise](https://modrinth.com/project/when-dungeons-arise) `2.1.68`
 - [Xaero's Minimap](https://modrinth.com/project/xaeros-minimap) `neoforge-1.21.1-26.6.0`
 - [Xaero's World Map](https://modrinth.com/project/xaeros-world-map) `neoforge-1.21.1-1.47.0`
+- Yet Another Memory Optimization (YAMO) `yammo-1.0.6.jar` (curseforge)
 - [YUNG's Better Desert Temples](https://modrinth.com/project/yungs-better-desert-temples) `1.21.1-NeoForge-4.1.5`
 - [YUNG's Better Dungeons](https://modrinth.com/project/yungs-better-dungeons) `1.21.1-NeoForge-5.1.4`
 - [YUNG's Better End Island](https://modrinth.com/project/yungs-better-end-island) `1.21.1-NeoForge-3.1.2`

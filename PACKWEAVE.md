@@ -37,7 +37,7 @@
 - [Crash Assistant](https://modrinth.com/project/crash-assistant) `1.11.12`
 - [Create Aeronautics](https://modrinth.com/project/create-aeronautics) `1.3.2+mc1.21.1`
 - [Create Aeronautics: Delivery Required](https://modrinth.com/project/create-aeronautics-delivery-required) `1.0.2`
-- [Create Aeronautics: Gadgets & Gizmos](https://modrinth.com/project/create-aeronautics-gadgets-and-gizmos) `2.0-prerelease`
+- [Create Aeronautics: Gadgets & Gizmos](https://modrinth.com/project/create-aeronautics-gadgets-and-gizmos) `1.2.10`
 - Create Aeronautics: Harness `CreateAeronauticsHarness-1.21.1-1.0.1.jar` (curseforge)
 - [Create Big Cannons](https://modrinth.com/project/create-big-cannons) `5.11.7`
 - [Create Cosmonautics](https://modrinth.com/project/create-cosmonatics) `26.08.307`

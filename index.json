@@ -49,10 +49,6 @@
       "sha1": "f658ca1ed127d4b77d26c308ac416b7854f1e613"
     },
     {
-      "path": "content/mods/better-advanced-tooltips.json",
-      "sha1": "219624a10fd5fac1e6b3bb6414af9353dc12ec34"
-    },
-    {
       "path": "content/mods/better-clouds.json",
       "sha1": "55a9604bf4d269e6650f10f7498576a56aead2e4"
     },
@@ -127,10 +123,6 @@
     {
       "path": "content/mods/crash-assistant.json",
       "sha1": "17fb326d78adb5315cca44b67ed5fca4e3c55e2c"
-    },
-    {
-      "path": "content/mods/create-aeronautics-delivery-required.json",
-      "sha1": "174d041519dc6d68ae200c351863f0269bc7c7d9"
     },
     {
       "path": "content/mods/create-aeronautics-gadgets-and-gizmos.json",
@@ -250,7 +242,7 @@
     },
     {
       "path": "content/mods/create.json",
-      "sha1": "e8f8035892492373eeb96507f89a0895957816d2"
+      "sha1": "b4c7fc2384db411709c7b92570061f8a0cae11ec"
     },
     {
       "path": "content/mods/creeper-firework.json",
@@ -421,10 +413,6 @@
       "sha1": "76c6d699f407de5a6d75377f766a5a44ed76ba94"
     },
     {
-      "path": "content/mods/kubejs.json",
-      "sha1": "110e7325362c25144d3a4176e6e40fbcc940da68"
-    },
-    {
       "path": "content/mods/lambdynamiclights.json",
       "sha1": "f7af1f5cc8b1f8c82d8c9600ef0c0f7e0e90b331"
     },
@@ -489,20 +477,8 @@
       "sha1": "b896b996d0fa394217dda1d36123749f906724fb"
     },
     {
-      "path": "content/mods/numismatics.json",
-      "sha1": "a375748891d53ab52343e1a2dbdb082298ec6806"
-    },
-    {
-      "path": "content/mods/packet-fixer.json",
-      "sha1": "3e70a0817b2ce0856233a01ca1123548f2091107"
-    },
-    {
       "path": "content/mods/pehkui.json",
       "sha1": "ba60a87661156d2f6887a902669b1e7743e883fd"
-    },
-    {
-      "path": "content/mods/ponder.json",
-      "sha1": "453c4627a1f8ea3d703f9c28ce19e9f95c197c99"
     },
     {
       "path": "content/mods/ragdoll-reactions.json",
@@ -523,10 +499,6 @@
     {
       "path": "content/mods/resourceful-config.json",
       "sha1": "70f23a34fc1da54d8da9e530ea64a517198814d7"
-    },
-    {
-      "path": "content/mods/rhino.json",
-      "sha1": "c9524753f7d111645155084793a8760849e56294"
     },
     {
       "path": "content/mods/roxy.json",

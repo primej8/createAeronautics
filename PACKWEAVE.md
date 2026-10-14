@@ -1,6 +1,6 @@
 # createAeronautics
 
-**Minecraft 1.21.1 · neoforge 21.1.258**, 153 mods (30 dependencies), 2 resource packs, 2 shaders
+**Minecraft 1.21.1 · neoforge 21.1.258**, 148 mods (27 dependencies), 2 resource packs, 2 shaders
 
 ## Contents
 
@@ -33,7 +33,6 @@
 - [Copycats+ aeronautics weight](https://modrinth.com/project/copycats-plus-aeronautics-weight) `1.1.1`
 - [Crash Assistant](https://modrinth.com/project/crash-assistant) `1.11.12`
 - [Create Aeronautics](https://modrinth.com/project/create-aeronautics) `1.3.2+mc1.21.1`
-- [Create Aeronautics: Delivery Required](https://modrinth.com/project/create-aeronautics-delivery-required) `1.0.2`
 - [Create Aeronautics: Gadgets & Gizmos](https://modrinth.com/project/create-aeronautics-gadgets-and-gizmos) `1.2.10`
 - Create Aeronautics: Harness `CreateAeronauticsHarness-1.21.1-1.0.1.jar` (curseforge)
 - [Create Big Cannons](https://modrinth.com/project/create-big-cannons) `5.11.7`
@@ -58,7 +57,6 @@
 - [Create: Enchantment Industry](https://modrinth.com/project/create-enchantment-industry) `2.5.4b`
 - [Create: Flight Control](https://modrinth.com/project/create-flight-control) `0.7.7`
 - [Create: Mobile Packages](https://modrinth.com/project/create-mobile-packages) `1.21.1-0.7.8`
-- [Create: Numismatics](https://modrinth.com/project/numismatics) `1.1.0+neoforge-mc1.21.1`
 - [Create: Pocket Sized](https://modrinth.com/project/create-pocket-sized) `0.20.1`
 - [Create: Redstone Link GUI](https://modrinth.com/project/create-redstone-link-gui) `1.21.1-1.9.2`
 - [Create: Rolling Tones](https://modrinth.com/project/create-rolling-tones) `rolling_tones_0.2.2`
@@ -111,10 +109,7 @@
 - [Not Enough Crashes](https://modrinth.com/project/notenoughcrashes) `4.4.9+1.21.1-neoforge`
 - [Not Enough Glyphs](https://modrinth.com/project/not-enough-glyphs) `4.6.2`
 - [Not Enough Recipe Book [NERB]](https://modrinth.com/project/notenoughrecipebook) `0.4.3`
-- [Oh The Biomes We've Gone](https://modrinth.com/project/oh-the-biomes-weve-gone) `2.6.3-NeoForge`
-- [Packet Fixer](https://modrinth.com/project/packet-fixer) `3.3.1`
 - [Photon Shaders](https://modrinth.com/project/photon-shader) `v1.3b`
-- [Ponder for KubeJS](https://modrinth.com/project/ponder) `1.21.1-2.4.0+neoforge`
 - [Ragdoll Reactions](https://modrinth.com/project/ragdoll-reactions) `0.7.0`
 - [Redirected](https://modrinth.com/project/redirected) `neoforge-1.21.1-1.0.0`
 - [Reese's Sodium Options](https://modrinth.com/project/reeses-sodium-options) `mc1.21.1-2.2.4+neoforge`

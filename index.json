@@ -557,6 +557,10 @@
       "sha1": "39922dcb55643bf7a56184863f01a308360a74fe"
     },
     {
+      "path": "content/mods/simulated-extra.json",
+      "sha1": "586546182ad4b714ad2b14fec43b4f332b6e41b4"
+    },
+    {
       "path": "content/mods/slice-and-dice.json",
       "sha1": "552ab5e0c725aaba692c928e3d7bb145b2a3e670"
     },

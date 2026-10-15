@@ -1,6 +1,6 @@
 # createAeronautics
 
-**Minecraft 1.21.1 · neoforge 21.1.258**, 148 mods (27 dependencies), 2 resource packs, 2 shaders
+**Minecraft 1.21.1 · neoforge 21.1.258**, 149 mods (27 dependencies), 2 resource packs, 2 shaders
 
 ## Contents
 
@@ -125,6 +125,7 @@
 - [Separate Sable Render Distance (Create Aeronautics Addon)](https://modrinth.com/project/ssrd) `1.8.6`
 - [ServerCore](https://modrinth.com/project/servercore) `1.5.19+1.21.1`
 - [Simple Voice Chat](https://modrinth.com/project/simple-voice-chat) `neoforge-1.21.1-2.6.24`
+- [Simulated Extra](https://modrinth.com/project/simulated-extra) `0.3-beta`
 - [Simulated: Enhanced Diagrams](https://modrinth.com/project/enhanced-diagrams) `1.0.0`
 - [SnAssets Library - General](https://modrinth.com/project/snassets-library-general) `snassets-general-1.0.2`
 - [Sodium](https://modrinth.com/project/sodium) `mc1.21.1-0.8.13-neoforge`

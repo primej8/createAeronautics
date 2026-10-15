@@ -1,0 +1,23 @@
+{
+  "name": "Simulated Extra",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "L064RU4O",
+      "slug": "simulated-extra",
+      "versionId": "HtKNrbWA",
+      "versionNumber": "0.3-beta",
+      "filename": "simulatedextra-0.3-beta.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/L064RU4O/versions/HtKNrbWA/simulatedextra-0.3-beta.jar",
+      "sha1": "433db8dd3c0bd56fb4e26923e971df8004aef987",
+      "sha512": "b7a82d2afba2842d684525745f91c44da608506494f816833623e18eee9210f468ee0e7e1ed37b1c149e4f71e2c8bd6c42fd3da258ce38dfe7958402aab26df3",
+      "fileSize": 67005
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

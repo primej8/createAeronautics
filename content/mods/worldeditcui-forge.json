@@ -1,0 +1,26 @@
+{
+  "name": "WorldEdit CUI (Unofficial Forge Port)",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "lOELapP1",
+      "slug": "worldeditcui-forge",
+      "versionId": "YrN5j3qw",
+      "versionNumber": "1.21.1+01-SNAPSHOT",
+      "filename": "WorldEditCUI-NeoForge-1.21.1+01-SNAPSHOT.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/lOELapP1/versions/YrN5j3qw/WorldEditCUI-NeoForge-1.21.1%2B01-SNAPSHOT.jar",
+      "sha1": "5ed7b0950b0f3187d874d90fd9fed6828084cc53",
+      "sha512": "bee0b71697c4006bc53f1fc44f24679f0cd52bd0c2891f5cbc8e44f269656d6fb2ce9be733cebb4fd0a6be50f00b24b414484b21b6e1e22051a8edf1f3079bd4",
+      "fileSize": 152418
+    }
+  },
+  "dependents": [],
+  "optionalDependents": [
+    "O8cJkJ1H"
+  ],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

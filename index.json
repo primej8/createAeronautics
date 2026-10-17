@@ -637,6 +637,10 @@
       "sha1": "6c5ad5f65ad0094c87138d256bcb02eb77a1d8ea"
     },
     {
+      "path": "content/mods/worldeditcui-forge.json",
+      "sha1": "df06f53c307a37008e7aa5b7fe87673c9dcee18f"
+    },
+    {
       "path": "content/mods/xaeros-minimap.json",
       "sha1": "1b13e2f1961c715ee8498afa8bebe6319ea4cbef"
     },

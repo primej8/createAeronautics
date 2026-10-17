@@ -1,6 +1,6 @@
 # createAeronautics
 
-**Minecraft 1.21.1 · neoforge 21.1.258**, 150 mods (27 dependencies), 2 resource packs, 2 shaders
+**Minecraft 1.21.1 · neoforge 21.1.262**, 151 mods (27 dependencies), 2 resource packs, 2 shaders
 
 ## Contents
 
@@ -144,6 +144,7 @@
 - [Vista: Recipes](https://modrinth.com/project/vista-recipes) `v3.1`
 - [VS / Sable Hose Connectors](https://modrinth.com/project/vs-hose-connectors) `0.2.2`
 - [When Dungeons Arise](https://modrinth.com/project/when-dungeons-arise) `2.1.68`
+- [WorldEdit CUI (Unofficial Forge Port)](https://modrinth.com/project/worldeditcui-forge) `1.21.1+01-SNAPSHOT`
 - [Xaero's Minimap](https://modrinth.com/project/xaeros-minimap) `neoforge-1.21.1-26.6.0`
 - [Xaero's World Map](https://modrinth.com/project/xaeros-world-map) `neoforge-1.21.1-1.47.0`
 - Yet Another Memory Optimization (YAMO) `yammo-1.0.6.jar` (curseforge)

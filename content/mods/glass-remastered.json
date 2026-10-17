@@ -1,0 +1,23 @@
+{
+  "name": "G.L.A.S.S Remastered",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "5TABPEIf",
+      "slug": "glass-remastered",
+      "versionId": "hSDwnXJr",
+      "versionNumber": "1.0.0-experimental.sable-neo",
+      "filename": "glass-1.0.0-experimental.sable+1.21.1-neoforge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/5TABPEIf/versions/hSDwnXJr/glass-1.0.0-experimental.sable%2B1.21.1-neoforge.jar",
+      "sha1": "ddde2e33f8fcf9d437a41f393c126c32c6066d0b",
+      "sha512": "0dac311807282e1cfa4a9805c0b99fe727119f79d99aa911178d7f542b9dd0fe5a3d5ffae7cd2ee8ffec62cd63f3b208780f7f3299f016e1e433cdf979a27386",
+      "fileSize": 675585
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

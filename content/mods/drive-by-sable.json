@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "rrNGnYXg",
       "slug": "drive-by-sable",
-      "versionId": "9U5xWb1T",
-      "versionNumber": "r2.0.2",
-      "filename": "drivebysable-r2.0.2.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/rrNGnYXg/versions/9U5xWb1T/drivebysable-r2.0.2.jar",
-      "sha1": "e8eb4c957a48cedc80f51bf14ada363ab286e932",
-      "sha512": "57ef20c2533611cf72a3b253d6ee878ae3c75301168108dc3bc4384a37e4c517925ece875d6b1d25a02df308f877adf54d8076e908280da4541c82fd6e23aa2e",
-      "fileSize": 2412839
+      "versionId": "WRUXBxY0",
+      "versionNumber": "r2.0.3",
+      "filename": "drivebysable-r2.0.3.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/rrNGnYXg/versions/WRUXBxY0/drivebysable-r2.0.3.jar",
+      "sha1": "1997cf94b15119adc3ae0ef88bd22cfa1a8c7fa8",
+      "sha512": "0fe82741b1ee25df4d9463b3da72fc8ec034bc9824faecf41fc96fd0bb415b3023466d2dcda05baf8f39009f8cc0df0a1542b7f8cda8c69885c7aabee2fc4fb1",
+      "fileSize": 2416872
     }
   },
   "dependents": [],

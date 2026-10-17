@@ -10,7 +10,7 @@
     },
     {
       "path": "content/mods/almanac.json",
-      "sha1": "39c14a195740c287aaa29df122ee0e1be860bf31"
+      "sha1": "6429b1f5d07c93b29caac987852e38d38326dedb"
     },
     {
       "path": "content/mods/appleskin.json",
@@ -86,7 +86,7 @@
     },
     {
       "path": "content/mods/ccrj45.json",
-      "sha1": "652b958d4d628419245a9bbf4b06b9e3dcefbec2"
+      "sha1": "9d2b802f550770ee777450824bb8f404e5f54851"
     },
     {
       "path": "content/mods/cide-cc.json",
@@ -126,7 +126,7 @@
     },
     {
       "path": "content/mods/create-aeronautics-gadgets-and-gizmos.json",
-      "sha1": "dbb1c3fa73b5b72b5fea1aab089ea64dbfa5a151"
+      "sha1": "76b76ef8b47435ac66b35002f8f6aff302fb45ae"
     },
     {
       "path": "content/mods/create-aeronautics-harness.json",
@@ -134,7 +134,7 @@
     },
     {
       "path": "content/mods/create-aeronautics.json",
-      "sha1": "2711d3a99e014783dc5b7af244c71d5e3045c437"
+      "sha1": "57905655dec21ce90098d150a6ff6edd6043e9dd"
     },
     {
       "path": "content/mods/create-aeroworks.json",
@@ -182,7 +182,7 @@
     },
     {
       "path": "content/mods/create-deep-seas.json",
-      "sha1": "92d4c0ef1d013a62cc3ff8de5263efc66ba33430"
+      "sha1": "aec3f63029c583dd0f6a03a4fce59b85a1e9ecd9"
     },
     {
       "path": "content/mods/create-diesel-generators.json",
@@ -242,7 +242,7 @@
     },
     {
       "path": "content/mods/create.json",
-      "sha1": "b4c7fc2384db411709c7b92570061f8a0cae11ec"
+      "sha1": "3883daba59b28b701664995196e3bba4b67ccaa1"
     },
     {
       "path": "content/mods/creeper-firework.json",
@@ -266,7 +266,7 @@
     },
     {
       "path": "content/mods/drive-by-sable.json",
-      "sha1": "a0b43775447645ab172bf14f602fb54dba9fe912"
+      "sha1": "3f32facc34483807d63b7cf689887c01a0a2e742"
     },
     {
       "path": "content/mods/dungeons-and-taverns.json",
@@ -342,7 +342,7 @@
     },
     {
       "path": "content/mods/forgified-fabric-api.json",
-      "sha1": "9743694c47eadb735096e13a2d10627e016b47a0"
+      "sha1": "76f3b49f0ea8ec40f187c6d42932b0ab5b9b974c"
     },
     {
       "path": "content/mods/frequency-create.json",
@@ -362,7 +362,11 @@
     },
     {
       "path": "content/mods/glaidens-audio.json",
-      "sha1": "f6c77b468a9ef53365196bc6daf7c3e7d76a3453"
+      "sha1": "1cf3754e082879b266bbdf39e1c1e7d3ddf3de47"
+    },
+    {
+      "path": "content/mods/glass-remastered.json",
+      "sha1": "13650e14700d58274a5cf1d92fc7943ba74b85ec"
     },
     {
       "path": "content/mods/glodium.json",
@@ -394,7 +398,7 @@
     },
     {
       "path": "content/mods/jei.json",
-      "sha1": "132561e1fa500d1a50c82b253603a4fecd60794b"
+      "sha1": "e81c48a8b786a7c9ba6ccb1090fb28b14e97f4ea"
     },
     {
       "path": "content/mods/just-zoom.json",
@@ -430,7 +434,7 @@
     },
     {
       "path": "content/mods/lmd.json",
-      "sha1": "92453c9cf6024638e8e4d582df1f9e88b19bd0e5"
+      "sha1": "8974e7e4cc9c6a5a9aacea776461b05f632e9669"
     },
     {
       "path": "content/mods/lootr.json",

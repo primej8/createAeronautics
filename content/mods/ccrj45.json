@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "GZ875jdx",
       "slug": "ccrj45",
-      "versionId": "XMQqbhTg",
-      "versionNumber": "1.2.2",
-      "filename": "ccrj45-1.2.2.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/GZ875jdx/versions/XMQqbhTg/ccrj45-1.2.2.jar",
-      "sha1": "bdef39e7100a69f735eee03ab4ab734e1b91a41b",
-      "sha512": "c6ad78bdcc3aef4399a010afe91ba579c5816bec10536d04994f1819e02cc2af9c8b73975560344b8dd1126e1e6dbf5300ab4f7a15cae30ec687f2916fa1c1ba",
-      "fileSize": 127745
+      "versionId": "c04J1Mk1",
+      "versionNumber": "1.2.3",
+      "filename": "ccrj45-1.2.3.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/GZ875jdx/versions/c04J1Mk1/ccrj45-1.2.3.jar",
+      "sha1": "89d68f156c3e17363c4de9f63a11355fb8399560",
+      "sha512": "fad8d8ee68850e0bb72c62a0ed096aba54d4fc1fb8974525817a76412fcb7d0d2d6e006ff7eb07cb08d71c319744dd3c14771794c4edd073f85a444b7bae02e2",
+      "fileSize": 185513
     }
   },
   "dependents": [],

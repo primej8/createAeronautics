@@ -1,6 +1,6 @@
 # createAeronautics
 
-**Minecraft 1.21.1 · neoforge 21.1.258**, 149 mods (27 dependencies), 2 resource packs, 2 shaders
+**Minecraft 1.21.1 · neoforge 21.1.258**, 150 mods (27 dependencies), 2 resource packs, 2 shaders
 
 ## Contents
 
@@ -18,7 +18,7 @@
 - [Carry On](https://modrinth.com/project/carry-on) `2.2.6`
 - [Carry On Extend](https://modrinth.com/project/carry-on-extend) `1.5.2`
 - [CC: Create Redstone Link](https://modrinth.com/project/ccc-redstone-link) `0.1.1`
-- [CC: RJ45](https://modrinth.com/project/ccrj45) `1.2.2`
+- [CC: RJ45](https://modrinth.com/project/ccrj45) `1.2.3`
 - [CC: Sable](https://modrinth.com/project/cc-sable) `1.3.4`
 - [CC: Tweaked](https://modrinth.com/project/cc-tweaked) `1.120.2`
 - [CC:C Bridge](https://modrinth.com/project/cccbridge) `1.7.3`
@@ -33,13 +33,13 @@
 - [Copycats+ aeronautics weight](https://modrinth.com/project/copycats-plus-aeronautics-weight) `1.1.1`
 - [Crash Assistant](https://modrinth.com/project/crash-assistant) `1.11.12`
 - [Create Aeronautics](https://modrinth.com/project/create-aeronautics) `1.3.2+mc1.21.1`
-- [Create Aeronautics: Gadgets & Gizmos](https://modrinth.com/project/create-aeronautics-gadgets-and-gizmos) `1.2.10`
+- [Create Aeronautics: Gadgets & Gizmos](https://modrinth.com/project/create-aeronautics-gadgets-and-gizmos) `2.0-pre-release-3`
 - Create Aeronautics: Harness `CreateAeronauticsHarness-1.21.1-1.0.1.jar` (curseforge)
 - [Create Big Cannons](https://modrinth.com/project/create-big-cannons) `5.11.7`
 - [Create Cosmonautics](https://modrinth.com/project/create-cosmonatics) `26.08.307`
 - [Create Cosmonautics Expansion](https://modrinth.com/project/create-cosmonautics-expansion) `1.0.0`
 - [Create Deco](https://modrinth.com/project/create-deco) `2.1.3`
-- [Create Deep Seas](https://modrinth.com/project/create-deep-seas) `3.3.0`
+- [Create Deep Seas [BETA]](https://modrinth.com/project/create-deep-seas) `3.3.0`
 - [Create Jetpack](https://modrinth.com/project/create-jetpack) `5.2.1`
 - [Create Propulsion: Simulated](https://modrinth.com/project/create-propulsion-simulated) `1.1.5`
 - [Create Slice & Dice](https://modrinth.com/project/slice-and-dice) `4.3.4`
@@ -66,7 +66,7 @@
 - [Dashpanels](https://modrinth.com/project/dashpanels) `2.1+neoforge1.21.1`
 - [Dashpanels: Expanded](https://modrinth.com/project/dashpanels-expanded) `2.0.1`
 - [Dashpanels: Extra](https://modrinth.com/project/dashpanels-extra) `1.4.1`
-- [Drive-By-Sable](https://modrinth.com/project/drive-by-sable) `r2.0.2`
+- [Drive-By-Sable](https://modrinth.com/project/drive-by-sable) `r2.0.3`
 - [Dungeons and Taverns](https://modrinth.com/project/dungeons-and-taverns) `v4.4.4+mod`
 - [EMI](https://modrinth.com/project/emi) `1.1.24+1.21.1+neoforge`
 - [EMI Enchanting](https://modrinth.com/project/emi-enchanting) `0.1.2+1.21+neoforge`
@@ -84,21 +84,22 @@
 - [Farmer's Delight](https://modrinth.com/project/farmers-delight) `1.21.1-1.3.4`
 - [Fast Noise](https://modrinth.com/project/zfastnoise) `1.0.13+1.21.1+neoforge`
 - [FerriteCore](https://modrinth.com/project/ferrite-core) `7.0.3-neoforge`
-- [Forgified Fabric API](https://modrinth.com/project/forgified-fabric-api) `0.116.15+2.3.5+1.21.1`
+- [Forgified Fabric API](https://modrinth.com/project/forgified-fabric-api) `0.116.15+2.3.6+1.21.1`
 - [Frequency Create](https://modrinth.com/project/frequency-create) `0.2.0`
-- [Glaiden's Audio](https://modrinth.com/project/glaidens-audio) `1.5.1`
+- [G.L.A.S.S Remastered](https://modrinth.com/project/glass-remastered) `1.0.0-experimental.sable-neo`
+- [Glaiden's Audio](https://modrinth.com/project/glaidens-audio) `1.5.2`
 - [Glaiden's audio Aeronautics compat](https://modrinth.com/project/glaidens-audio-aeronautics-compat) `1.0.0`
 - [ImmediatelyFast](https://modrinth.com/project/immediatelyfast) `1.6.15+1.21.1-neoforge`
 - [Iris Shaders](https://modrinth.com/project/iris) `1.8.14-beta.1+1.21.1-neoforge`
 - [Iris Veil Compat](https://modrinth.com/project/iris-veil-compat) `1.21.1+0.4.0-alpha`
 - [Jade Addons (Neo/Forge)](https://modrinth.com/project/jade-addons-forge) `6.1.2+neoforge`
 - [Jade 🔍](https://modrinth.com/project/jade) `15.10.6+neoforge`
-- [Just Enough Items (JEI)](https://modrinth.com/project/jei) `19.57.0.451`
+- [Just Enough Items (JEI)](https://modrinth.com/project/jei) `19.64.0.455`
 - [Just Zoom](https://modrinth.com/project/just-zoom) `3.0.1-1.21.1-neoforge`
 - [Krypton Reno](https://modrinth.com/project/krypton-fnp) `0.2.28.1-1.21.1`
 - [LambDynamicLights - Dynamic Lights](https://modrinth.com/project/lambdynamiclights) `4.8.11+1.21.1`
 - [LDLib](https://modrinth.com/project/ldlib) `mc1.21.1-2.2.42-neoforge`
-- [Let Me Despawn](https://modrinth.com/project/lmd) `1.5.0`
+- [Let Me Despawn](https://modrinth.com/project/lmd) `1.26.10.2`
 - [Lithium](https://modrinth.com/project/lithium) `mc1.21.1-0.15.4-neoforge`
 - [Lootr](https://modrinth.com/project/lootr) `1.21.1-1.11.38.127`
 - [Mixin Helper](https://modrinth.com/project/mixin-helper) `1.1.1+neoforge-1211`

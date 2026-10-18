@@ -1,0 +1,23 @@
+{
+  "name": "BSL Shaders",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "Q1vvjJYV",
+      "slug": "bsl-shaders",
+      "versionId": "Y68yiql9",
+      "versionNumber": "10.1.8",
+      "filename": "BSL_v10.1.8.zip",
+      "downloadUrl": "https://cdn.modrinth.com/data/Q1vvjJYV/versions/Y68yiql9/BSL_v10.1.8.zip",
+      "sha1": "e89818c8827d0131c102fb480c3c3446624db0df",
+      "sha512": "94a3c25d6820868db624e11347873e6b572e7cd571967d9ac6f4690ca5d37ca302a7645d85eec800e0654541e3825fba14d37b5a25d3996aaf038178552be26f",
+      "fileSize": 1134153
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

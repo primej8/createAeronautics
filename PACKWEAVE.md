@@ -1,6 +1,6 @@
 # createAeronautics
 
-**Minecraft 1.21.1 · neoforge 21.1.263**, 156 mods (29 dependencies), 2 resource packs, 2 shaders
+**Minecraft 1.21.1 · neoforge 21.1.263**, 158 mods (29 dependencies), 1 resource pack, 5 shaders
 
 ## Contents
 
@@ -15,6 +15,8 @@
 - [Ars Énergistique](https://modrinth.com/project/ars-energistique) `2.1.1-beta`
 - [BadOptimizations](https://modrinth.com/project/badoptimizations) `2.4.1`
 - [Better Clouds](https://modrinth.com/project/better-clouds) `1.13.11+1.21.1-neoforge-release`
+- [Bliss Shaders](https://modrinth.com/project/bliss-shader) `2.1.2`
+- [BSL Shaders](https://modrinth.com/project/bsl-shaders) `10.1.8`
 - [Carry On](https://modrinth.com/project/carry-on) `2.2.6`
 - [Carry On Extend](https://modrinth.com/project/carry-on-extend) `1.5.2`
 - Catalogue `Catalogue 1.11.2` (curseforge)
@@ -80,6 +82,7 @@
 - [EMIffect](https://modrinth.com/project/emiffect) `2.1.6+mc1.21.1`
 - [EMILink](https://modrinth.com/project/emilink) `1.1.13`
 - [Entity Culling](https://modrinth.com/project/entityculling) `1.11.3`
+- [Euphoria Patches](https://modrinth.com/project/euphoria-patches) `1.10.5-r5.9.3-neoforge`
 - [Exposure](https://modrinth.com/project/exposure) `1.9.19`
 - [Exposure: Expanded](https://modrinth.com/project/exposure-expanded) `1.0.1`
 - [Exposure: Polaroid](https://modrinth.com/project/exposure-polaroid) `1.1.6`
@@ -113,11 +116,12 @@
 - [Not Enough Crashes](https://modrinth.com/project/notenoughcrashes) `4.4.9+1.21.1-neoforge`
 - [Not Enough Glyphs](https://modrinth.com/project/not-enough-glyphs) `4.6.2`
 - [Not Enough Recipe Book [NERB]](https://modrinth.com/project/notenoughrecipebook) `0.4.3`
-- [Photon Shaders](https://modrinth.com/project/photon-shader) `v1.3b`
+- [Photon Shaders](https://modrinth.com/project/photon-shader) `v1.3a`
 - [Ragdoll Reactions](https://modrinth.com/project/ragdoll-reactions) `0.7.0`
 - [Redirected](https://modrinth.com/project/redirected) `neoforge-1.21.1-1.0.0`
 - [Reese's Sodium Options](https://modrinth.com/project/reeses-sodium-options) `mc1.21.1-2.2.4+neoforge`
 - [Reliable EMI (REMI)](https://modrinth.com/project/reliable-emi) `4.7.12-1.21.1-neoforge`
+- [Rethinking Voxels](https://modrinth.com/project/rethinking-voxels) `r0.1-beta9`
 - [Roxy](https://modrinth.com/project/roxy) `0.4.0-neoforge+mc1.21.1`
 - [Sable Beyond](https://modrinth.com/project/sable_beyond) `neoforge1.21.1+v0.5.0`
 - [Sable: Far and Wide (Create Aeronautics)](https://modrinth.com/project/sable-far-and-wide) `1.0.0`
@@ -141,13 +145,13 @@
 - [Tectonic](https://modrinth.com/project/tectonic) `3.0.28-neoforge-21.1`
 - [Terralith](https://modrinth.com/project/terralith) `2.6.2`
 - [Unique Dark](https://modrinth.com/project/unique-dark) `2.9.1`
-- [Unique Dark Refined](https://modrinth.com/project/unique-dark-refined) `1.9.2`
 - [Vanilla Backport](https://modrinth.com/project/vanillabackport) `1.2`
 - [Vanilla Backport Compat](https://modrinth.com/project/vb-compat) `2.2`
 - [vista](https://modrinth.com/project/vista_tv) `1.21.1-5.5.7`
 - [Vista - All The Cassettes](https://modrinth.com/project/vista-all-the-cassettes) `1.2.0+neoforge.mc1.21.1`
 - [Vista: Recipes](https://modrinth.com/project/vista-recipes) `v3.1`
 - [VS / Sable Hose Connectors](https://modrinth.com/project/vs-hose-connectors) `0.2.2`
+- [Wakes Reforged](https://modrinth.com/project/wakes-reforged) `1.4.1`
 - [When Dungeons Arise](https://modrinth.com/project/when-dungeons-arise) `2.1.68`
 - [WorldEdit CUI (Unofficial Forge Port)](https://modrinth.com/project/worldeditcui-forge) `1.21.1+01-SNAPSHOT`
 - [Xaero's Minimap](https://modrinth.com/project/xaeros-minimap) `neoforge-1.21.1-26.6.0`

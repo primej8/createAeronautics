@@ -138,7 +138,7 @@
     },
     {
       "path": "content/mods/create-aeronautics.json",
-      "sha1": "57905655dec21ce90098d150a6ff6edd6043e9dd"
+      "sha1": "dafd88bf4aae0c619dcc3e09cac27f6eab5f912e"
     },
     {
       "path": "content/mods/create-aeroworks.json",
@@ -250,7 +250,7 @@
     },
     {
       "path": "content/mods/create.json",
-      "sha1": "168c6e02f606ff9fb227531180670779dcc9e470"
+      "sha1": "af054d8e3105c25dd66f52422a04d71528a5163f"
     },
     {
       "path": "content/mods/createaddition.json",
@@ -323,6 +323,10 @@
     {
       "path": "content/mods/entityculling.json",
       "sha1": "152818cea8c61eae145c1d026c8906fd7c4b4005"
+    },
+    {
+      "path": "content/mods/euphoria-patches.json",
+      "sha1": "373246436ac387bb3c842e1776f802dd9a17a51c"
     },
     {
       "path": "content/mods/experiencelib.json",
@@ -542,7 +546,7 @@
     },
     {
       "path": "content/mods/sable.json",
-      "sha1": "c6116f2c6cdcf8f706215d97d8b303e6e0fc6e08"
+      "sha1": "28d1dc3a48cbba234935c488de6c870844acdd79"
     },
     {
       "path": "content/mods/sable_beyond.json",
@@ -657,6 +661,10 @@
       "sha1": "7844e879a6f5a43a36c90c6adec43e28237c9645"
     },
     {
+      "path": "content/mods/wakes-reforged.json",
+      "sha1": "b41bccee9caa9930622aab5f9ab2edf51023e4cf"
+    },
+    {
       "path": "content/mods/when-dungeons-arise.json",
       "sha1": "b230a972e90c10523144501faa240dc678924dad"
     },
@@ -737,12 +745,16 @@
       "sha1": "757320931c822e7a1e38edb991436e7f96d9123a"
     },
     {
-      "path": "content/resourcepacks/unique-dark-refined.json",
-      "sha1": "d417cc01e166f479f62f00da4e9d955f8eeb8170"
-    },
-    {
       "path": "content/resourcepacks/unique-dark.json",
       "sha1": "5f8c0cb0a4fd854af16589c4630ef621ec03f25d"
+    },
+    {
+      "path": "content/shaders/bliss-shader.json",
+      "sha1": "c261bfee79b14da782bfec06c58f6b5770b2d2ef"
+    },
+    {
+      "path": "content/shaders/bsl-shaders.json",
+      "sha1": "e18b21281dc5306404fa8f15837f860c94420a97"
     },
     {
       "path": "content/shaders/complementary-reimagined.json",
@@ -750,7 +762,11 @@
     },
     {
       "path": "content/shaders/photon-shader.json",
-      "sha1": "6ba85d9304eb852257e16ea980c8d7682e2f4b36"
+      "sha1": "1631cf193743bcf1a56c8ba9bf1d6033ee28a34b"
+    },
+    {
+      "path": "content/shaders/rethinking-voxels.json",
+      "sha1": "589b89feec3b98b035a239b975cd5616c8013594"
     },
     {
       "path": "overrides/config/mixinhelper.json",

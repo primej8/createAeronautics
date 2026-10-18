@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "mva5q4qZ",
       "slug": "create-deep-seas",
-      "versionId": "dbrSfQ3m",
-      "versionNumber": "3.4.2",
-      "filename": "create_submarine-3.4.2.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/mva5q4qZ/versions/dbrSfQ3m/create_submarine-3.4.2.jar",
-      "sha1": "bad5ba086635d02a3534220921b56a3872c02936",
-      "sha512": "6b5a9eabe249c4a21950ca30f5ed2e16e0d31fc5bbee9e3a67a74525d0deb7f1fd63939bd667fa37d9b4370daed281e4d44a02ed6cdcb33a7f34cd5b2111a50d",
-      "fileSize": 12349106
+      "versionId": "5VcZP3Zg",
+      "versionNumber": "3.4.3",
+      "filename": "create_submarine-3.4.3.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/mva5q4qZ/versions/5VcZP3Zg/create_submarine-3.4.3.jar",
+      "sha1": "a9f63940fb0aca33f2c9f292409dc91512978672",
+      "sha512": "6b7087245a389dd4af8a65070167bb4fb5a66f51bc2b4b98ad54f51f1317fde94ea551f2408e351db3ec43b8b41cb44680b1ad8de184c83b8109b026f29bf2cd",
+      "fileSize": 12351840
     }
   },
   "dependents": [],

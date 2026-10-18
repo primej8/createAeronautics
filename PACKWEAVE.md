@@ -1,6 +1,6 @@
 # createAeronautics
 
-**Minecraft 1.21.1 · neoforge 21.1.262**, 156 mods (29 dependencies), 2 resource packs, 2 shaders
+**Minecraft 1.21.1 · neoforge 21.1.263**, 156 mods (29 dependencies), 2 resource packs, 2 shaders
 
 ## Contents
 
@@ -41,7 +41,7 @@
 - [Create Cosmonautics Expansion](https://modrinth.com/project/create-cosmonautics-expansion) `1.0.0`
 - [Create Crafts & Additions](https://modrinth.com/project/createaddition) `neoforge-1.21.1-1.6.0`
 - [Create Deco](https://modrinth.com/project/create-deco) `2.1.3`
-- [Create Deep Seas [BETA]](https://modrinth.com/project/create-deep-seas) `3.4.2`
+- [Create Deep Seas [BETA]](https://modrinth.com/project/create-deep-seas) `3.4.3`
 - [Create Jetpack](https://modrinth.com/project/create-jetpack) `5.2.1`
 - [Create Propulsion: Simulated](https://modrinth.com/project/create-propulsion-simulated) `1.1.5`
 - [Create Slice & Dice](https://modrinth.com/project/slice-and-dice) `4.3.4`
@@ -142,7 +142,7 @@
 - [Terralith](https://modrinth.com/project/terralith) `2.6.2`
 - [Unique Dark](https://modrinth.com/project/unique-dark) `2.9.1`
 - [Unique Dark Refined](https://modrinth.com/project/unique-dark-refined) `1.9.2`
-- [Vanilla Backport](https://modrinth.com/project/vanillabackport) `1.1.7.10`
+- [Vanilla Backport](https://modrinth.com/project/vanillabackport) `1.2`
 - [Vanilla Backport Compat](https://modrinth.com/project/vb-compat) `2.2`
 - [vista](https://modrinth.com/project/vista_tv) `1.21.1-5.5.7`
 - [Vista - All The Cassettes](https://modrinth.com/project/vista-all-the-cassettes) `1.2.0+neoforge.mc1.21.1`

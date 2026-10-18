@@ -10,7 +10,7 @@
     },
     {
       "path": "content/mods/almanac.json",
-      "sha1": "6429b1f5d07c93b29caac987852e38d38326dedb"
+      "sha1": "4ba4ec4e4f0ca5a1d5edea98e244ae0dd960532e"
     },
     {
       "path": "content/mods/appleskin.json",
@@ -214,7 +214,7 @@
     },
     {
       "path": "content/mods/create-pocket-sized.json",
-      "sha1": "a941777de3b228adb3b2b57b460a49ffbaa4419c"
+      "sha1": "af82ed7afa891409c1f79c9827d506e9d63555d2"
     },
     {
       "path": "content/mods/create-power-loader.json",
@@ -458,7 +458,7 @@
     },
     {
       "path": "content/mods/mixin-helper.json",
-      "sha1": "ac34d463ffede69ceb55b2b53024c3452b7dbf16"
+      "sha1": "4edc6ca8e92265fde0316b75bedaaa7d58f86a5e"
     },
     {
       "path": "content/mods/modernfix.json",
@@ -498,7 +498,7 @@
     },
     {
       "path": "content/mods/platform.json",
-      "sha1": "cfb1e57e3e56e445c8e0ea019f1c5c1c843e8bbe"
+      "sha1": "182e56acbb2e232b04682d99e49b4732875a7052"
     },
     {
       "path": "content/mods/ragdoll-reactions.json",

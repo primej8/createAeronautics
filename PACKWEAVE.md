@@ -58,7 +58,7 @@
 - [Create: Enchantment Industry](https://modrinth.com/project/create-enchantment-industry) `2.5.4b`
 - [Create: Flight Control](https://modrinth.com/project/create-flight-control) `0.7.7`
 - [Create: Mobile Packages](https://modrinth.com/project/create-mobile-packages) `1.21.1-0.7.8`
-- [Create: Pocket Sized](https://modrinth.com/project/create-pocket-sized) `0.20.1`
+- [Create: Pocket Sized](https://modrinth.com/project/create-pocket-sized) `0.22.0`
 - [Create: Power Loader](https://modrinth.com/project/create-power-loader) `2.0.5-mc1.21.1`
 - [Create: Redstone Link GUI](https://modrinth.com/project/create-redstone-link-gui) `1.21.1-1.9.2`
 - [Create: Rolling Tones](https://modrinth.com/project/create-rolling-tones) `rolling_tones_0.2.2`
@@ -105,7 +105,7 @@
 - [Let Me Despawn](https://modrinth.com/project/lmd) `1.26.10.2`
 - [Lithium](https://modrinth.com/project/lithium) `mc1.21.1-0.15.4-neoforge`
 - [Lootr](https://modrinth.com/project/lootr) `1.21.1-1.11.38.127`
-- [Mixin Helper](https://modrinth.com/project/mixin-helper) `1.1.1+neoforge-1211`
+- [Mixin Helper](https://modrinth.com/project/mixin-helper) `1.1.2+neoforge-1211`
 - [ModernFix](https://modrinth.com/project/modernfix) `5.27.26+mc1.21.1`
 - [More Culling](https://modrinth.com/project/moreculling) `1.0.10`
 - [Mouse Tweaks](https://modrinth.com/project/mouse-tweaks) `1.21-2.26.1-neoforge`

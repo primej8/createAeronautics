@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "r6BhGlY3",
       "slug": "mixin-helper",
-      "versionId": "66xuYJwO",
-      "versionNumber": "1.1.1+neoforge-1211",
-      "filename": "mixinhelper-1.1.1.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/r6BhGlY3/versions/66xuYJwO/mixinhelper-1.1.1.jar",
-      "sha1": "5abc25944bc49eede83c10463ff278bffa5b26e6",
-      "sha512": "ac9238b1fb74862e65dd624ff5525526f54984002f9b839d9da317e841c9b4e8e2a23c0a41e83a0f17c8dfea4d7b071c2faad6944b640b152447d71139bce70f",
-      "fileSize": 41587
+      "versionId": "UfiezbIj",
+      "versionNumber": "1.1.2+neoforge-1211",
+      "filename": "mixinhelper-1.1.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/r6BhGlY3/versions/UfiezbIj/mixinhelper-1.1.2.jar",
+      "sha1": "dbc4005492b19e233538f86941cef9cb2af01f33",
+      "sha512": "6f36ac775c52b9acc58f4665365f0970a9a4fd77bde7abf751df02bdaac944549ed5c9d3bd60e48d8ac3987d40d82983c564375cb79fb8b56505cef104007a49",
+      "fileSize": 42076
     }
   },
   "dependents": [],

@@ -1,0 +1,23 @@
+{
+  "name": "Vanilla Backport Compat",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "jcYHXHwz",
+      "slug": "vb-compat",
+      "versionId": "QKEed8gs",
+      "versionNumber": "2.2",
+      "filename": "vb-compat-2.2-1.21.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/jcYHXHwz/versions/QKEed8gs/vb-compat-2.2-1.21.1.jar",
+      "sha1": "ae7a63a26d04211f6b5d67b4e1b95e3b6e4a8064",
+      "sha512": "c6ffbe2b5e285052b877d34691f909a7939bf66044802b2604115ab039ac9c9864af06b00649838297fd7914fcd45fc7547a0f0346ca44086861e045e36c5a21",
+      "fileSize": 58671
+    }
+  },
+  "dependents": [],
+  "clientSide": "optional",
+  "serverSide": "required"
+}

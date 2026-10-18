@@ -1,6 +1,6 @@
 # createAeronautics
 
-**Minecraft 1.21.1 · neoforge 21.1.262**, 153 mods (27 dependencies), 2 resource packs, 2 shaders
+**Minecraft 1.21.1 · neoforge 21.1.262**, 157 mods (29 dependencies), 2 resource packs, 2 shaders
 
 ## Contents
 
@@ -38,6 +38,7 @@
 - [Create Big Cannons](https://modrinth.com/project/create-big-cannons) `5.11.7`
 - [Create Cosmonautics](https://modrinth.com/project/create-cosmonatics) `26.08.307`
 - [Create Cosmonautics Expansion](https://modrinth.com/project/create-cosmonautics-expansion) `1.0.0`
+- [Create Crafts & Additions](https://modrinth.com/project/createaddition) `neoforge-1.21.1-1.6.0`
 - [Create Deco](https://modrinth.com/project/create-deco) `2.1.3`
 - [Create Deep Seas [BETA]](https://modrinth.com/project/create-deep-seas) `3.3.0`
 - [Create Jetpack](https://modrinth.com/project/create-jetpack) `5.2.1`
@@ -133,6 +134,7 @@
 - [SnAssets Library - General](https://modrinth.com/project/snassets-library-general) `snassets-general-1.0.2`
 - [Sodium](https://modrinth.com/project/sodium) `mc1.21.1-0.8.13-neoforge`
 - [Sodium Extra](https://modrinth.com/project/sodium-extra) `mc1.21.1-0.9.4+neoforge`
+- [Sophisticated Backpacks](https://modrinth.com/project/sophisticated-backpacks) `1.21.1-3.26.12.2208`
 - [Steam 'n' Rails Neoforge](https://modrinth.com/project/create-steam-n-rails-1.21.1) `0.3.0-beta.2+neoforge-mc1.21.1`
 - [Structure Layout Optimizer](https://modrinth.com/project/structure-layout-optimizer) `1.0.12+1.21.1-neoforge`
 - [Structurify - Structure Control](https://modrinth.com/project/structurify) `neoforge-2.0.43+mc1.21.1`
@@ -140,6 +142,8 @@
 - [Terralith](https://modrinth.com/project/terralith) `2.6.2`
 - [Unique Dark](https://modrinth.com/project/unique-dark) `2.9.1`
 - [Unique Dark Refined](https://modrinth.com/project/unique-dark-refined) `1.9.2`
+- [Vanilla Backport](https://modrinth.com/project/vanillabackport) `1.1.7.10`
+- [Vanilla Backport Compat](https://modrinth.com/project/vb-compat) `2.2`
 - [Veil](https://modrinth.com/project/veil) `4.5.2`
 - [vista](https://modrinth.com/project/vista_tv) `1.21.1-5.5.7`
 - [Vista - All The Cassettes](https://modrinth.com/project/vista-all-the-cassettes) `1.2.0+neoforge.mc1.21.1`

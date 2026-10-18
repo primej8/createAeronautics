@@ -1,0 +1,23 @@
+{
+  "name": "Create Crafts & Additions",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "kU1G12Nn",
+      "slug": "createaddition",
+      "versionId": "qPr8V4G2",
+      "versionNumber": "neoforge-1.21.1-1.6.0",
+      "filename": "createaddition-1.6.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/kU1G12Nn/versions/qPr8V4G2/createaddition-1.6.0.jar",
+      "sha1": "87b539d41ed238e98b26c607c0c81a973323147e",
+      "sha512": "e3a31eefb15d37bd1a2ba9012d0c00ec92f7c9e57b7a35c993676ea0cc85ba4f35a055a9f98d57636f24a0562d6da18b4e90713f4f46d47959666a097a6a5cea",
+      "fileSize": 1661802
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

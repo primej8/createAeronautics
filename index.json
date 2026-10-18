@@ -249,6 +249,10 @@
       "sha1": "5186ae8ead5f9008c3d3a14eff76a84dfd80b825"
     },
     {
+      "path": "content/mods/createaddition.json",
+      "sha1": "8f1fff17bf78d279f3bf99208296bf29abb66771"
+    },
+    {
       "path": "content/mods/createbetterfps.json",
       "sha1": "844916473a5a74f86127650ca61d874906dbf524"
     },
@@ -258,7 +262,7 @@
     },
     {
       "path": "content/mods/curios.json",
-      "sha1": "ebcaa34f890c53b29967ba941fbeeb5dc786ca3f"
+      "sha1": "3078cc32d0b9798bd1b973afcd20d5bc73295f8b"
     },
     {
       "path": "content/mods/dashpanels-expanded.json",
@@ -406,7 +410,7 @@
     },
     {
       "path": "content/mods/jei.json",
-      "sha1": "f06a30ca9a4c5ad7d400b9bc78e1d243da080a03"
+      "sha1": "b77189189c61f6a9f073c90fb6f18a99af1c4188"
     },
     {
       "path": "content/mods/just-zoom.json",
@@ -491,6 +495,10 @@
     {
       "path": "content/mods/pehkui.json",
       "sha1": "ba60a87661156d2f6887a902669b1e7743e883fd"
+    },
+    {
+      "path": "content/mods/platform.json",
+      "sha1": "cfb1e57e3e56e445c8e0ea019f1c5c1c843e8bbe"
     },
     {
       "path": "content/mods/ragdoll-reactions.json",
@@ -589,6 +597,14 @@
       "sha1": "abc0ebaae0711eec56061de3191c0b3bcdd77719"
     },
     {
+      "path": "content/mods/sophisticated-backpacks.json",
+      "sha1": "6cdc39d72b365d18d5a28e5daf847dc0a1540a9c"
+    },
+    {
+      "path": "content/mods/sophisticated-core.json",
+      "sha1": "1578551e2d19104af42862dae136b71daffcff8d"
+    },
+    {
       "path": "content/mods/ssrd.json",
       "sha1": "3b481633d174a200f9f3f26a7ba983515c437c4f"
     },
@@ -611,6 +627,14 @@
     {
       "path": "content/mods/txnilib.json",
       "sha1": "18fc6e2daee1d8074d925d2732e325315f0306af"
+    },
+    {
+      "path": "content/mods/vanillabackport.json",
+      "sha1": "b205d12d7bc5a978b9a43a19c00b66bfc66144be"
+    },
+    {
+      "path": "content/mods/vb-compat.json",
+      "sha1": "f361b5677ce23b545bbefae39da2d64b515baab3"
     },
     {
       "path": "content/mods/veil.json",

@@ -65,6 +65,10 @@
       "sha1": "a21a53548a0d892b5606499a212620603a2fec2a"
     },
     {
+      "path": "content/mods/catalogue.json",
+      "sha1": "86b90aa1dc511e643efd797d08465fe4efa4d1bd"
+    },
+    {
       "path": "content/mods/cc-cbc.json",
       "sha1": "7dc2ef1b67182f519b5715d90be20077d73df7e4"
     },
@@ -103,6 +107,10 @@
     {
       "path": "content/mods/colorwheel.json",
       "sha1": "f23837b1c0e786263ad23976c46d8ad4c4682716"
+    },
+    {
+      "path": "content/mods/configured.json",
+      "sha1": "ec9636281aa5d085f25f6fb62cd6e6b39b44ffe0"
     },
     {
       "path": "content/mods/controlling.json",

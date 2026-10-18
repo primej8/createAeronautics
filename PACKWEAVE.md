@@ -1,6 +1,6 @@
 # createAeronautics
 
-**Minecraft 1.21.1 · neoforge 21.1.262**, 154 mods (29 dependencies), 2 resource packs, 2 shaders
+**Minecraft 1.21.1 · neoforge 21.1.262**, 156 mods (29 dependencies), 2 resource packs, 2 shaders
 
 ## Contents
 
@@ -17,6 +17,7 @@
 - [Better Clouds](https://modrinth.com/project/better-clouds) `1.13.11+1.21.1-neoforge-release`
 - [Carry On](https://modrinth.com/project/carry-on) `2.2.6`
 - [Carry On Extend](https://modrinth.com/project/carry-on-extend) `1.5.2`
+- Catalogue `Catalogue 1.11.2` (curseforge)
 - [CC: Create Redstone Link](https://modrinth.com/project/ccc-redstone-link) `0.1.1`
 - [CC: RJ45](https://modrinth.com/project/ccrj45) `1.2.3`
 - [CC: Sable](https://modrinth.com/project/cc-sable) `1.3.4`
@@ -28,6 +29,7 @@
 - [Colorwheel Patcher](https://modrinth.com/project/colorwheel-patcher) `1.0.5+mc1.21.1`
 - [Complementary Shaders - Reimagined](https://modrinth.com/project/complementary-reimagined) `r5.9.3`
 - [Concurrent Chunk Management Engine (NeoForge)](https://modrinth.com/project/c2me-neoforge) `0.4.0-alpha.0.123+1.21.1`
+- Configured `Configured 2.6.3` (curseforge)
 - [Controlling](https://modrinth.com/project/controlling) `19.0.5`
 - [Copycats+ aeronautics weight](https://modrinth.com/project/copycats-plus-aeronautics-weight) `1.1.1`
 - [Crash Assistant](https://modrinth.com/project/crash-assistant) `1.11.12`

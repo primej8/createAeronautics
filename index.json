@@ -217,6 +217,10 @@
       "sha1": "a941777de3b228adb3b2b57b460a49ffbaa4419c"
     },
     {
+      "path": "content/mods/create-power-loader.json",
+      "sha1": "d008618769e085b05301d883279cbccd9835fcb1"
+    },
+    {
       "path": "content/mods/create-propulsion-simulated.json",
       "sha1": "96bdbdb77fdd11821d2e58159864130209b46a1f"
     },
@@ -242,7 +246,11 @@
     },
     {
       "path": "content/mods/create.json",
-      "sha1": "3883daba59b28b701664995196e3bba4b67ccaa1"
+      "sha1": "5186ae8ead5f9008c3d3a14eff76a84dfd80b825"
+    },
+    {
+      "path": "content/mods/createbetterfps.json",
+      "sha1": "844916473a5a74f86127650ca61d874906dbf524"
     },
     {
       "path": "content/mods/creeper-firework.json",
@@ -398,7 +406,7 @@
     },
     {
       "path": "content/mods/jei.json",
-      "sha1": "e81c48a8b786a7c9ba6ccb1090fb28b14e97f4ea"
+      "sha1": "f06a30ca9a4c5ad7d400b9bc78e1d243da080a03"
     },
     {
       "path": "content/mods/just-zoom.json",

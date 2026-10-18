@@ -1,6 +1,6 @@
 # createAeronautics
 
-**Minecraft 1.21.1 · neoforge 21.1.262**, 151 mods (27 dependencies), 2 resource packs, 2 shaders
+**Minecraft 1.21.1 · neoforge 21.1.262**, 153 mods (27 dependencies), 2 resource packs, 2 shaders
 
 ## Contents
 
@@ -58,9 +58,11 @@
 - [Create: Flight Control](https://modrinth.com/project/create-flight-control) `0.7.7`
 - [Create: Mobile Packages](https://modrinth.com/project/create-mobile-packages) `1.21.1-0.7.8`
 - [Create: Pocket Sized](https://modrinth.com/project/create-pocket-sized) `0.20.1`
+- [Create: Power Loader](https://modrinth.com/project/create-power-loader) `2.0.5-mc1.21.1`
 - [Create: Redstone Link GUI](https://modrinth.com/project/create-redstone-link-gui) `1.21.1-1.9.2`
 - [Create: Rolling Tones](https://modrinth.com/project/create-rolling-tones) `rolling_tones_0.2.2`
 - [Create: Train Track Rail Grinding](https://modrinth.com/project/create-rail-grinding) `1.2.2+mc1.21.1`
+- [CreateBetterFps](https://modrinth.com/project/createbetterfps) `1.1.5`
 - [Creeper Firework](https://modrinth.com/project/creeper-firework) `2.2.0`
 - [Curios API](https://modrinth.com/project/curios) `9.5.1+1.21.1`
 - [Dashpanels](https://modrinth.com/project/dashpanels) `2.1+neoforge1.21.1`

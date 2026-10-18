@@ -105,10 +105,6 @@
       "sha1": "f23837b1c0e786263ad23976c46d8ad4c4682716"
     },
     {
-      "path": "content/mods/contraption-lights.json",
-      "sha1": "b7cb099e8bab784da77eec844f85f9520185271c"
-    },
-    {
       "path": "content/mods/controlling.json",
       "sha1": "8186006ede3e1d54e6b01519383fa47e31a8e0bd"
     },
@@ -182,7 +178,7 @@
     },
     {
       "path": "content/mods/create-deep-seas.json",
-      "sha1": "aec3f63029c583dd0f6a03a4fce59b85a1e9ecd9"
+      "sha1": "e3ca0d9ed4acecfa801a9452a9afa4674eabca05"
     },
     {
       "path": "content/mods/create-diesel-generators.json",
@@ -246,7 +242,7 @@
     },
     {
       "path": "content/mods/create.json",
-      "sha1": "5186ae8ead5f9008c3d3a14eff76a84dfd80b825"
+      "sha1": "168c6e02f606ff9fb227531180670779dcc9e470"
     },
     {
       "path": "content/mods/createaddition.json",
@@ -429,10 +425,6 @@
       "sha1": "76c6d699f407de5a6d75377f766a5a44ed76ba94"
     },
     {
-      "path": "content/mods/lambdynamiclights.json",
-      "sha1": "f7af1f5cc8b1f8c82d8c9600ef0c0f7e0e90b331"
-    },
-    {
       "path": "content/mods/ldlib.json",
       "sha1": "8691bf4ecbfec8bc6dcff4b5280e263e867bc0df"
     },
@@ -538,11 +530,11 @@
     },
     {
       "path": "content/mods/sable-ragdolls.json",
-      "sha1": "e4f6c9de92d3d9db12c6808acf3256ddbd954e63"
+      "sha1": "27f19dbf85e5609417cd1e92ab8817c2dfc2f3d1"
     },
     {
       "path": "content/mods/sable.json",
-      "sha1": "4265f7bc88ba324d53568c186b96d0d670f62273"
+      "sha1": "c6116f2c6cdcf8f706215d97d8b303e6e0fc6e08"
     },
     {
       "path": "content/mods/sable_beyond.json",
@@ -594,7 +586,7 @@
     },
     {
       "path": "content/mods/sodium.json",
-      "sha1": "abc0ebaae0711eec56061de3191c0b3bcdd77719"
+      "sha1": "758452eb34b450df2748128bf58aa329c0205012"
     },
     {
       "path": "content/mods/sophisticated-backpacks.json",
@@ -635,10 +627,6 @@
     {
       "path": "content/mods/vb-compat.json",
       "sha1": "f361b5677ce23b545bbefae39da2d64b515baab3"
-    },
-    {
-      "path": "content/mods/veil.json",
-      "sha1": "6b445cd9e6c725e13c339c8de389ce076dc60755"
     },
     {
       "path": "content/mods/vista-all-the-cassettes.json",

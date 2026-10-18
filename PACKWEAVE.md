@@ -1,6 +1,6 @@
 # createAeronautics
 
-**Minecraft 1.21.1 · neoforge 21.1.262**, 157 mods (29 dependencies), 2 resource packs, 2 shaders
+**Minecraft 1.21.1 · neoforge 21.1.262**, 154 mods (29 dependencies), 2 resource packs, 2 shaders
 
 ## Contents
 
@@ -28,7 +28,6 @@
 - [Colorwheel Patcher](https://modrinth.com/project/colorwheel-patcher) `1.0.5+mc1.21.1`
 - [Complementary Shaders - Reimagined](https://modrinth.com/project/complementary-reimagined) `r5.9.3`
 - [Concurrent Chunk Management Engine (NeoForge)](https://modrinth.com/project/c2me-neoforge) `0.4.0-alpha.0.123+1.21.1`
-- [Contraption Lights (Bi-directional Coloured Dynamic Lights)](https://modrinth.com/project/contraption-lights) `1.5.4`
 - [Controlling](https://modrinth.com/project/controlling) `19.0.5`
 - [Copycats+ aeronautics weight](https://modrinth.com/project/copycats-plus-aeronautics-weight) `1.1.1`
 - [Crash Assistant](https://modrinth.com/project/crash-assistant) `1.11.12`
@@ -40,7 +39,7 @@
 - [Create Cosmonautics Expansion](https://modrinth.com/project/create-cosmonautics-expansion) `1.0.0`
 - [Create Crafts & Additions](https://modrinth.com/project/createaddition) `neoforge-1.21.1-1.6.0`
 - [Create Deco](https://modrinth.com/project/create-deco) `2.1.3`
-- [Create Deep Seas [BETA]](https://modrinth.com/project/create-deep-seas) `3.3.0`
+- [Create Deep Seas [BETA]](https://modrinth.com/project/create-deep-seas) `3.4.2`
 - [Create Jetpack](https://modrinth.com/project/create-jetpack) `5.2.1`
 - [Create Propulsion: Simulated](https://modrinth.com/project/create-propulsion-simulated) `1.1.5`
 - [Create Slice & Dice](https://modrinth.com/project/slice-and-dice) `4.3.4`
@@ -100,7 +99,6 @@
 - [Just Enough Items (JEI)](https://modrinth.com/project/jei) `19.64.0.455`
 - [Just Zoom](https://modrinth.com/project/just-zoom) `3.0.1-1.21.1-neoforge`
 - [Krypton Reno](https://modrinth.com/project/krypton-fnp) `0.2.28.1-1.21.1`
-- [LambDynamicLights - Dynamic Lights](https://modrinth.com/project/lambdynamiclights) `4.8.11+1.21.1`
 - [LDLib](https://modrinth.com/project/ldlib) `mc1.21.1-2.2.42-neoforge`
 - [Let Me Despawn](https://modrinth.com/project/lmd) `1.26.10.2`
 - [Lithium](https://modrinth.com/project/lithium) `mc1.21.1-0.15.4-neoforge`
@@ -144,7 +142,6 @@
 - [Unique Dark Refined](https://modrinth.com/project/unique-dark-refined) `1.9.2`
 - [Vanilla Backport](https://modrinth.com/project/vanillabackport) `1.1.7.10`
 - [Vanilla Backport Compat](https://modrinth.com/project/vb-compat) `2.2`
-- [Veil](https://modrinth.com/project/veil) `4.5.2`
 - [vista](https://modrinth.com/project/vista_tv) `1.21.1-5.5.7`
 - [Vista - All The Cassettes](https://modrinth.com/project/vista-all-the-cassettes) `1.2.0+neoforge.mc1.21.1`
 - [Vista: Recipes](https://modrinth.com/project/vista-recipes) `v3.1`

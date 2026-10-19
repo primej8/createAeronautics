@@ -602,11 +602,11 @@
     },
     {
       "path": "content/mods/sophisticated-backpacks.json",
-      "sha1": "6cdc39d72b365d18d5a28e5daf847dc0a1540a9c"
+      "sha1": "1cfedd533f70aead9dbd6ef02bf6ab1e5cb3aa68"
     },
     {
       "path": "content/mods/sophisticated-core.json",
-      "sha1": "1578551e2d19104af42862dae136b71daffcff8d"
+      "sha1": "f21927cd00f0fd5e91c2b40b10c7deb3b01da625"
     },
     {
       "path": "content/mods/ssrd.json",
@@ -638,7 +638,7 @@
     },
     {
       "path": "content/mods/vb-compat.json",
-      "sha1": "f361b5677ce23b545bbefae39da2d64b515baab3"
+      "sha1": "9b4a7d19b2a25f8b1823fb979cab8dbf3108503e"
     },
     {
       "path": "content/mods/vista-all-the-cassettes.json",

@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "jcYHXHwz",
       "slug": "vb-compat",
-      "versionId": "QKEed8gs",
-      "versionNumber": "2.2",
-      "filename": "vb-compat-2.2-1.21.1.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/jcYHXHwz/versions/QKEed8gs/vb-compat-2.2-1.21.1.jar",
-      "sha1": "ae7a63a26d04211f6b5d67b4e1b95e3b6e4a8064",
-      "sha512": "c6ffbe2b5e285052b877d34691f909a7939bf66044802b2604115ab039ac9c9864af06b00649838297fd7914fcd45fc7547a0f0346ca44086861e045e36c5a21",
-      "fileSize": 58671
+      "versionId": "cIu6DvNo",
+      "versionNumber": "2.3",
+      "filename": "vb-compat-2.3-1.21.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/jcYHXHwz/versions/cIu6DvNo/vb-compat-2.3-1.21.1.jar",
+      "sha1": "a3a9b377ba4f8ae9cc2b46a74542258d7a328ac1",
+      "sha512": "59e9a7a0cac41855738eb166024539428a11c41ed9cf4d2256bb11d1fd609cb019bd099e95065f142f77421c2ed88f4820ec6810e454d57e46362878e24973e6",
+      "fileSize": 63564
     }
   },
   "dependents": [],

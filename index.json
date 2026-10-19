@@ -778,7 +778,7 @@
     },
     {
       "path": "content/shaders/photon-shader.json",
-      "sha1": "1631cf193743bcf1a56c8ba9bf1d6033ee28a34b"
+      "sha1": "16e3143aeb97de8a47bc7b35003d060b216cccab"
     },
     {
       "path": "content/shaders/rethinking-voxels.json",

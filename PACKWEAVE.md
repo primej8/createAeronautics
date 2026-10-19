@@ -118,7 +118,7 @@
 - [Not Enough Crashes](https://modrinth.com/project/notenoughcrashes) `4.4.9+1.21.1-neoforge`
 - [Not Enough Glyphs](https://modrinth.com/project/not-enough-glyphs) `4.6.2`
 - [Not Enough Recipe Book [NERB]](https://modrinth.com/project/notenoughrecipebook) `0.4.3`
-- [Photon Shaders](https://modrinth.com/project/photon-shader) `v1.3a`
+- [Photon Shaders](https://modrinth.com/project/photon-shader) `v1.4`
 - [Ragdoll Reactions](https://modrinth.com/project/ragdoll-reactions) `0.7.0`
 - [Redirected](https://modrinth.com/project/redirected) `neoforge-1.21.1-1.0.0`
 - [Reese's Sodium Options](https://modrinth.com/project/reeses-sodium-options) `mc1.21.1-2.2.4+neoforge`

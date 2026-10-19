@@ -1,6 +1,6 @@
 # createAeronautics
 
-**Minecraft 1.21.1 · neoforge 21.1.263**, 158 mods (29 dependencies), 1 resource pack, 5 shaders
+**Minecraft 1.21.1 · neoforge 21.1.263**, 161 mods (30 dependencies), 1 resource pack, 5 shaders
 
 ## Contents
 
@@ -36,7 +36,7 @@
 - [Copycats+ aeronautics weight](https://modrinth.com/project/copycats-plus-aeronautics-weight) `1.1.1`
 - [Crash Assistant](https://modrinth.com/project/crash-assistant) `1.11.12`
 - [Create Aeronautics](https://modrinth.com/project/create-aeronautics) `1.3.2+mc1.21.1`
-- [Create Aeronautics: Gadgets & Gizmos](https://modrinth.com/project/create-aeronautics-gadgets-and-gizmos) `2.0-pre-release-3`
+- [Create Aeronautics: Gadgets & Gizmos](https://modrinth.com/project/create-aeronautics-gadgets-and-gizmos) `2.0-pre-release-4`
 - Create Aeronautics: Harness `CreateAeronauticsHarness-1.21.1-1.0.1.jar` (curseforge)
 - [Create Big Cannons](https://modrinth.com/project/create-big-cannons) `5.11.7`
 - [Create Cosmonautics](https://modrinth.com/project/create-cosmonatics) `26.08.307`
@@ -61,6 +61,7 @@
 - [Create: Enchantment Industry](https://modrinth.com/project/create-enchantment-industry) `2.5.4b`
 - [Create: Flight Control](https://modrinth.com/project/create-flight-control) `0.7.7`
 - [Create: Mobile Packages](https://modrinth.com/project/create-mobile-packages) `1.21.1-0.7.8`
+- [Create: New Age](https://modrinth.com/project/create-new-age) `1.2.0+mc1.21.1`
 - [Create: Pocket Sized](https://modrinth.com/project/create-pocket-sized) `0.22.0`
 - [Create: Power Loader](https://modrinth.com/project/create-power-loader) `2.0.5-mc1.21.1`
 - [Create: Redstone Link GUI](https://modrinth.com/project/create-redstone-link-gui) `1.21.1-1.9.2`
@@ -76,6 +77,7 @@
 - [Dungeons and Taverns](https://modrinth.com/project/dungeons-and-taverns) `v4.4.4+mod`
 - [EMI](https://modrinth.com/project/emi) `1.1.24+1.21.1+neoforge`
 - [EMI Enchanting](https://modrinth.com/project/emi-enchanting) `0.1.2+1.21+neoforge`
+- EMI for Create `EMI for Create 1.1.1` (curseforge)
 - [EMI Loot](https://modrinth.com/project/emi-loot) `0.7.9+1.21+neoforge`
 - [EMI Ores](https://modrinth.com/project/emi-ores) `1.3+1.21.1+neoforge`
 - [EMI professions (EMIP)](https://modrinth.com/project/emi-professions-emip) `1.0.3`
@@ -121,6 +123,7 @@
 - [Redirected](https://modrinth.com/project/redirected) `neoforge-1.21.1-1.0.0`
 - [Reese's Sodium Options](https://modrinth.com/project/reeses-sodium-options) `mc1.21.1-2.2.4+neoforge`
 - [Reliable EMI (REMI)](https://modrinth.com/project/reliable-emi) `4.7.12-1.21.1-neoforge`
+- [Reliable Remover](https://modrinth.com/project/reliable-remover) `3.8.0+1.21.1-neoforge`
 - [Rethinking Voxels](https://modrinth.com/project/rethinking-voxels) `r0.1-beta9`
 - [Roxy](https://modrinth.com/project/roxy) `0.4.0-neoforge+mc1.21.1`
 - [Sable Beyond](https://modrinth.com/project/sable_beyond) `neoforge1.21.1+v0.5.0`

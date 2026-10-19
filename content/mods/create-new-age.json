@@ -1,0 +1,23 @@
+{
+  "name": "Create: New Age",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "FTeXqI9v",
+      "slug": "create-new-age",
+      "versionId": "IwtuwMZy",
+      "versionNumber": "1.2.0+mc1.21.1",
+      "filename": "create-new-age-1.2.0+neoforge-mc1.21.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/FTeXqI9v/versions/IwtuwMZy/create-new-age-1.2.0%2Bneoforge-mc1.21.1.jar",
+      "sha1": "849df57070ffa75c2446b9c460d03f6b49fa089e",
+      "sha512": "5075c6482b800af7044b594ad694855e7d56f386cb0354967eafe99d77e84b4e26ee7f880d287672d24d84ea8086fd074b7695e46632f32f215b31ce859ada72",
+      "fileSize": 1644485
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

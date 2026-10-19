@@ -1,0 +1,22 @@
+{
+  "name": "EMI for Create",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "1625163",
+      "slug": "emi-for-create",
+      "versionId": "8609093",
+      "versionNumber": "EMI for Create 1.1.1",
+      "filename": "emicreatecompat-1.1.1.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/8609/93/emicreatecompat-1.1.1.jar",
+      "sha1": "35cc49f8d4da49445511e138e5d529c1a9974f16",
+      "fileSize": 258001
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

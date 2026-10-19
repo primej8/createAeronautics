@@ -130,7 +130,7 @@
     },
     {
       "path": "content/mods/create-aeronautics-gadgets-and-gizmos.json",
-      "sha1": "76b76ef8b47435ac66b35002f8f6aff302fb45ae"
+      "sha1": "48ed2271243e78dd4acd55adcce9e634607d7179"
     },
     {
       "path": "content/mods/create-aeronautics-harness.json",
@@ -138,7 +138,7 @@
     },
     {
       "path": "content/mods/create-aeronautics.json",
-      "sha1": "dafd88bf4aae0c619dcc3e09cac27f6eab5f912e"
+      "sha1": "d9050a2777568480e5b4c9cfdeb9e5c7d71d1816"
     },
     {
       "path": "content/mods/create-aeroworks.json",
@@ -217,6 +217,10 @@
       "sha1": "529dedc088c38026ddcfc3a50ec2b5aa284eb922"
     },
     {
+      "path": "content/mods/create-new-age.json",
+      "sha1": "092e46e4e9c9b2f84b93205a6855ed08cd2dc8cd"
+    },
+    {
       "path": "content/mods/create-pocket-sized.json",
       "sha1": "af82ed7afa891409c1f79c9827d506e9d63555d2"
     },
@@ -250,7 +254,7 @@
     },
     {
       "path": "content/mods/create.json",
-      "sha1": "af054d8e3105c25dd66f52422a04d71528a5163f"
+      "sha1": "381279a859f78845215adb3319d63240a3325a95"
     },
     {
       "path": "content/mods/createaddition.json",
@@ -293,6 +297,10 @@
       "sha1": "e868d097c234581cda2f1515735e97e240c33409"
     },
     {
+      "path": "content/mods/emi-for-create.json",
+      "sha1": "eae3176966999bec10e05898c4ddfb43abd52d30"
+    },
+    {
       "path": "content/mods/emi-loot.json",
       "sha1": "525963dc4b255ecfb78f69941314efd3fdf2fa92"
     },
@@ -306,7 +314,7 @@
     },
     {
       "path": "content/mods/emi.json",
-      "sha1": "e37e8299b54174b3548be216aa65165f0ed8c170"
+      "sha1": "e16d25e5836c327da7c31491f697cd3093cb24e9"
     },
     {
       "path": "content/mods/emiffect.json",
@@ -418,7 +426,7 @@
     },
     {
       "path": "content/mods/jei.json",
-      "sha1": "b77189189c61f6a9f073c90fb6f18a99af1c4188"
+      "sha1": "2d71b8b320ada6c7cdfec6c27851afe88f4849fe"
     },
     {
       "path": "content/mods/just-zoom.json",
@@ -521,6 +529,14 @@
       "sha1": "5b724e1d5d7456048d75607db82a220d0e176475"
     },
     {
+      "path": "content/mods/reliable-recipes.json",
+      "sha1": "4259fa2ddb280a1c25209c1041c54fd97f1a367b"
+    },
+    {
+      "path": "content/mods/reliable-remover.json",
+      "sha1": "eaf0752135cefd0a9dd4c2cb14ee532b0e9aa634"
+    },
+    {
       "path": "content/mods/resourceful-config.json",
       "sha1": "70f23a34fc1da54d8da9e530ea64a517198814d7"
     },
@@ -606,7 +622,7 @@
     },
     {
       "path": "content/mods/sophisticated-core.json",
-      "sha1": "f21927cd00f0fd5e91c2b40b10c7deb3b01da625"
+      "sha1": "9c1ef4f46c387834aa76c63a2d9c8c12afc63880"
     },
     {
       "path": "content/mods/ssrd.json",
@@ -686,7 +702,7 @@
     },
     {
       "path": "content/mods/yacl.json",
-      "sha1": "1c434d251cec8153b3d5548e3d32e1caa1c7312c"
+      "sha1": "4c175da5f99d59fbabe73b63477ecf4cc46c698b"
     },
     {
       "path": "content/mods/yammo.json",

@@ -138,7 +138,7 @@
     },
     {
       "path": "content/mods/create-aeronautics.json",
-      "sha1": "d9050a2777568480e5b4c9cfdeb9e5c7d71d1816"
+      "sha1": "c41fa921a497aae331401894d1f879dd5a9a5342"
     },
     {
       "path": "content/mods/create-aeroworks.json",
@@ -206,7 +206,7 @@
     },
     {
       "path": "content/mods/create-flight-control.json",
-      "sha1": "c650bd6981530a33771cab2de9e82cc65e6b2a55"
+      "sha1": "e677172e474e72f09b6707e16bb4798fd16ba4e5"
     },
     {
       "path": "content/mods/create-jetpack.json",
@@ -254,7 +254,7 @@
     },
     {
       "path": "content/mods/create.json",
-      "sha1": "381279a859f78845215adb3319d63240a3325a95"
+      "sha1": "8750b5549934550ee2ec4d0d42b9225f487ecd7a"
     },
     {
       "path": "content/mods/createaddition.json",
@@ -286,7 +286,7 @@
     },
     {
       "path": "content/mods/drive-by-sable.json",
-      "sha1": "3f32facc34483807d63b7cf689887c01a0a2e742"
+      "sha1": "369106d65f9c2b82aac669b90bd12f01c89227d9"
     },
     {
       "path": "content/mods/dungeons-and-taverns.json",
@@ -350,7 +350,7 @@
     },
     {
       "path": "content/mods/exposure-space.json",
-      "sha1": "9c9da0e2b60de7bb49518ef010445a7f88ee7463"
+      "sha1": "1c2cb08efcba46c08e912cb027eb386de7126474"
     },
     {
       "path": "content/mods/exposure.json",
@@ -382,7 +382,7 @@
     },
     {
       "path": "content/mods/geckolib.json",
-      "sha1": "7c6909bd2cb6e01c53e862bfcfa303f0e130385c"
+      "sha1": "87f6eb7bd5a72626dc46ed4bb6e091f11ae8e942"
     },
     {
       "path": "content/mods/glaidens-audio-aeronautics-compat.json",
@@ -390,7 +390,7 @@
     },
     {
       "path": "content/mods/glaidens-audio.json",
-      "sha1": "1cf3754e082879b266bbdf39e1c1e7d3ddf3de47"
+      "sha1": "53ab2f82aab0bb03b1acbd8daf8b0c8b69d03cac"
     },
     {
       "path": "content/mods/glass-remastered.json",
@@ -402,7 +402,7 @@
     },
     {
       "path": "content/mods/guideme.json",
-      "sha1": "e8b2096d1c7f63b4a33b72092ad99d56916da85e"
+      "sha1": "943ef2d17fdcf0ac4fb82e6d1e2126a32908ef42"
     },
     {
       "path": "content/mods/immediatelyfast.json",
@@ -446,7 +446,7 @@
     },
     {
       "path": "content/mods/ldlib.json",
-      "sha1": "8691bf4ecbfec8bc6dcff4b5280e263e867bc0df"
+      "sha1": "053fdbbab1a7c7302f21553c72caf9a4528c2a97"
     },
     {
       "path": "content/mods/lithium.json",
@@ -474,7 +474,7 @@
     },
     {
       "path": "content/mods/modernfix.json",
-      "sha1": "49fe72b3ea8294e7b9d4da43e28a4ae6f67592e9"
+      "sha1": "a61e381a6c5652cb785d05f84612a09e2ab91e23"
     },
     {
       "path": "content/mods/moonlight.json",
@@ -510,7 +510,7 @@
     },
     {
       "path": "content/mods/platform.json",
-      "sha1": "182e56acbb2e232b04682d99e49b4732875a7052"
+      "sha1": "7e8e212544359370f2480d9fbcd36cca7585dbbb"
     },
     {
       "path": "content/mods/ragdoll-reactions.json",
@@ -526,15 +526,15 @@
     },
     {
       "path": "content/mods/reliable-emi.json",
-      "sha1": "5b724e1d5d7456048d75607db82a220d0e176475"
+      "sha1": "1f41d43089651f7014f616e9ed1b28a696c1239e"
     },
     {
       "path": "content/mods/reliable-recipes.json",
-      "sha1": "4259fa2ddb280a1c25209c1041c54fd97f1a367b"
+      "sha1": "221e65d2f92e40e2d3d07c9de8671d3bbc9d8d47"
     },
     {
       "path": "content/mods/reliable-remover.json",
-      "sha1": "eaf0752135cefd0a9dd4c2cb14ee532b0e9aa634"
+      "sha1": "0f69911e29e6703f1e2b9af841921047dd1ab7f8"
     },
     {
       "path": "content/mods/resourceful-config.json",
@@ -618,11 +618,11 @@
     },
     {
       "path": "content/mods/sophisticated-backpacks.json",
-      "sha1": "1cfedd533f70aead9dbd6ef02bf6ab1e5cb3aa68"
+      "sha1": "26bae33c4ed50c70090ccc70baeabdb9888fde6a"
     },
     {
       "path": "content/mods/sophisticated-core.json",
-      "sha1": "9c1ef4f46c387834aa76c63a2d9c8c12afc63880"
+      "sha1": "7d4e311db353b138628269d7037c10435e3b7166"
     },
     {
       "path": "content/mods/ssrd.json",
@@ -650,7 +650,7 @@
     },
     {
       "path": "content/mods/vanillabackport.json",
-      "sha1": "8bc6002f5b769933c087b2bbfad3bace30276647"
+      "sha1": "ac6dba3be38c181680b7c2e131b9b95b4f10f7bb"
     },
     {
       "path": "content/mods/vb-compat.json",

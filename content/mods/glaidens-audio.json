@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "JQHhusVl",
       "slug": "glaidens-audio",
-      "versionId": "qIokCRdM",
-      "versionNumber": "1.5.2",
-      "filename": "glaidens_radio_mod-1.5.2-neoforge-1.21.1.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/JQHhusVl/versions/qIokCRdM/glaidens_radio_mod-1.5.2-neoforge-1.21.1.jar",
-      "sha1": "726451a56ca185e3ab7076f48ca28fda656dfd3a",
-      "sha512": "784aca87f41bfc6db3e335502c933194c87aae639eac59dc24c6553b65bc78d7712e7b58cb2cd0d2a37d40fe210bf5726b97b724be5897c9a608ec31cc38d919",
-      "fileSize": 7063310
+      "versionId": "FYHoO8Aq",
+      "versionNumber": "1.5.4",
+      "filename": "glaidens_audio_mod-1.5.4-neoforge-1.21.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/JQHhusVl/versions/FYHoO8Aq/glaidens_audio_mod-1.5.4-neoforge-1.21.1.jar",
+      "sha1": "39603874a2c6d2cc2eac00cab142409f24cf1c26",
+      "sha512": "60c28c27be2bfbd12782023f3486e457fd097bc346b2bf4c6c615f6a96f43f8eb5218f7ff2c50bc114009751836436b65269c4a002fae6ff333a357bd8fdced5",
+      "fileSize": 7074525
     }
   },
   "dependents": [],

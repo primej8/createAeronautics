@@ -59,7 +59,7 @@
 - [Create: Diesel Generators](https://modrinth.com/project/create-diesel-generators) `1.21.1-1.3.15`
 - [Create: Easy Stock Ticker](https://modrinth.com/project/create-easy-stock-ticker) `1.1.2`
 - [Create: Enchantment Industry](https://modrinth.com/project/create-enchantment-industry) `2.5.4b`
-- [Create: Flight Control](https://modrinth.com/project/create-flight-control) `0.7.7`
+- [Create: Flight Control](https://modrinth.com/project/create-flight-control) `0.8.3`
 - [Create: Mobile Packages](https://modrinth.com/project/create-mobile-packages) `1.21.1-0.7.8`
 - [Create: New Age](https://modrinth.com/project/create-new-age) `1.2.0+mc1.21.1`
 - [Create: Pocket Sized](https://modrinth.com/project/create-pocket-sized) `0.22.0`
@@ -73,7 +73,7 @@
 - [Dashpanels](https://modrinth.com/project/dashpanels) `2.1+neoforge1.21.1`
 - [Dashpanels: Expanded](https://modrinth.com/project/dashpanels-expanded) `2.0.1`
 - [Dashpanels: Extra](https://modrinth.com/project/dashpanels-extra) `1.4.1`
-- [Drive-By-Sable](https://modrinth.com/project/drive-by-sable) `r2.0.3`
+- [Drive-By-Sable](https://modrinth.com/project/drive-by-sable) `r2.0.4`
 - [Dungeons and Taverns](https://modrinth.com/project/dungeons-and-taverns) `v4.4.4+mod`
 - [EMI](https://modrinth.com/project/emi) `1.1.24+1.21.1+neoforge`
 - [EMI Enchanting](https://modrinth.com/project/emi-enchanting) `0.1.2+1.21+neoforge`
@@ -88,7 +88,7 @@
 - [Exposure](https://modrinth.com/project/exposure) `1.9.19`
 - [Exposure: Expanded](https://modrinth.com/project/exposure-expanded) `1.0.1`
 - [Exposure: Polaroid](https://modrinth.com/project/exposure-polaroid) `1.1.6`
-- [Exposure: Space](https://modrinth.com/project/exposure-space) `1.3.0`
+- [Exposure: Space](https://modrinth.com/project/exposure-space) `1.4.0`
 - [Extended AE](https://modrinth.com/project/extended-ae) `1.21-2.2.35-neoforge`
 - [Farmer's Delight](https://modrinth.com/project/farmers-delight) `1.21.1-1.3.4`
 - [Fast Noise](https://modrinth.com/project/zfastnoise) `1.0.13+1.21.1+neoforge`
@@ -96,7 +96,7 @@
 - [Forgified Fabric API](https://modrinth.com/project/forgified-fabric-api) `0.116.15+2.3.6+1.21.1`
 - [Frequency Create](https://modrinth.com/project/frequency-create) `0.2.0`
 - [G.L.A.S.S Remastered](https://modrinth.com/project/glass-remastered) `1.0.0-experimental.sable-neo`
-- [Glaiden's Audio](https://modrinth.com/project/glaidens-audio) `1.5.2`
+- [Glaiden's Audio](https://modrinth.com/project/glaidens-audio) `1.5.4`
 - [Glaiden's audio Aeronautics compat](https://modrinth.com/project/glaidens-audio-aeronautics-compat) `1.0.0`
 - [ImmediatelyFast](https://modrinth.com/project/immediatelyfast) `1.6.15+1.21.1-neoforge`
 - [Iris Shaders](https://modrinth.com/project/iris) `1.8.14-beta.1+1.21.1-neoforge`
@@ -106,12 +106,12 @@
 - [Just Enough Items (JEI)](https://modrinth.com/project/jei) `19.64.0.455`
 - [Just Zoom](https://modrinth.com/project/just-zoom) `3.0.1-1.21.1-neoforge`
 - [Krypton Reno](https://modrinth.com/project/krypton-fnp) `0.2.28.1-1.21.1`
-- [LDLib](https://modrinth.com/project/ldlib) `mc1.21.1-2.2.42-neoforge`
+- [LDLib](https://modrinth.com/project/ldlib) `mc1.21.1-2.2.44-neoforge`
 - [Let Me Despawn](https://modrinth.com/project/lmd) `1.26.10.2`
 - [Lithium](https://modrinth.com/project/lithium) `mc1.21.1-0.15.4-neoforge`
 - [Lootr](https://modrinth.com/project/lootr) `1.21.1-1.11.38.127`
 - [Mixin Helper](https://modrinth.com/project/mixin-helper) `1.1.2+neoforge-1211`
-- [ModernFix](https://modrinth.com/project/modernfix) `5.27.26+mc1.21.1`
+- [ModernFix](https://modrinth.com/project/modernfix) `5.27.27+mc1.21.1`
 - [More Culling](https://modrinth.com/project/moreculling) `1.0.10`
 - [Mouse Tweaks](https://modrinth.com/project/mouse-tweaks) `1.21-2.26.1-neoforge`
 - [Not Enough Animations](https://modrinth.com/project/not-enough-animations) `1.12.6`
@@ -122,8 +122,8 @@
 - [Ragdoll Reactions](https://modrinth.com/project/ragdoll-reactions) `0.7.0`
 - [Redirected](https://modrinth.com/project/redirected) `neoforge-1.21.1-1.0.0`
 - [Reese's Sodium Options](https://modrinth.com/project/reeses-sodium-options) `mc1.21.1-2.2.4+neoforge`
-- [Reliable EMI (REMI)](https://modrinth.com/project/reliable-emi) `4.7.12-1.21.1-neoforge`
-- [Reliable Remover](https://modrinth.com/project/reliable-remover) `3.8.0+1.21.1-neoforge`
+- [Reliable EMI (REMI)](https://modrinth.com/project/reliable-emi) `4.8.0-1.21.1-neoforge`
+- [Reliable Remover](https://modrinth.com/project/reliable-remover) `3.8.2+1.21.1-neoforge`
 - [Rethinking Voxels](https://modrinth.com/project/rethinking-voxels) `r0.1-beta9`
 - [Roxy](https://modrinth.com/project/roxy) `0.4.0-neoforge+mc1.21.1`
 - [Sable Beyond](https://modrinth.com/project/sable_beyond) `neoforge1.21.1+v0.5.0`
@@ -141,14 +141,14 @@
 - [SnAssets Library - General](https://modrinth.com/project/snassets-library-general) `snassets-general-1.0.2`
 - [Sodium](https://modrinth.com/project/sodium) `mc1.21.1-0.8.13-neoforge`
 - [Sodium Extra](https://modrinth.com/project/sodium-extra) `mc1.21.1-0.9.4+neoforge`
-- [Sophisticated Backpacks](https://modrinth.com/project/sophisticated-backpacks) `1.21.1-3.26.13.2214`
+- [Sophisticated Backpacks](https://modrinth.com/project/sophisticated-backpacks) `1.21.1-3.26.14.2222`
 - [Steam 'n' Rails Neoforge](https://modrinth.com/project/create-steam-n-rails-1.21.1) `0.3.0-beta.2+neoforge-mc1.21.1`
 - [Structure Layout Optimizer](https://modrinth.com/project/structure-layout-optimizer) `1.0.12+1.21.1-neoforge`
 - [Structurify - Structure Control](https://modrinth.com/project/structurify) `neoforge-2.0.43+mc1.21.1`
 - [Tectonic](https://modrinth.com/project/tectonic) `3.0.28-neoforge-21.1`
 - [Terralith](https://modrinth.com/project/terralith) `2.6.2`
 - [Unique Dark](https://modrinth.com/project/unique-dark) `2.9.1`
-- [Vanilla Backport](https://modrinth.com/project/vanillabackport) `1.2`
+- [Vanilla Backport](https://modrinth.com/project/vanillabackport) `1.2.1`
 - [Vanilla Backport Compat](https://modrinth.com/project/vb-compat) `2.3`
 - [vista](https://modrinth.com/project/vista_tv) `1.21.1-5.5.7`
 - [Vista - All The Cassettes](https://modrinth.com/project/vista-all-the-cassettes) `1.2.0+neoforge.mc1.21.1`

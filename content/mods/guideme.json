@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "Ck4E7v7R",
       "slug": "guideme",
-      "versionId": "hFpGwC6q",
-      "versionNumber": "21.1.19",
-      "filename": "guideme-21.1.19.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/Ck4E7v7R/versions/hFpGwC6q/guideme-21.1.19.jar",
-      "sha1": "e85cd4c266f974dd360c46e8dad7ecf4c7ee96c6",
-      "sha512": "4dfa132e5cfd69a86c958867067f1c5ab39bb69ae35b2a62c24bb9924e9c688f1a4930ab75d335b22378d9f98cd7fceae8d030812b8f90c9aa282de8ea129f5a",
-      "fileSize": 9311992
+      "versionId": "mUlgxNj8",
+      "versionNumber": "21.1.20",
+      "filename": "guideme-21.1.20.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/Ck4E7v7R/versions/mUlgxNj8/guideme-21.1.20.jar",
+      "sha1": "3003020c170cc84ea307fa1d212d80268806a9be",
+      "sha512": "5e87550a56f97a23996b4c2e06a067a985f9dbbb3a79dd07a302fab275ff24637ed875e50eeafce030dd828799d323e50d86cc2509d53011069c895886a1cbdb",
+      "fileSize": 9325132
     }
   },
   "dependents": [

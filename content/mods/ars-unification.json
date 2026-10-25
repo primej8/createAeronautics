@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "fRdwEsp6",
       "slug": "ars-unification",
-      "versionId": "cRXH7NLO",
-      "versionNumber": "1.2.21",
-      "filename": "ars_unification-1.2.21.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/fRdwEsp6/versions/cRXH7NLO/ars_unification-1.2.21.jar",
-      "sha1": "1cde0f42871f4205d001eddca27ff930fa447a60",
-      "sha512": "174f9bda3485b76eb29c7a3185f8616c47bc8083edd1367d1c640ba29d2e03c8c14e2a33f1bb24c0f5d367ab26defd8819f8726aaa0a7b7836933aa2320925e4",
-      "fileSize": 105994
+      "versionId": "TIJYMhUv",
+      "versionNumber": "1.2.22",
+      "filename": "ars_unification-1.2.22.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/fRdwEsp6/versions/TIJYMhUv/ars_unification-1.2.22.jar",
+      "sha1": "30d4b5bcc0ec20431c6bb41730ff9759c3f0ace0",
+      "sha512": "89bd0d923c10a6f4b03ab390ad20b344fceaed8e2204cf2a79a85c04892168a9e088609839ae766c87c532fbf626da796841001fda90d8986d269ac95c91132f",
+      "fileSize": 120251
     }
   },
   "dependents": [],

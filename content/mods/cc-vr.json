@@ -1,0 +1,23 @@
+{
+  "name": "CC: VR",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "shehT2Uw",
+      "slug": "cc-vr",
+      "versionId": "HXXV3Nrx",
+      "versionNumber": "1.0.2",
+      "filename": "cc_vr-neoforge-1.0.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/shehT2Uw/versions/HXXV3Nrx/cc_vr-neoforge-1.0.2.jar",
+      "sha1": "cab46688865903009e9ebcd0080ead903fc22967",
+      "sha512": "f12d9235b768f68c6733f1691fbaf2b4ec9633779fb6f27a4d7f4b9fe1df662eeb4f5a4c7d42b543247044510626674d4ef6e7359c70cfc6940584567b2d60c2",
+      "fileSize": 134873
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

@@ -22,7 +22,7 @@
     },
     {
       "path": "content/mods/architectury-api.json",
-      "sha1": "291fa99c824a3b86908f85ac19111f10c74d2d33"
+      "sha1": "095a95b5a0fcc52a0b930b1b5f3eccdafd4ad037"
     },
     {
       "path": "content/mods/ars-creo.json",
@@ -42,7 +42,7 @@
     },
     {
       "path": "content/mods/ars-unification.json",
-      "sha1": "6fcb0f00cc6ed8d2a9fefa660b9b0193cb7be4cf"
+      "sha1": "f5fa80dafe0a22b7ef396870ac5c1fbc14fb8751"
     },
     {
       "path": "content/mods/badoptimizations.json",
@@ -78,7 +78,11 @@
     },
     {
       "path": "content/mods/cc-tweaked.json",
-      "sha1": "fafd00952aeadaba62a30b56aca7f4f6549f09f4"
+      "sha1": "f9085aae4615d3d9d9c56a9ffd475a903ff091eb"
+    },
+    {
+      "path": "content/mods/cc-vr.json",
+      "sha1": "ae124940d779c722969783dc020fe7b771479822"
     },
     {
       "path": "content/mods/ccc-redstone-link.json",
@@ -273,6 +277,10 @@
       "sha1": "3078cc32d0b9798bd1b973afcd20d5bc73295f8b"
     },
     {
+      "path": "content/mods/custom-player-models.json",
+      "sha1": "7d4592253f72498d9277e5990f4c4beef2c991c0"
+    },
+    {
       "path": "content/mods/dashpanels-expanded.json",
       "sha1": "5018f98578d579307924b412d9c86d6f9b0d41aa"
     },
@@ -422,7 +430,7 @@
     },
     {
       "path": "content/mods/jade.json",
-      "sha1": "88361766f2ea0d4e77efb7306f285956e418fa05"
+      "sha1": "e6aa2817ad380fd8b46cb59dd5143b1ac4ab9452"
     },
     {
       "path": "content/mods/jei.json",
@@ -506,11 +514,11 @@
     },
     {
       "path": "content/mods/pehkui.json",
-      "sha1": "ba60a87661156d2f6887a902669b1e7743e883fd"
+      "sha1": "611fbe90d603b5e1dbf8fe498dc4d41d852cde6f"
     },
     {
       "path": "content/mods/platform.json",
-      "sha1": "7e8e212544359370f2480d9fbcd36cca7585dbbb"
+      "sha1": "357b9275f6db8ee343b441ff24b65e8d34f11485"
     },
     {
       "path": "content/mods/ragdoll-reactions.json",
@@ -530,7 +538,7 @@
     },
     {
       "path": "content/mods/reliable-recipes.json",
-      "sha1": "221e65d2f92e40e2d3d07c9de8671d3bbc9d8d47"
+      "sha1": "2d5a8bcc71931d9ff229d5b1d34dffe7a0d0cf5b"
     },
     {
       "path": "content/mods/reliable-remover.json",
@@ -618,11 +626,11 @@
     },
     {
       "path": "content/mods/sophisticated-backpacks.json",
-      "sha1": "26bae33c4ed50c70090ccc70baeabdb9888fde6a"
+      "sha1": "6666cd2cb20d8b5b542f5516c284447a0e17152c"
     },
     {
       "path": "content/mods/sophisticated-core.json",
-      "sha1": "7d4e311db353b138628269d7037c10435e3b7166"
+      "sha1": "daf7e191a921c93e975ec08d75325633cb47db9a"
     },
     {
       "path": "content/mods/ssrd.json",
@@ -650,7 +658,7 @@
     },
     {
       "path": "content/mods/vanillabackport.json",
-      "sha1": "ac6dba3be38c181680b7c2e131b9b95b4f10f7bb"
+      "sha1": "b69e36f32dbfc545039b78fdcfbe94d9ad8cafbd"
     },
     {
       "path": "content/mods/vb-compat.json",
@@ -667,6 +675,14 @@
     {
       "path": "content/mods/vista_tv.json",
       "sha1": "5e885546cced2bf0ec564eec66bc75842995fcf7"
+    },
+    {
+      "path": "content/mods/vivecraft-compat.json",
+      "sha1": "218b1e7ec6ae5b429000fba56692eabeb5e68421"
+    },
+    {
+      "path": "content/mods/vivecraft.json",
+      "sha1": "adf0ce106bfc7c9fe5f0ab147479cd5ea24c712e"
     },
     {
       "path": "content/mods/voxy.json",

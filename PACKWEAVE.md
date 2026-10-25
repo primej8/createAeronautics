@@ -1,6 +1,6 @@
 # createAeronautics
 
-**Minecraft 1.21.1 · neoforge 21.1.263**, 161 mods (30 dependencies), 1 resource pack, 5 shaders
+**Minecraft 1.21.1 · neoforge 21.1.263**, 164 mods (31 dependencies), 1 resource pack, 5 shaders
 
 ## Contents
 
@@ -11,7 +11,7 @@
 - [Ars Creo](https://modrinth.com/project/ars-creo) `5.4.0`
 - [Ars Nouveau](https://modrinth.com/project/ars-nouveau) `5.13.3`
 - [Ars Sable](https://modrinth.com/project/ars-sable) `1.2.0`
-- [Ars Unification](https://modrinth.com/project/ars-unification) `1.2.21`
+- [Ars Unification](https://modrinth.com/project/ars-unification) `1.2.22`
 - [Ars Énergistique](https://modrinth.com/project/ars-energistique) `2.1.1-beta`
 - [BadOptimizations](https://modrinth.com/project/badoptimizations) `2.4.1`
 - [Better Clouds](https://modrinth.com/project/better-clouds) `1.13.11+1.21.1-neoforge-release`
@@ -24,6 +24,7 @@
 - [CC: RJ45](https://modrinth.com/project/ccrj45) `1.2.3`
 - [CC: Sable](https://modrinth.com/project/cc-sable) `1.3.4`
 - [CC: Tweaked](https://modrinth.com/project/cc-tweaked) `1.120.2`
+- [CC: VR](https://modrinth.com/project/cc-vr) `1.0.2`
 - [CC:C Bridge](https://modrinth.com/project/cccbridge) `1.7.3`
 - [CC:CBC](https://modrinth.com/project/cc-cbc) `1.1.1`
 - [CIDE-CC](https://modrinth.com/project/cide-cc) `1.1.0`
@@ -141,18 +142,20 @@
 - [SnAssets Library - General](https://modrinth.com/project/snassets-library-general) `snassets-general-1.0.2`
 - [Sodium](https://modrinth.com/project/sodium) `mc1.21.1-0.8.13-neoforge`
 - [Sodium Extra](https://modrinth.com/project/sodium-extra) `mc1.21.1-0.9.4+neoforge`
-- [Sophisticated Backpacks](https://modrinth.com/project/sophisticated-backpacks) `1.21.1-3.26.14.2222`
+- [Sophisticated Backpacks](https://modrinth.com/project/sophisticated-backpacks) `1.21.1-3.26.15.2227`
 - [Steam 'n' Rails Neoforge](https://modrinth.com/project/create-steam-n-rails-1.21.1) `0.3.0-beta.2+neoforge-mc1.21.1`
 - [Structure Layout Optimizer](https://modrinth.com/project/structure-layout-optimizer) `1.0.12+1.21.1-neoforge`
 - [Structurify - Structure Control](https://modrinth.com/project/structurify) `neoforge-2.0.43+mc1.21.1`
 - [Tectonic](https://modrinth.com/project/tectonic) `3.0.28-neoforge-21.1`
 - [Terralith](https://modrinth.com/project/terralith) `2.6.2`
 - [Unique Dark](https://modrinth.com/project/unique-dark) `2.9.1`
-- [Vanilla Backport](https://modrinth.com/project/vanillabackport) `1.2.1`
+- [Vanilla Backport](https://modrinth.com/project/vanillabackport) `1.2.2`
 - [Vanilla Backport Compat](https://modrinth.com/project/vb-compat) `2.3`
 - [vista](https://modrinth.com/project/vista_tv) `1.21.1-5.5.7`
 - [Vista - All The Cassettes](https://modrinth.com/project/vista-all-the-cassettes) `1.2.0+neoforge.mc1.21.1`
 - [Vista: Recipes](https://modrinth.com/project/vista-recipes) `v3.1`
+- [Vivecraft](https://modrinth.com/project/vivecraft) `1.21.1-1.3.15-neoforge`
+- [ViveCraft Compat](https://modrinth.com/project/vivecraft-compat) `1.21-1.5.1`
 - [VS / Sable Hose Connectors](https://modrinth.com/project/vs-hose-connectors) `0.2.2`
 - [Wakes Reforged](https://modrinth.com/project/wakes-reforged) `1.4.1`
 - [When Dungeons Arise](https://modrinth.com/project/when-dungeons-arise) `2.1.68`

@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "TyCTlI4b",
       "slug": "sophisticated-backpacks",
-      "versionId": "eg9lPtG4",
-      "versionNumber": "1.21.1-3.26.14.2222",
-      "filename": "sophisticatedbackpacks-1.21.1-3.26.14.2222.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/TyCTlI4b/versions/eg9lPtG4/sophisticatedbackpacks-1.21.1-3.26.14.2222.jar",
-      "sha1": "ccaaa38967d561a4c49f26364ec0ba68d593b95d",
-      "sha512": "a2d4f486efd6eb0806c2c358c4217300b56cfca25893ca6e9c4c85d2e163f17f44f05e602d62ec8f17c426a15e40c310436ab90ba9ceeab14fac7710bf521191",
-      "fileSize": 1257036
+      "versionId": "3SXYeyvp",
+      "versionNumber": "1.21.1-3.26.15.2227",
+      "filename": "sophisticatedbackpacks-1.21.1-3.26.15.2227.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/TyCTlI4b/versions/3SXYeyvp/sophisticatedbackpacks-1.21.1-3.26.15.2227.jar",
+      "sha1": "e0d48593448ee2c007a69de42660eb9b40afc824",
+      "sha512": "ec542d6f8cf0c9da77ef9607f9371482de165800fb69c19c5711efc9a39a8547f777e8d2b65cc886fda4ef35beddcb581a9e902661a5ab5038fa369de4fcabdd",
+      "fileSize": 1256131
     }
   },
   "dependents": [],

@@ -1,0 +1,23 @@
+{
+  "name": "ViveCraft Compat",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "xnSuzkaS",
+      "slug": "vivecraft-compat",
+      "versionId": "O9q6ZstV",
+      "versionNumber": "1.21-1.5.1",
+      "filename": "vivecraftcompat-1.21-1.5.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/xnSuzkaS/versions/O9q6ZstV/vivecraftcompat-1.21-1.5.1.jar",
+      "sha1": "2aa78e7acffe20dfda5821b3edde4cb25f411a21",
+      "sha512": "3d404c56ca5485a532452c021b03dc28a57ae34b99c6da82ce15e4c075a086781f18c20335e63a3832bab6c60bbdaca2c9f930a5315c260b7910785b4b3dc0d2",
+      "fileSize": 141681
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

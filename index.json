@@ -441,6 +441,10 @@
       "sha1": "75fd9033066564b102e8076c9b7b347c0d1ee7ad"
     },
     {
+      "path": "content/mods/iris-bonk.json",
+      "sha1": "7139d296ddee419d1f6836a1615b6a8b3b53fb69"
+    },
+    {
       "path": "content/mods/iris-veil-compat.json",
       "sha1": "d8bccd5c2d1348d5b8948085c8f6c0ae5c3d182a"
     },
@@ -479,10 +483,6 @@
     {
       "path": "content/mods/ldlib.json",
       "sha1": "558d6bd4346f40539327eb714f22d281490797ea"
-    },
-    {
-      "path": "content/mods/let-it-walk-remote-control.json",
-      "sha1": "41b73355822774dbecca64ed620a8b7156636bed"
     },
     {
       "path": "content/mods/let-it-walk.json",
@@ -662,7 +662,7 @@
     },
     {
       "path": "content/mods/sodium.json",
-      "sha1": "758452eb34b450df2748128bf58aa329c0205012"
+      "sha1": "e4cee86af1125d00d249de7f898d9794f46b1e77"
     },
     {
       "path": "content/mods/sophisticated-backpacks.json",
@@ -707,6 +707,14 @@
     {
       "path": "content/mods/vb-compat.json",
       "sha1": "9b4a7d19b2a25f8b1823fb979cab8dbf3108503e"
+    },
+    {
+      "path": "content/mods/veil-bonk.json",
+      "sha1": "ce979701c12d80c90f6b531c3c3306f58973c9a2"
+    },
+    {
+      "path": "content/mods/veil.json",
+      "sha1": "a2f886a299671208589ca7f84b4f5d2c72adbd70"
     },
     {
       "path": "content/mods/vista-all-the-cassettes.json",

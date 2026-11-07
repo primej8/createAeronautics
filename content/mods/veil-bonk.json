@@ -1,0 +1,22 @@
+{
+  "name": "Veil Bonk",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "1781467",
+      "slug": "veil-bonk",
+      "versionId": "9446187",
+      "versionNumber": "veil_bonk-1.21.1-0.3.2-neoforge",
+      "filename": "veil_bonk-1.21.1-0.3.2-neoforge.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/9446/187/veil_bonk-1.21.1-0.3.2-neoforge.jar",
+      "sha1": "d8d2cdb0906f7b14e15e6e4dc7a51f8d55cd9471",
+      "fileSize": 194810
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

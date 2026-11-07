@@ -1,6 +1,6 @@
 # createAeronautics
 
-**Minecraft 1.21.1 · neoforge 21.1.263**, 175 mods (31 dependencies), 3 resource packs, 5 shaders
+**Minecraft 1.21.1 · neoforge 21.1.263**, 177 mods (31 dependencies), 3 resource packs, 5 shaders
 
 ## Contents
 
@@ -108,6 +108,7 @@
 - [Glaiden's Audio](https://modrinth.com/project/glaidens-audio) `1.5.4`
 - [Glaiden's audio Aeronautics compat](https://modrinth.com/project/glaidens-audio-aeronautics-compat) `1.0.0`
 - [ImmediatelyFast](https://modrinth.com/project/immediatelyfast) `1.6.15+1.21.1-neoforge`
+- Iris core shaders compat fix `iris_bonk-1.21.1-0.1.3-neoforge` (curseforge)
 - [Iris Shaders](https://modrinth.com/project/iris) `1.8.14-beta.1+1.21.1-neoforge`
 - [Iris Veil Compat](https://modrinth.com/project/iris-veil-compat) `1.21.1+0.4.0-alpha`
 - [Jade Addons (Neo/Forge)](https://modrinth.com/project/jade-addons-forge) `6.1.2+neoforge`
@@ -117,7 +118,6 @@
 - [Krypton Reno](https://modrinth.com/project/krypton-fnp) `0.2.28.1-1.21.1`
 - [LDLib](https://modrinth.com/project/ldlib) `mc1.21.1-2.2.46.a-neoforge`
 - Let it Walk! `let_it_walk-0.1.3.jar` (curseforge)
-- Let it Walk! Remote Control `letitwalk_remote-1.0.0.jar` (curseforge)
 - [Let Me Despawn](https://modrinth.com/project/lmd) `1.26.11.1`
 - [Lithium](https://modrinth.com/project/lithium) `mc1.21.1-0.15.4-neoforge`
 - [Lootr](https://modrinth.com/project/lootr) `1.21.1-1.11.38.127`
@@ -164,6 +164,8 @@
 - [Unique Dark](https://modrinth.com/project/unique-dark) `2.9.1`
 - [Vanilla Backport](https://modrinth.com/project/vanillabackport) `1.2.2`
 - [Vanilla Backport Compat](https://modrinth.com/project/vb-compat) `2.3`
+- [Veil](https://modrinth.com/project/veil) `4.5.2`
+- Veil Bonk `veil_bonk-1.21.1-0.3.2-neoforge` (curseforge)
 - [vista](https://modrinth.com/project/vista_tv) `1.21.1-5.6.5`
 - [Vista - All The Cassettes](https://modrinth.com/project/vista-all-the-cassettes) `1.2.0+neoforge.mc1.21.1`
 - [Vista: Recipes](https://modrinth.com/project/vista-recipes) `v3.1`

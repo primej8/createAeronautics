@@ -1,0 +1,22 @@
+{
+  "name": "Let it Walk! Remote Control",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "1785486",
+      "slug": "let-it-walk-remote-control",
+      "versionId": "9456963",
+      "versionNumber": "letitwalk_remote-1.0.0.jar",
+      "filename": "letitwalk_remote-1.0.0.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/9456/963/letitwalk_remote-1.0.0.jar",
+      "sha1": "098097f8523bf0fbb12bae3c0b610ecf06f4c6fa",
+      "fileSize": 117454
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

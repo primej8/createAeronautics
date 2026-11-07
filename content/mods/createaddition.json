@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "kU1G12Nn",
       "slug": "createaddition",
-      "versionId": "qPr8V4G2",
-      "versionNumber": "neoforge-1.21.1-1.6.0",
-      "filename": "createaddition-1.6.0.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/kU1G12Nn/versions/qPr8V4G2/createaddition-1.6.0.jar",
-      "sha1": "87b539d41ed238e98b26c607c0c81a973323147e",
-      "sha512": "e3a31eefb15d37bd1a2ba9012d0c00ec92f7c9e57b7a35c993676ea0cc85ba4f35a055a9f98d57636f24a0562d6da18b4e90713f4f46d47959666a097a6a5cea",
-      "fileSize": 1661802
+      "versionId": "hsjVajlP",
+      "versionNumber": "neoforge-1.21.1-1.7.2",
+      "filename": "createaddition-1.7.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/kU1G12Nn/versions/hsjVajlP/createaddition-1.7.2.jar",
+      "sha1": "8e7158d3144b1ee97e58092fe006675b0e09f6d8",
+      "sha512": "f3a3ddb5600189da818fc71ea659d17f0d1097c5ad664433eed400b3ecc67d0f9305b348e5b7c5fd872d7a6e51330c7158b3181e77192c576c205a74dd0298ff",
+      "fileSize": 1772844
     }
   },
   "dependents": [],

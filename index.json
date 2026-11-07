@@ -10,7 +10,7 @@
     },
     {
       "path": "content/mods/almanac.json",
-      "sha1": "4ba4ec4e4f0ca5a1d5edea98e244ae0dd960532e"
+      "sha1": "11f4c2b138643793a8ad2aea2427f8acf7a3326e"
     },
     {
       "path": "content/mods/appleskin.json",
@@ -34,7 +34,7 @@
     },
     {
       "path": "content/mods/ars-nouveau.json",
-      "sha1": "d6b54fcf6a3e1703d2d37373a887be805899fd46"
+      "sha1": "37c49d0fd2584c2b3f2f1f41906006a82701b3dd"
     },
     {
       "path": "content/mods/ars-sable.json",
@@ -42,7 +42,7 @@
     },
     {
       "path": "content/mods/ars-unification.json",
-      "sha1": "f5fa80dafe0a22b7ef396870ac5c1fbc14fb8751"
+      "sha1": "b11eff3ce46c501b2687280df709db189b8c910c"
     },
     {
       "path": "content/mods/badoptimizations.json",
@@ -110,7 +110,7 @@
     },
     {
       "path": "content/mods/colorwheel.json",
-      "sha1": "f23837b1c0e786263ad23976c46d8ad4c4682716"
+      "sha1": "d1dc6870f1641a75d575796d0497d24e92927cd0"
     },
     {
       "path": "content/mods/configured.json",
@@ -134,7 +134,7 @@
     },
     {
       "path": "content/mods/create-aeronautics-gadgets-and-gizmos.json",
-      "sha1": "48ed2271243e78dd4acd55adcce9e634607d7179"
+      "sha1": "6664a725107f838bff672beda24f2dc3db12f827"
     },
     {
       "path": "content/mods/create-aeronautics-harness.json",
@@ -142,7 +142,7 @@
     },
     {
       "path": "content/mods/create-aeronautics.json",
-      "sha1": "c41fa921a497aae331401894d1f879dd5a9a5342"
+      "sha1": "2be370db569f0d00cbe7f679449b0d5fb76dfec0"
     },
     {
       "path": "content/mods/create-aeroworks.json",
@@ -154,7 +154,7 @@
     },
     {
       "path": "content/mods/create-big-cannons.json",
-      "sha1": "097d411c5613e691224823d4017c56a284f58083"
+      "sha1": "a06c71e5c18bab948e7ee85cfd758a25a8f147fa"
     },
     {
       "path": "content/mods/create-cardboarded-conveynience.json",
@@ -226,7 +226,7 @@
     },
     {
       "path": "content/mods/create-pocket-sized.json",
-      "sha1": "af82ed7afa891409c1f79c9827d506e9d63555d2"
+      "sha1": "3607c33b9f570fc80f093b68e517c720806d6683"
     },
     {
       "path": "content/mods/create-power-loader.json",
@@ -258,11 +258,11 @@
     },
     {
       "path": "content/mods/create.json",
-      "sha1": "8750b5549934550ee2ec4d0d42b9225f487ecd7a"
+      "sha1": "f1bcc8cb4ec4f01ac759b87a4b9f2c621d419eb8"
     },
     {
       "path": "content/mods/createaddition.json",
-      "sha1": "8f1fff17bf78d279f3bf99208296bf29abb66771"
+      "sha1": "512ba60d39a4c045961444d69d2834be7b97aecd"
     },
     {
       "path": "content/mods/createbetterfps.json",
@@ -274,7 +274,7 @@
     },
     {
       "path": "content/mods/curios.json",
-      "sha1": "3078cc32d0b9798bd1b973afcd20d5bc73295f8b"
+      "sha1": "d42affb8995cc98acd090acea20585dc4cefb096"
     },
     {
       "path": "content/mods/custom-player-models.json",
@@ -310,7 +310,7 @@
     },
     {
       "path": "content/mods/emi-loot.json",
-      "sha1": "525963dc4b255ecfb78f69941314efd3fdf2fa92"
+      "sha1": "624b65c3a73c7da3144808ad50150acf815e67b1"
     },
     {
       "path": "content/mods/emi-ores.json",
@@ -322,7 +322,7 @@
     },
     {
       "path": "content/mods/emi.json",
-      "sha1": "e16d25e5836c327da7c31491f697cd3093cb24e9"
+      "sha1": "6dcd65658f418b400bbc55a371d8d71044bc3c42"
     },
     {
       "path": "content/mods/emiffect.json",
@@ -382,11 +382,11 @@
     },
     {
       "path": "content/mods/frequency-create.json",
-      "sha1": "af5ca886ba84100d94f4568859319c9b3ba271b9"
+      "sha1": "d837d4aa2e649b3703b5cf15d68d9ae73aa429f2"
     },
     {
       "path": "content/mods/fzzy-config.json",
-      "sha1": "d93079734b1982342e5fb4d7b0fc2e38d6bbb922"
+      "sha1": "2eeb8b986491d702dcad1f5800a5fc2a9911cf23"
     },
     {
       "path": "content/mods/geckolib.json",
@@ -410,7 +410,7 @@
     },
     {
       "path": "content/mods/guideme.json",
-      "sha1": "943ef2d17fdcf0ac4fb82e6d1e2126a32908ef42"
+      "sha1": "feaf190480997caeba280b67b863e0f15f3e9ceb"
     },
     {
       "path": "content/mods/immediatelyfast.json",
@@ -434,11 +434,11 @@
     },
     {
       "path": "content/mods/jei.json",
-      "sha1": "2d71b8b320ada6c7cdfec6c27851afe88f4849fe"
+      "sha1": "4bc5044135006b826b8b72e7a2713e234ac9d497"
     },
     {
       "path": "content/mods/just-zoom.json",
-      "sha1": "0bf436a4a110513d8eed188982b4bc97f5b22e15"
+      "sha1": "5d152b8b1be1c4cfb7910537efa76c066a4cde6b"
     },
     {
       "path": "content/mods/konkrete.json",
@@ -454,7 +454,15 @@
     },
     {
       "path": "content/mods/ldlib.json",
-      "sha1": "053fdbbab1a7c7302f21553c72caf9a4528c2a97"
+      "sha1": "61b39582a54be894234a553f27e68da1a84f5e7f"
+    },
+    {
+      "path": "content/mods/let-it-walk-remote-control.json",
+      "sha1": "41b73355822774dbecca64ed620a8b7156636bed"
+    },
+    {
+      "path": "content/mods/let-it-walk.json",
+      "sha1": "3a1db76dfd812853ce0b04c000d805d7fe0539c4"
     },
     {
       "path": "content/mods/lithium.json",
@@ -466,7 +474,7 @@
     },
     {
       "path": "content/mods/lmd.json",
-      "sha1": "8974e7e4cc9c6a5a9aacea776461b05f632e9669"
+      "sha1": "2a790e4c03ab4a5f69ea5f14c316f3f0e96fdefa"
     },
     {
       "path": "content/mods/lootr.json",
@@ -486,11 +494,11 @@
     },
     {
       "path": "content/mods/moonlight.json",
-      "sha1": "1a57ad227ddd41b280fa07b84db9b8b3b201d5cf"
+      "sha1": "738c3d57927121fc890f33c126e11cfc19beb14c"
     },
     {
       "path": "content/mods/moreculling.json",
-      "sha1": "89358d047e6ab3cc4d3cefffea2b9191096e68a8"
+      "sha1": "51646bac92d67a45e0680dbecbac070b5aedd7a4"
     },
     {
       "path": "content/mods/mouse-tweaks.json",
@@ -498,7 +506,7 @@
     },
     {
       "path": "content/mods/not-enough-animations.json",
-      "sha1": "1367fa8b4839c6d2f8e4abf2951e995dc3e333d3"
+      "sha1": "4837660e0b49a3f2969b23935545ac25765d70bd"
     },
     {
       "path": "content/mods/not-enough-glyphs.json",
@@ -510,7 +518,7 @@
     },
     {
       "path": "content/mods/notenoughrecipebook.json",
-      "sha1": "b896b996d0fa394217dda1d36123749f906724fb"
+      "sha1": "0b73084211019eb39d352ea8c0d0cb409ca7dbee"
     },
     {
       "path": "content/mods/pehkui.json",
@@ -534,15 +542,15 @@
     },
     {
       "path": "content/mods/reliable-emi.json",
-      "sha1": "1f41d43089651f7014f616e9ed1b28a696c1239e"
+      "sha1": "e91cfb7d6de3959cbaebc3aa91b7647de625c1c7"
     },
     {
       "path": "content/mods/reliable-recipes.json",
-      "sha1": "2d5a8bcc71931d9ff229d5b1d34dffe7a0d0cf5b"
+      "sha1": "a569c9a76ebe32a0f791b668790238ad0c1421ca"
     },
     {
       "path": "content/mods/reliable-remover.json",
-      "sha1": "0f69911e29e6703f1e2b9af841921047dd1ab7f8"
+      "sha1": "b14136965954fa0a634bcb878b1790de521a930b"
     },
     {
       "path": "content/mods/resourceful-config.json",
@@ -570,7 +578,7 @@
     },
     {
       "path": "content/mods/sable.json",
-      "sha1": "28d1dc3a48cbba234935c488de6c870844acdd79"
+      "sha1": "633aab6dd7be2fc1cbe90553da42b71914522655"
     },
     {
       "path": "content/mods/sable_beyond.json",
@@ -598,7 +606,7 @@
     },
     {
       "path": "content/mods/shatterbyte-lib.json",
-      "sha1": "c114f7c0b1a3f741062d921137f1c8af81f43fa3"
+      "sha1": "1da5a6c2f4d13c3dca8d0e0ba9f38ececa18b729"
     },
     {
       "path": "content/mods/simple-voice-chat.json",
@@ -618,7 +626,7 @@
     },
     {
       "path": "content/mods/sodium-extra.json",
-      "sha1": "979028cd325df282cb35ff73f6db0c00489ec527"
+      "sha1": "fd0f73083c23d5c52412152f11cd8f6d4c72156e"
     },
     {
       "path": "content/mods/sodium.json",
@@ -626,15 +634,15 @@
     },
     {
       "path": "content/mods/sophisticated-backpacks.json",
-      "sha1": "6666cd2cb20d8b5b542f5516c284447a0e17152c"
+      "sha1": "842239d7a37a9deda8f8977393389f58bd311e23"
     },
     {
       "path": "content/mods/sophisticated-core.json",
-      "sha1": "daf7e191a921c93e975ec08d75325633cb47db9a"
+      "sha1": "aa28fb497392d054e917e3fed9e05e4b1b4dd535"
     },
     {
       "path": "content/mods/ssrd.json",
-      "sha1": "3b481633d174a200f9f3f26a7ba983515c437c4f"
+      "sha1": "8c7c7c04bb94943f7aeb71922776e850fee157ca"
     },
     {
       "path": "content/mods/structure-layout-optimizer.json",
@@ -674,7 +682,7 @@
     },
     {
       "path": "content/mods/vista_tv.json",
-      "sha1": "5e885546cced2bf0ec564eec66bc75842995fcf7"
+      "sha1": "2039861d1cdb1e3b837b77105ec15366febbaffd"
     },
     {
       "path": "content/mods/vivecraft-compat.json",

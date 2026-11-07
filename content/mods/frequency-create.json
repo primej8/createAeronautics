@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "RgoFrYci",
       "slug": "frequency-create",
-      "versionId": "kgyQ1pbG",
-      "versionNumber": "0.2.0",
-      "filename": "frequency-1.21.1-neoforge-0.2.0.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/RgoFrYci/versions/kgyQ1pbG/frequency-1.21.1-neoforge-0.2.0.jar",
-      "sha1": "49249ab4464b195165bd1700909dc5020633e766",
-      "sha512": "34e0e198e22e85fc19d6e3cd4126e82a904497e7376b4bbaacbcbedca98cbcc7dd3d6adfe772fe0b49fb1b1b2e1fa092094fbd20e1571b8ce642efe50b6781f6",
-      "fileSize": 805071
+      "versionId": "EliWlXoD",
+      "versionNumber": "0.2.1",
+      "filename": "frequency-1.21.1-neoforge-0.2.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/RgoFrYci/versions/EliWlXoD/frequency-1.21.1-neoforge-0.2.1.jar",
+      "sha1": "c236b577b709546afc53bdbea313aca6bae1ae5c",
+      "sha512": "002863307a16acd685c8beb79f99531a03bcd5e1cbbf834c818b3f7e4af5adc34e34bcb9e3dc09e37127da6d278b85ec7a7b171a580f918f79efa7bfaa9c453f",
+      "fileSize": 888710
     }
   },
   "dependents": [],

@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "TKB6INcv",
       "slug": "ars-nouveau",
-      "versionId": "yWDnir1o",
-      "versionNumber": "5.13.3",
-      "filename": "ars_nouveau-1.21.1-5.13.3.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/TKB6INcv/versions/yWDnir1o/ars_nouveau-1.21.1-5.13.3.jar",
-      "sha1": "541b3286d187deeb9a1297a509d0d3539d8af0f6",
-      "sha512": "30f188cfc932bd58c95740488732df7e92d98e7345e271b1a223e41a43fc3dd52284d0ff07fc3e8a95e914082f899394eff3a0f37c174d317e6e37fb68b083df",
-      "fileSize": 19841105
+      "versionId": "CHw9k5Va",
+      "versionNumber": "5.13.4",
+      "filename": "ars_nouveau-1.21.1-5.13.4.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/TKB6INcv/versions/CHw9k5Va/ars_nouveau-1.21.1-5.13.4.jar",
+      "sha1": "50d712209c921e5af2d2983f424178c94277db0a",
+      "sha512": "594ae3e9107d3cb8af19dac0f2df871771b1a542212426e32411cdf7fa65ce8fd779ade9c6386d1b4b6cb3d0fcc5bda5887444b7deaf10019f2ce335e513c72a",
+      "fileSize": 19872506
     }
   },
   "dependents": [

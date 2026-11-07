@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "Sza3GgEL",
       "slug": "create-aeronautics-gadgets-and-gizmos",
-      "versionId": "wkJ6vtdp",
-      "versionNumber": "2.0-pre-release-4",
-      "filename": "gadgets-and-gizmos-bundled-2.0-pre-release-4.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/Sza3GgEL/versions/wkJ6vtdp/gadgets-and-gizmos-bundled-2.0-pre-release-4.jar",
-      "sha1": "935ffdc6696ed9e00817d87859b9175a5d14fcc1",
-      "sha512": "c38d34a7a9094845480850c1e37d9ef5400e5325fb37089c3d444fff1016b4e5e8c64e4c4c4a59df23261750749d703ec4e637ad626ef0b2c26af7cc52761803",
-      "fileSize": 36464232
+      "versionId": "bJgeGffn",
+      "versionNumber": "2.0.1",
+      "filename": "gadgets-and-gizmos-bundled-2.0.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/Sza3GgEL/versions/bJgeGffn/gadgets-and-gizmos-bundled-2.0.1.jar",
+      "sha1": "3eb013a9832fd5b987c4b7827e5f233e7e870819",
+      "sha512": "8f05dc7ddb998dc1b4d3c27c9460d117770d0b0718a6b47f4ed11ee48644913dc25185bc33cc88fc2625732066754f75ca4a6f3c07365ed78b2c215dce1ae5ee",
+      "fileSize": 56958682
     }
   },
   "dependents": [],

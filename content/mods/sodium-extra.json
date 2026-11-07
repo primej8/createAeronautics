@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "PtjYWJkn",
       "slug": "sodium-extra",
-      "versionId": "ufpcXU9c",
-      "versionNumber": "mc1.21.1-0.9.4+neoforge",
-      "filename": "sodium-extra-neoforge-0.9.4+mc1.21.1.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/PtjYWJkn/versions/ufpcXU9c/sodium-extra-neoforge-0.9.4%2Bmc1.21.1.jar",
-      "sha1": "75f9c202e8384cb5de039cdcc47d5e1c8fde8fe5",
-      "sha512": "b930a9c6364bdbac42da7175f9fa71360053cd046d2f1e9a99d712e5942299882bfb585e5b661490b791e219b5dd6b9f064fb94f169d7a32a9934c1dc2b85edf",
-      "fileSize": 472060
+      "versionId": "T819dLGI",
+      "versionNumber": "mc1.21.1-0.9.5+neoforge",
+      "filename": "sodium-extra-neoforge-0.9.5+mc1.21.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/PtjYWJkn/versions/T819dLGI/sodium-extra-neoforge-0.9.5%2Bmc1.21.1.jar",
+      "sha1": "6ca433df0ad08ce8413582e75dcae7619414a068",
+      "sha512": "1f213565e110e39a3e70ce5327f31448b301d2365f7ea281e06535169fd088f7d635370db7417adc927b1278eaefd75c77def7519395408ed0f86f6be240c076",
+      "fileSize": 483373
     }
   },
   "dependents": [],

@@ -1,6 +1,6 @@
 # createAeronautics
 
-**Minecraft 1.21.1 · neoforge 21.1.263**, 177 mods (31 dependencies), 3 resource packs, 5 shaders
+**Minecraft 1.21.1 · neoforge 21.1.263**, 176 mods (31 dependencies), 3 resource packs, 5 shaders
 
 ## Contents
 
@@ -125,7 +125,6 @@
 - [ModernFix](https://modrinth.com/project/modernfix) `5.27.27+mc1.21.1`
 - [More Culling](https://modrinth.com/project/moreculling) `1.0.11`
 - [Mouse Tweaks](https://modrinth.com/project/mouse-tweaks) `1.21-2.26.1-neoforge`
-- [Not Enough Animations](https://modrinth.com/project/not-enough-animations) `1.12.7`
 - [Not Enough Crashes](https://modrinth.com/project/notenoughcrashes) `4.4.9+1.21.1-neoforge`
 - [Not Enough Glyphs](https://modrinth.com/project/not-enough-glyphs) `4.6.2`
 - [Not Enough Recipe Book [NERB]](https://modrinth.com/project/notenoughrecipebook) `0.6+1.21.1`

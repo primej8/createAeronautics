@@ -21,6 +21,9 @@
     "6awFMFjR",
     "uetGbPKW"
   ],
+  "optionalDependents": [
+    "J9McOdzy"
+  ],
   "clientSide": "required",
   "serverSide": "required"
 }

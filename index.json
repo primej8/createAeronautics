@@ -62,7 +62,7 @@
     },
     {
       "path": "content/mods/carry-on.json",
-      "sha1": "a21a53548a0d892b5606499a212620603a2fec2a"
+      "sha1": "a5d87d1cbfe24ce04f5df70e5199d0a743bca933"
     },
     {
       "path": "content/mods/catalogue.json",
@@ -142,7 +142,7 @@
     },
     {
       "path": "content/mods/create-aeronautics.json",
-      "sha1": "2be370db569f0d00cbe7f679449b0d5fb76dfec0"
+      "sha1": "663ade82cdfc17d59d9b59f1aa63980551896843"
     },
     {
       "path": "content/mods/create-aeroworks.json",
@@ -178,7 +178,7 @@
     },
     {
       "path": "content/mods/create-cosmonatics.json",
-      "sha1": "12eb124fbb87781ca31c372c038c1ecc62ab6476"
+      "sha1": "8b35e8e7f50e1c8f8f91b00963bb216f14d32d43"
     },
     {
       "path": "content/mods/create-cosmonautics-expansion.json",
@@ -203,6 +203,10 @@
     {
       "path": "content/mods/create-easy-stock-ticker.json",
       "sha1": "1f8075b988267992f5fe16a5a355e0917dd8d145"
+    },
+    {
+      "path": "content/mods/create-emf-compat-skyhook.json",
+      "sha1": "930e62b2f86a4c3a622277b8733da2eb0fe89788"
     },
     {
       "path": "content/mods/create-enchantment-industry.json",
@@ -258,7 +262,7 @@
     },
     {
       "path": "content/mods/create.json",
-      "sha1": "f1bcc8cb4ec4f01ac759b87a4b9f2c621d419eb8"
+      "sha1": "62a8bffcaa39822c88c21f1a71aee1ec09a81910"
     },
     {
       "path": "content/mods/createaddition.json",
@@ -301,6 +305,18 @@
       "sha1": "07d1504fbb1b4756cfeee24d456290238c7a9189"
     },
     {
+      "path": "content/mods/emf-compat-carry-on.json",
+      "sha1": "227b46d80391a2ee78acc7f890004efa214adf38"
+    },
+    {
+      "path": "content/mods/emf-compat-core.json",
+      "sha1": "793163a2a4db6fd437aa4a40be9321b826fd06c2"
+    },
+    {
+      "path": "content/mods/emf-compat-exposure.json",
+      "sha1": "8f78aab209fff99f843bcdcabae8260223105450"
+    },
+    {
       "path": "content/mods/emi-enchanting.json",
       "sha1": "e868d097c234581cda2f1515735e97e240c33409"
     },
@@ -337,8 +353,16 @@
       "sha1": "8b089990d820f1ee5dca6baf43d38d7ba58f8b98"
     },
     {
+      "path": "content/mods/entity-model-features.json",
+      "sha1": "a8822ca975674abe56ab4b886ed9b0b515b4d4ed"
+    },
+    {
       "path": "content/mods/entityculling.json",
       "sha1": "152818cea8c61eae145c1d026c8906fd7c4b4005"
+    },
+    {
+      "path": "content/mods/entitytexturefeatures.json",
+      "sha1": "6ea8300ef4fa603f04d9d657f829edac7e24bd0d"
     },
     {
       "path": "content/mods/euphoria-patches.json",
@@ -354,7 +378,7 @@
     },
     {
       "path": "content/mods/exposure-polaroid.json",
-      "sha1": "cf9b6fac025e5a480f4b2d647f377ea66a485876"
+      "sha1": "deadb43f44e8bf4a1d7c42890ab9b1970a8da61b"
     },
     {
       "path": "content/mods/exposure-space.json",
@@ -362,7 +386,7 @@
     },
     {
       "path": "content/mods/exposure.json",
-      "sha1": "a52b3699a2460f5783805cb6c4f799199b7ae18c"
+      "sha1": "94fc4b91b7b1471efa2dd68d860d4dfb5cf1a07d"
     },
     {
       "path": "content/mods/extended-ae.json",
@@ -454,7 +478,7 @@
     },
     {
       "path": "content/mods/ldlib.json",
-      "sha1": "61b39582a54be894234a553f27e68da1a84f5e7f"
+      "sha1": "558d6bd4346f40539327eb714f22d281490797ea"
     },
     {
       "path": "content/mods/let-it-walk-remote-control.json",
@@ -529,6 +553,14 @@
       "sha1": "357b9275f6db8ee343b441ff24b65e8d34f11485"
     },
     {
+      "path": "content/mods/punchy-fpa.json",
+      "sha1": "10f5dd0462a715860bb0adf97f119a802f0edbcf"
+    },
+    {
+      "path": "content/mods/punchymoves.json",
+      "sha1": "a666d772b416850f74a865d8857dce546570ceaa"
+    },
+    {
       "path": "content/mods/ragdoll-reactions.json",
       "sha1": "7898c5a6d4f8963188b70676f0025e14e17b6c5f"
     },
@@ -574,7 +606,7 @@
     },
     {
       "path": "content/mods/sable-ragdolls.json",
-      "sha1": "27f19dbf85e5609417cd1e92ab8817c2dfc2f3d1"
+      "sha1": "31bb99e43f11fad96a584e3ba30ecf31e101420e"
     },
     {
       "path": "content/mods/sable.json",
@@ -661,6 +693,10 @@
       "sha1": "7fd07d679d59733164f18e20e2e54a77681c4aa7"
     },
     {
+      "path": "content/mods/touch-and-motion.json",
+      "sha1": "28d4e8a91e7cbc5272ed2c15bd3db661cf04d0a6"
+    },
+    {
       "path": "content/mods/txnilib.json",
       "sha1": "18fc6e2daee1d8074d925d2732e325315f0306af"
     },
@@ -682,7 +718,7 @@
     },
     {
       "path": "content/mods/vista_tv.json",
-      "sha1": "2039861d1cdb1e3b837b77105ec15366febbaffd"
+      "sha1": "85d7d1c9f1e04a2a17cca737451696fb9d68073f"
     },
     {
       "path": "content/mods/vivecraft-compat.json",
@@ -783,6 +819,14 @@
     {
       "path": "content/mods/zfastnoise.json",
       "sha1": "757320931c822e7a1e38edb991436e7f96d9123a"
+    },
+    {
+      "path": "content/resourcepacks/fluid-foolish.json",
+      "sha1": "f9c4b59e91dec46b627324033b65d2d1a8e4c671"
+    },
+    {
+      "path": "content/resourcepacks/fresh-animations.json",
+      "sha1": "74f322fd20ae007ace4b3d67d9258b57891a5299"
     },
     {
       "path": "content/resourcepacks/unique-dark.json",

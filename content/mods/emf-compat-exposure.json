@@ -1,0 +1,23 @@
+{
+  "name": "EMF Compat: Exposure",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "mHqWFw6Z",
+      "slug": "emf-compat-exposure",
+      "versionId": "U71mw0ra",
+      "versionNumber": "1.0.0",
+      "filename": "emf_compat_exposure_1.21.1_1.0.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/mHqWFw6Z/versions/U71mw0ra/emf_compat_exposure_1.21.1_1.0.0.jar",
+      "sha1": "19960e422fb30a36679562a45aff8d6a16194a54",
+      "sha512": "827016c665d8fa08d6a7db8f793c987811ce32a2fb4f288e132e29b28f58eda436421adbc9876b003464d3aa07059233132b82308cd919d8d1585c6747f414a8",
+      "fileSize": 124398
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

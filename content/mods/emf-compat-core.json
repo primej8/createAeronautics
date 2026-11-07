@@ -1,0 +1,28 @@
+{
+  "name": "EMF Compat: Core",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "hbGct5uU",
+      "slug": "emf-compat-core",
+      "versionId": "ai1LOVRO",
+      "versionNumber": "2.3.2",
+      "filename": "emf_compat_core_neoforge_1.21.1_2.3.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/hbGct5uU/versions/ai1LOVRO/emf_compat_core_neoforge_1.21.1_2.3.2.jar",
+      "sha1": "67e4a92e2df2a2b86a655cfc081d971a81f5a9f8",
+      "sha512": "e0d264dd700380b9a17103fa023f76e9210ca818af1dd6bf20b48d2998324392a369c0ffd5ed131a249805555679ec8741e8c2d547ddc169d1fb33d2a7b51675",
+      "fileSize": 174702
+    }
+  },
+  "dependents": [
+    "1734204",
+    "BPD5ZhBo",
+    "J9McOdzy",
+    "mHqWFw6Z"
+  ],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

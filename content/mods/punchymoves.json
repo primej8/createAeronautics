@@ -1,0 +1,25 @@
+{
+  "name": "Punchy! Moves",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "mzgtK8pY",
+      "slug": "punchymoves",
+      "versionId": "FanBz9ka",
+      "versionNumber": "1.0.8",
+      "filename": "punchy-moves-1.0.8-neoforge-1.21.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/mzgtK8pY/versions/FanBz9ka/punchy-moves-1.0.8-neoforge-1.21.1.jar",
+      "sha1": "1bac7d1ff7a34c6a1f3f683f6d537db53641fc1e",
+      "sha512": "89491b5c9b855e03cb1a1ab8a21100cc0334f38be58d8badfffa44a10d6e85809ab176508afe62dc54584037108da2007269e06dc6558dc937e21f79a1693a0d",
+      "fileSize": 1203592
+    }
+  },
+  "dependents": [
+    "fQdwNxte"
+  ],
+  "clientSide": "unknown",
+  "serverSide": "unknown"
+}

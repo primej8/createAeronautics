@@ -1,9 +1,11 @@
 # createAeronautics
 
-**Minecraft 1.21.1 · neoforge 21.1.263**, 166 mods (31 dependencies), 1 resource pack, 5 shaders
+**Minecraft 1.21.1 · neoforge 21.1.263**, 175 mods (31 dependencies), 3 resource packs, 5 shaders
 
 ## Contents
 
+- [[EMF] Entity Model Features](https://modrinth.com/project/entity-model-features) `3.3.12-neoforge-1.21`
+- [[ETF] Entity Texture Features](https://modrinth.com/project/entitytexturefeatures) `7.2.7-neoforge-1.21`
 - [AdvancedAE](https://modrinth.com/project/advancedae) `1.6.12-1.21.1`
 - [AppleSkin](https://modrinth.com/project/appleskin) `3.0.9+mc1.21`
 - [Applied Energistics 2](https://modrinth.com/project/ae2) `19.2.18`
@@ -76,6 +78,10 @@
 - [Dashpanels: Extra](https://modrinth.com/project/dashpanels-extra) `1.4.1`
 - [Drive-By-Sable](https://modrinth.com/project/drive-by-sable) `r2.0.4`
 - [Dungeons and Taverns](https://modrinth.com/project/dungeons-and-taverns) `v4.4.4+mod`
+- [EMF Compat: Carry On](https://modrinth.com/project/emf-compat-carry-on) `2.1.1`
+- [EMF Compat: Core](https://modrinth.com/project/emf-compat-core) `2.3.2`
+- [EMF Compat: Create](https://modrinth.com/project/create-emf-compat-skyhook) `2.1.0`
+- [EMF Compat: Exposure](https://modrinth.com/project/emf-compat-exposure) `1.0.0`
 - [EMI](https://modrinth.com/project/emi) `1.1.24+1.21.1+neoforge`
 - [EMI Enchanting](https://modrinth.com/project/emi-enchanting) `0.1.2+1.21+neoforge`
 - EMI for Create `EMI for Create 1.1.1` (curseforge)
@@ -94,8 +100,10 @@
 - [Farmer's Delight](https://modrinth.com/project/farmers-delight) `1.21.1-1.3.4`
 - [Fast Noise](https://modrinth.com/project/zfastnoise) `1.0.13+1.21.1+neoforge`
 - [FerriteCore](https://modrinth.com/project/ferrite-core) `7.0.3-neoforge`
+- [Fluid & Foolish](https://modrinth.com/project/fluid-foolish) `1.0.1`
 - [Forgified Fabric API](https://modrinth.com/project/forgified-fabric-api) `0.116.15+2.3.6+1.21.1`
 - [Frequency Create](https://modrinth.com/project/frequency-create) `0.2.1`
+- [Fresh Animations](https://modrinth.com/project/fresh-animations) `1.11.2`
 - [G.L.A.S.S Remastered](https://modrinth.com/project/glass-remastered) `1.0.0-experimental.sable-neo`
 - [Glaiden's Audio](https://modrinth.com/project/glaidens-audio) `1.5.4`
 - [Glaiden's audio Aeronautics compat](https://modrinth.com/project/glaidens-audio-aeronautics-compat) `1.0.0`
@@ -107,7 +115,7 @@
 - [Just Enough Items (JEI)](https://modrinth.com/project/jei) `19.64.0.455`
 - [Just Zoom](https://modrinth.com/project/just-zoom) `3.1.0-1.21.1-neoforge`
 - [Krypton Reno](https://modrinth.com/project/krypton-fnp) `0.2.28.1-1.21.1`
-- [LDLib](https://modrinth.com/project/ldlib) `mc1.21.1-2.2.45-neoforge`
+- [LDLib](https://modrinth.com/project/ldlib) `mc1.21.1-2.2.46.a-neoforge`
 - Let it Walk! `let_it_walk-0.1.3.jar` (curseforge)
 - Let it Walk! Remote Control `letitwalk_remote-1.0.0.jar` (curseforge)
 - [Let Me Despawn](https://modrinth.com/project/lmd) `1.26.11.1`
@@ -122,6 +130,8 @@
 - [Not Enough Glyphs](https://modrinth.com/project/not-enough-glyphs) `4.6.2`
 - [Not Enough Recipe Book [NERB]](https://modrinth.com/project/notenoughrecipebook) `0.6+1.21.1`
 - [Photon Shaders](https://modrinth.com/project/photon-shader) `v1.4`
+- [Punchy!](https://modrinth.com/project/punchy-fpa) `3.1b`
+- [Punchy! Moves](https://modrinth.com/project/punchymoves) `1.0.8`
 - [Ragdoll Reactions](https://modrinth.com/project/ragdoll-reactions) `0.7.0`
 - [Redirected](https://modrinth.com/project/redirected) `neoforge-1.21.1-1.0.0`
 - [Reese's Sodium Options](https://modrinth.com/project/reeses-sodium-options) `mc1.21.1-2.2.4+neoforge`
@@ -150,10 +160,11 @@
 - [Structurify - Structure Control](https://modrinth.com/project/structurify) `neoforge-2.0.43+mc1.21.1`
 - [Tectonic](https://modrinth.com/project/tectonic) `3.0.28-neoforge-21.1`
 - [Terralith](https://modrinth.com/project/terralith) `2.6.2`
+- Touch'n Motion `touch_n_motion_neoforge_1.21.1_1.0.4.jar` (curseforge)
 - [Unique Dark](https://modrinth.com/project/unique-dark) `2.9.1`
 - [Vanilla Backport](https://modrinth.com/project/vanillabackport) `1.2.2`
 - [Vanilla Backport Compat](https://modrinth.com/project/vb-compat) `2.3`
-- [vista](https://modrinth.com/project/vista_tv) `1.21.1-5.6.4`
+- [vista](https://modrinth.com/project/vista_tv) `1.21.1-5.6.5`
 - [Vista - All The Cassettes](https://modrinth.com/project/vista-all-the-cassettes) `1.2.0+neoforge.mc1.21.1`
 - [Vista: Recipes](https://modrinth.com/project/vista-recipes) `v3.1`
 - [Vivecraft](https://modrinth.com/project/vivecraft) `1.21.1-1.3.15-neoforge`

@@ -18,5 +18,5 @@
   },
   "dependents": [],
   "clientSide": "required",
-  "serverSide": "required"
+  "serverSide": "unsupported"
 }

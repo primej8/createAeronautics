@@ -126,7 +126,7 @@
     },
     {
       "path": "content/mods/copycats.json",
-      "sha1": "7dacf869f46f79ed64a55e76c2e8b5a82e3d50e4"
+      "sha1": "0175e9566c43eb1ddf4060908a545f8efd2261eb"
     },
     {
       "path": "content/mods/crash-assistant.json",
@@ -134,7 +134,7 @@
     },
     {
       "path": "content/mods/create-aeronautics-gadgets-and-gizmos.json",
-      "sha1": "6664a725107f838bff672beda24f2dc3db12f827"
+      "sha1": "823087cfd6664cfae0931b27338e98894fd4a304"
     },
     {
       "path": "content/mods/create-aeronautics-harness.json",
@@ -142,7 +142,7 @@
     },
     {
       "path": "content/mods/create-aeronautics.json",
-      "sha1": "663ade82cdfc17d59d9b59f1aa63980551896843"
+      "sha1": "b47c0bd3ca350236a0ee1adbd9cca6bf844263cd"
     },
     {
       "path": "content/mods/create-aeroworks.json",
@@ -262,7 +262,7 @@
     },
     {
       "path": "content/mods/create.json",
-      "sha1": "62a8bffcaa39822c88c21f1a71aee1ec09a81910"
+      "sha1": "a1741f5259e0f9fdcc8aa877571ea87b4022058c"
     },
     {
       "path": "content/mods/createaddition.json",
@@ -322,7 +322,7 @@
     },
     {
       "path": "content/mods/emi-for-create.json",
-      "sha1": "eae3176966999bec10e05898c4ddfb43abd52d30"
+      "sha1": "f5081600c2beb97383ddc7963dd8eb0115459e0f"
     },
     {
       "path": "content/mods/emi-loot.json",
@@ -442,7 +442,7 @@
     },
     {
       "path": "content/mods/iris-bonk.json",
-      "sha1": "7139d296ddee419d1f6836a1615b6a8b3b53fb69"
+      "sha1": "cac24715a7ac537430bd747535ac9f5f6c97a42a"
     },
     {
       "path": "content/mods/iris-veil-compat.json",
@@ -550,7 +550,7 @@
     },
     {
       "path": "content/mods/punchy-fpa.json",
-      "sha1": "10f5dd0462a715860bb0adf97f119a802f0edbcf"
+      "sha1": "d35e9071c57b74b346c6be6cf7aac5ccdff89e18"
     },
     {
       "path": "content/mods/punchymoves.json",
@@ -706,7 +706,7 @@
     },
     {
       "path": "content/mods/veil-bonk.json",
-      "sha1": "ce979701c12d80c90f6b531c3c3306f58973c9a2"
+      "sha1": "98f966537bcb75b615eff3c112150daf114f393e"
     },
     {
       "path": "content/mods/veil.json",

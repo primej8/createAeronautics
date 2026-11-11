@@ -1,6 +1,6 @@
 # createAeronautics
 
-**Minecraft 1.21.1 · neoforge 21.1.263**, 179 mods (32 dependencies), 3 resource packs, 5 shaders
+**Minecraft 1.21.1 · neoforge 21.1.265**, 179 mods (32 dependencies), 3 resource packs, 5 shaders
 
 ## Contents
 

@@ -5,10 +5,6 @@
       "sha1": "5df20ef18ed1ce310aa1a5d9dd374944417e81c9"
     },
     {
-      "path": "content/mods/adventurers-harness.json",
-      "sha1": "7de698887bc63fe098db42aee078788ed8b90c9a"
-    },
-    {
       "path": "content/mods/ae2.json",
       "sha1": "5087f6282d0e1223dcd0e52cc3fb1630b75f4b18"
     },
@@ -139,10 +135,6 @@
     {
       "path": "content/mods/crash-assistant.json",
       "sha1": "17fb326d78adb5315cca44b67ed5fca4e3c55e2c"
-    },
-    {
-      "path": "content/mods/create-adventurers-harness.json",
-      "sha1": "c3a1e039c79a7b81f64872cac424fc0566e8e00d"
     },
     {
       "path": "content/mods/create-aeronautics-gadgets-and-gizmos.json",

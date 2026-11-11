@@ -1,12 +1,13 @@
 # createAeronautics
 
-**Minecraft 1.21.1 · neoforge 21.1.265**, 177 mods (32 dependencies), 3 resource packs, 5 shaders
+**Minecraft 1.21.1 · neoforge 21.1.265**, 178 mods (32 dependencies), 3 resource packs, 5 shaders
 
 ## Contents
 
 - [[EMF] Entity Model Features](https://modrinth.com/project/entity-model-features) `3.3.12-neoforge-1.21`
 - [[ETF] Entity Texture Features](https://modrinth.com/project/entitytexturefeatures) `7.2.7-neoforge-1.21`
 - [AdvancedAE](https://modrinth.com/project/advancedae) `1.6.12-1.21.1`
+- Adventurer's Harness (curseforge)
 - [AppleSkin](https://modrinth.com/project/appleskin) `3.0.9+mc1.21`
 - [Applied Energistics 2](https://modrinth.com/project/ae2) `19.2.19`
 - [Applied Experienced](https://modrinth.com/project/applied-experienced) `1.21.1-1.3.2`
@@ -40,7 +41,6 @@
 - [Crash Assistant](https://modrinth.com/project/crash-assistant) `1.11.12`
 - [Create Aeronautics](https://modrinth.com/project/create-aeronautics) `1.3.2+mc1.21.1`
 - [Create Aeronautics: Gadgets & Gizmos](https://modrinth.com/project/create-aeronautics-gadgets-and-gizmos) `2.0.3`
-- Create Aeronautics: Harness `CreateAeronauticsHarness-1.21.1-1.0.1.jar` (curseforge)
 - [Create Big Cannons](https://modrinth.com/project/create-big-cannons) `5.11.7`
 - [Create Cosmonautics](https://modrinth.com/project/create-cosmonatics) `26.08.307`
 - [Create Cosmonautics Expansion](https://modrinth.com/project/create-cosmonautics-expansion) `1.0.0`
@@ -51,6 +51,7 @@
 - [Create Propulsion: Simulated](https://modrinth.com/project/create-propulsion-simulated) `1.1.5`
 - [Create Slice & Dice](https://modrinth.com/project/slice-and-dice) `4.3.4`
 - [Create Stock Bridge](https://modrinth.com/project/create-stock-bridge) `1.21.1-0.2.0`
+- Create: Adventurer's Harness (curseforge)
 - [Create: Aeroworks](https://modrinth.com/project/create-aeroworks) `1.5.0+mc1.21.1`
 - [Create: Avionics — ComputerCraft for Aeronautics](https://modrinth.com/project/create-avionics) `0.6.0`
 - [Create: Cardboarded Conveynience](https://modrinth.com/project/create-cardboarded-conveynience) `1.0.0`

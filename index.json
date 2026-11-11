@@ -5,6 +5,10 @@
       "sha1": "5df20ef18ed1ce310aa1a5d9dd374944417e81c9"
     },
     {
+      "path": "content/mods/adventurers-harness.json",
+      "sha1": "8f254a674028cc1bbdc094c81b2fe31d6fc20a04"
+    },
+    {
       "path": "content/mods/ae2.json",
       "sha1": "5087f6282d0e1223dcd0e52cc3fb1630b75f4b18"
     },
@@ -137,12 +141,12 @@
       "sha1": "17fb326d78adb5315cca44b67ed5fca4e3c55e2c"
     },
     {
-      "path": "content/mods/create-aeronautics-gadgets-and-gizmos.json",
-      "sha1": "2d3aa11e5c55de4f712f6c64aa565ca9c45adbef"
+      "path": "content/mods/create-adventurers-harness.json",
+      "sha1": "c3a1e039c79a7b81f64872cac424fc0566e8e00d"
     },
     {
-      "path": "content/mods/create-aeronautics-harness.json",
-      "sha1": "c80de930be94e7d9faf84f358bc83b849d25fd7d"
+      "path": "content/mods/create-aeronautics-gadgets-and-gizmos.json",
+      "sha1": "2d3aa11e5c55de4f712f6c64aa565ca9c45adbef"
     },
     {
       "path": "content/mods/create-aeronautics.json",

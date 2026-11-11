@@ -1,0 +1,17 @@
+{
+  "name": "Adventurer's Harness",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "1780287",
+      "slug": "",
+      "versionId": "9512063"
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

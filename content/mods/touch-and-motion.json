@@ -8,12 +8,12 @@
     "curseforge": {
       "id": "1734204",
       "slug": "touch-and-motion",
-      "versionId": "9205893",
-      "versionNumber": "touch_n_motion_neoforge_1.21.1_1.0.4.jar",
-      "filename": "touch_n_motion_neoforge_1.21.1_1.0.4.jar",
-      "downloadUrl": "https://edge.forgecdn.net/files/9205/893/touch_n_motion_neoforge_1.21.1_1.0.4.jar",
-      "sha1": "b6fba9ca4d73d2e1eb4968fb48cb6eb0fcadca36",
-      "fileSize": 989740
+      "versionId": "9524859",
+      "versionNumber": "touch_n_motion_neoforge_1.21.1_1.0.5.jar",
+      "filename": "touch_n_motion_neoforge_1.21.1_1.0.5.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/9524/859/touch_n_motion_neoforge_1.21.1_1.0.5.jar",
+      "sha1": "888c6175492105f4df7be86ad5bc0fb65332064e",
+      "fileSize": 1115913
     }
   },
   "dependents": [],

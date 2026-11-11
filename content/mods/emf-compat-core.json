@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "hbGct5uU",
       "slug": "emf-compat-core",
-      "versionId": "ai1LOVRO",
-      "versionNumber": "2.3.2",
-      "filename": "emf_compat_core_neoforge_1.21.1_2.3.2.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/hbGct5uU/versions/ai1LOVRO/emf_compat_core_neoforge_1.21.1_2.3.2.jar",
-      "sha1": "67e4a92e2df2a2b86a655cfc081d971a81f5a9f8",
-      "sha512": "e0d264dd700380b9a17103fa023f76e9210ca818af1dd6bf20b48d2998324392a369c0ffd5ed131a249805555679ec8741e8c2d547ddc169d1fb33d2a7b51675",
-      "fileSize": 174702
+      "versionId": "upzqIWB0",
+      "versionNumber": "2.4.0",
+      "filename": "emf_compat_core_neoforge_1.21.1_2.4.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/hbGct5uU/versions/upzqIWB0/emf_compat_core_neoforge_1.21.1_2.4.0.jar",
+      "sha1": "7aa9e6e1e36e4af8666ffe7141fac8e9c6c8e193",
+      "sha512": "08928236e3bb873a2c2857f0eca950198c9a85ecaf7f6a44c93042bbb2911fcd15dcc38f6ab7a769bf32a8dec342448532be8ffd5e3eda60ca6beae744999393",
+      "fileSize": 188553
     }
   },
   "dependents": [

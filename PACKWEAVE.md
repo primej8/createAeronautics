@@ -1,17 +1,18 @@
 # createAeronautics
 
-**Minecraft 1.21.1 · NeoForge 21.1.263**, 176 mods (30 dependencies), 3 resource packs, 5 shaders
+**Minecraft 1.21.1 · neoforge 21.1.263**, 179 mods (32 dependencies), 3 resource packs, 5 shaders
 
 ## Contents
 
 - [[EMF] Entity Model Features](https://modrinth.com/project/entity-model-features) `3.3.12-neoforge-1.21`
 - [[ETF] Entity Texture Features](https://modrinth.com/project/entitytexturefeatures) `7.2.7-neoforge-1.21`
 - [AdvancedAE](https://modrinth.com/project/advancedae) `1.6.12-1.21.1`
+- Adventurer's Harness (curseforge)
 - [AppleSkin](https://modrinth.com/project/appleskin) `3.0.9+mc1.21`
-- [Applied Energistics 2](https://modrinth.com/project/ae2) `19.2.18`
+- [Applied Energistics 2](https://modrinth.com/project/ae2) `19.2.19`
 - [Applied Experienced](https://modrinth.com/project/applied-experienced) `1.21.1-1.3.2`
 - [Ars Creo](https://modrinth.com/project/ars-creo) `5.4.0`
-- [Ars Nouveau](https://modrinth.com/project/ars-nouveau) `5.13.4`
+- [Ars Nouveau](https://modrinth.com/project/ars-nouveau) `5.13.5`
 - [Ars Sable](https://modrinth.com/project/ars-sable) `1.2.0`
 - [Ars Unification](https://modrinth.com/project/ars-unification) `1.2.23`
 - [Ars Énergistique](https://modrinth.com/project/ars-energistique) `2.1.1-beta`
@@ -21,7 +22,7 @@
 - [BSL Shaders](https://modrinth.com/project/bsl-shaders) `10.1.8`
 - [Carry On](https://modrinth.com/project/carry-on) `2.2.6`
 - [Carry On Extend](https://modrinth.com/project/carry-on-extend) `1.5.2`
-- [Catalogue](https://www.curseforge.com/projects/459701) `Catalogue 1.11.2`
+- Catalogue `Catalogue 1.11.2` (curseforge)
 - [CC: Create Redstone Link](https://modrinth.com/project/ccc-redstone-link) `0.1.1`
 - [CC: RJ45](https://modrinth.com/project/ccrj45) `1.2.3`
 - [CC: Sable](https://modrinth.com/project/cc-sable) `1.3.4`
@@ -34,13 +35,13 @@
 - [Colorwheel Patcher](https://modrinth.com/project/colorwheel-patcher) `1.0.5+mc1.21.1`
 - [Complementary Shaders - Reimagined](https://modrinth.com/project/complementary-reimagined) `r5.9.3`
 - [Concurrent Chunk Management Engine (NeoForge)](https://modrinth.com/project/c2me-neoforge) `0.4.0-alpha.0.123+1.21.1`
-- [Configured](https://www.curseforge.com/projects/457570) `Configured 2.6.3`
+- Configured `Configured 2.6.3` (curseforge)
 - [Controlling](https://modrinth.com/project/controlling) `19.0.5`
 - [Copycats+ aeronautics weight](https://modrinth.com/project/copycats-plus-aeronautics-weight) `1.1.1`
 - [Crash Assistant](https://modrinth.com/project/crash-assistant) `1.11.12`
 - [Create Aeronautics](https://modrinth.com/project/create-aeronautics) `1.3.2+mc1.21.1`
-- [Create Aeronautics: Gadgets & Gizmos](https://modrinth.com/project/create-aeronautics-gadgets-and-gizmos) `2.0.2`
-- [Create Aeronautics: Harness](https://www.curseforge.com/projects/1590651) `CreateAeronauticsHarness-1.21.1-1.0.1.jar`
+- [Create Aeronautics: Gadgets & Gizmos](https://modrinth.com/project/create-aeronautics-gadgets-and-gizmos) `2.0.3`
+- Create Aeronautics: Harness `CreateAeronauticsHarness-1.21.1-1.0.1.jar` (curseforge)
 - [Create Big Cannons](https://modrinth.com/project/create-big-cannons) `5.11.7`
 - [Create Cosmonautics](https://modrinth.com/project/create-cosmonatics) `26.08.307`
 - [Create Cosmonautics Expansion](https://modrinth.com/project/create-cosmonautics-expansion) `1.0.0`
@@ -51,6 +52,7 @@
 - [Create Propulsion: Simulated](https://modrinth.com/project/create-propulsion-simulated) `1.1.5`
 - [Create Slice & Dice](https://modrinth.com/project/slice-and-dice) `4.3.4`
 - [Create Stock Bridge](https://modrinth.com/project/create-stock-bridge) `1.21.1-0.2.0`
+- Create: Adventurer's Harness (curseforge)
 - [Create: Aeroworks](https://modrinth.com/project/create-aeroworks) `1.5.0+mc1.21.1`
 - [Create: Avionics — ComputerCraft for Aeronautics](https://modrinth.com/project/create-avionics) `0.6.0`
 - [Create: Cardboarded Conveynience](https://modrinth.com/project/create-cardboarded-conveynience) `1.0.0`
@@ -76,15 +78,15 @@
 - [Dashpanels](https://modrinth.com/project/dashpanels) `2.1+neoforge1.21.1`
 - [Dashpanels: Expanded](https://modrinth.com/project/dashpanels-expanded) `2.0.1`
 - [Dashpanels: Extra](https://modrinth.com/project/dashpanels-extra) `1.4.1`
-- [Drive-By-Sable](https://modrinth.com/project/drive-by-sable) `r2.0.4`
+- [Drive-By-Sable](https://modrinth.com/project/drive-by-sable) `r2.1.0`
 - [Dungeons and Taverns](https://modrinth.com/project/dungeons-and-taverns) `v4.4.4+mod`
-- [EMF Compat: Carry On](https://modrinth.com/project/emf-compat-carry-on) `2.1.1`
-- [EMF Compat: Core](https://modrinth.com/project/emf-compat-core) `2.3.2`
-- [EMF Compat: Create](https://modrinth.com/project/create-emf-compat-skyhook) `2.1.0`
-- [EMF Compat: Exposure](https://modrinth.com/project/emf-compat-exposure) `1.0.0`
+- [EMF Compat: Carry On](https://modrinth.com/project/emf-compat-carry-on) `2.2.0`
+- [EMF Compat: Core](https://modrinth.com/project/emf-compat-core) `2.4.0`
+- [EMF Compat: Create](https://modrinth.com/project/create-emf-compat-skyhook) `2.1.1`
+- [EMF Compat: Exposure](https://modrinth.com/project/emf-compat-exposure) `1.0.1`
 - [EMI](https://modrinth.com/project/emi) `1.1.24+1.21.1+neoforge`
 - [EMI Enchanting](https://modrinth.com/project/emi-enchanting) `0.1.2+1.21+neoforge`
-- [EMI for Create](https://www.curseforge.com/projects/1625163) `EMI for Create 1.1.1`
+- EMI for Create `EMI for Create 1.1.1` (curseforge)
 - [EMI Loot](https://modrinth.com/project/emi-loot) `0.7.10+1.21+neoforge`
 - [EMI Ores](https://modrinth.com/project/emi-ores) `1.3+1.21.1+neoforge`
 - [EMI professions (EMIP)](https://modrinth.com/project/emi-professions-emip) `1.0.3`
@@ -92,7 +94,7 @@
 - [EMILink](https://modrinth.com/project/emilink) `1.1.13`
 - [Entity Culling](https://modrinth.com/project/entityculling) `1.11.3`
 - [Euphoria Patches](https://modrinth.com/project/euphoria-patches) `1.10.5-r5.9.3-neoforge`
-- [Exposure](https://modrinth.com/project/exposure) `1.9.19`
+- [Exposure](https://modrinth.com/project/exposure) `1.9.21`
 - [Exposure: Expanded](https://modrinth.com/project/exposure-expanded) `1.0.1`
 - [Exposure: Polaroid](https://modrinth.com/project/exposure-polaroid) `1.1.6`
 - [Exposure: Space](https://modrinth.com/project/exposure-space) `1.4.0`
@@ -108,7 +110,7 @@
 - [Glaiden's Audio](https://modrinth.com/project/glaidens-audio) `1.5.4`
 - [Glaiden's audio Aeronautics compat](https://modrinth.com/project/glaidens-audio-aeronautics-compat) `1.0.0`
 - [ImmediatelyFast](https://modrinth.com/project/immediatelyfast) `1.6.15+1.21.1-neoforge`
-- [Iris core shaders compat fix](https://www.curseforge.com/projects/1635431) `iris_bonk-1.21.1-0.1.3-neoforge`
+- Iris core shaders compat fix `iris_bonk-1.21.1-0.1.3-neoforge` (curseforge)
 - [Iris Shaders](https://modrinth.com/project/iris) `1.8.14-beta.1+1.21.1-neoforge`
 - [Iris Veil Compat](https://modrinth.com/project/iris-veil-compat) `1.21.1+0.4.0-alpha`
 - [Jade Addons (Neo/Forge)](https://modrinth.com/project/jade-addons-forge) `6.1.2+neoforge`
@@ -117,7 +119,7 @@
 - [Just Zoom](https://modrinth.com/project/just-zoom) `3.1.0-1.21.1-neoforge`
 - [Krypton Reno](https://modrinth.com/project/krypton-fnp) `0.2.28.1-1.21.1`
 - [LDLib](https://modrinth.com/project/ldlib) `mc1.21.1-2.2.46.a-neoforge`
-- [Let it Walk!](https://www.curseforge.com/projects/1780503) `let_it_walk-0.1.3.jar`
+- Let it Walk! `let_it_walk-0.1.3.jar` (curseforge)
 - [Let Me Despawn](https://modrinth.com/project/lmd) `1.26.11.1`
 - [Lithium](https://modrinth.com/project/lithium) `mc1.21.1-0.15.4-neoforge`
 - [Lootr](https://modrinth.com/project/lootr) `1.21.1-1.11.38.127`
@@ -127,11 +129,11 @@
 - [Mouse Tweaks](https://modrinth.com/project/mouse-tweaks) `1.21-2.26.1-neoforge`
 - [Not Enough Crashes](https://modrinth.com/project/notenoughcrashes) `4.4.9+1.21.1-neoforge`
 - [Not Enough Glyphs](https://modrinth.com/project/not-enough-glyphs) `4.6.2`
-- [Not Enough Recipe Book [NERB]](https://modrinth.com/project/notenoughrecipebook) `0.6+1.21.1`
+- [Not Enough Recipe Book [NERB]](https://modrinth.com/project/notenoughrecipebook) `0.6.2+1.21.1`
 - [Photon Shaders](https://modrinth.com/project/photon-shader) `v1.4`
-- [Punchy!](https://modrinth.com/project/punchy-fpa) `3.2`
+- [Punchy!](https://modrinth.com/project/punchy-fpa) `3.2a`
 - [Punchy! Moves](https://modrinth.com/project/punchymoves) `1.0.8`
-- [Ragdoll Reactions](https://modrinth.com/project/ragdoll-reactions) `0.7.0`
+- [Ragdoll Reactions](https://modrinth.com/project/ragdoll-reactions) `0.8.0`
 - [Redirected](https://modrinth.com/project/redirected) `neoforge-1.21.1-1.0.0`
 - [Reese's Sodium Options](https://modrinth.com/project/reeses-sodium-options) `mc1.21.1-2.2.4+neoforge`
 - [Reliable EMI (REMI)](https://modrinth.com/project/reliable-emi) `4.8.1-1.21.1-neoforge`
@@ -141,8 +143,8 @@
 - [Sable Beyond](https://modrinth.com/project/sable_beyond) `neoforge1.21.1+v0.5.0`
 - [Sable: Far and Wide (Create Aeronautics)](https://modrinth.com/project/sable-far-and-wide) `1.0.0`
 - [Sable: Physics Compat](https://modrinth.com/project/sablecompat) `1.3.0`
-- [Sable: Ragdoll Corpse](https://modrinth.com/project/sable-ragdoll-corpse) `0.3.0`
-- [Sable: Ragdolls](https://modrinth.com/project/sable-ragdolls) `0.7.5`
+- [Sable: Ragdoll Corpse](https://modrinth.com/project/sable-ragdoll-corpse) `0.4.0`
+- [Sable: Ragdolls](https://modrinth.com/project/sable-ragdolls) `0.8.1`
 - [SableEdit](https://modrinth.com/project/sableedit) `0.0.4`
 - [Saturn](https://modrinth.com/project/saturn) `mc1.21.1-0.1.5`
 - [Separate Sable Render Distance (Create Aeronautics Addon)](https://modrinth.com/project/ssrd) `1.8.8`
@@ -153,30 +155,31 @@
 - [SnAssets Library - General](https://modrinth.com/project/snassets-library-general) `snassets-general-1.0.2`
 - [Sodium](https://modrinth.com/project/sodium) `mc1.21.1-0.8.13-neoforge`
 - [Sodium Extra](https://modrinth.com/project/sodium-extra) `mc1.21.1-0.9.5+neoforge`
-- [Sophisticated Backpacks](https://modrinth.com/project/sophisticated-backpacks) `1.21.1-3.26.20.2244`
+- [Sophisticated Backpacks](https://modrinth.com/project/sophisticated-backpacks) `1.21.1-3.26.21.2249`
 - [Steam 'n' Rails Neoforge](https://modrinth.com/project/create-steam-n-rails-1.21.1) `0.3.0-beta.2+neoforge-mc1.21.1`
 - [Structure Layout Optimizer](https://modrinth.com/project/structure-layout-optimizer) `1.0.12+1.21.1-neoforge`
 - [Structurify - Structure Control](https://modrinth.com/project/structurify) `neoforge-2.0.43+mc1.21.1`
 - [Tectonic](https://modrinth.com/project/tectonic) `3.0.28-neoforge-21.1`
 - [Terralith](https://modrinth.com/project/terralith) `2.6.2`
-- [Touch'n Motion](https://www.curseforge.com/projects/1734204) `touch_n_motion_neoforge_1.21.1_1.0.4.jar`
+- Touch'n Motion `touch_n_motion_neoforge_1.21.1_1.0.5.jar` (curseforge)
 - [Unique Dark](https://modrinth.com/project/unique-dark) `2.9.1`
 - [Vanilla Backport](https://modrinth.com/project/vanillabackport) `1.2.2`
 - [Vanilla Backport Compat](https://modrinth.com/project/vb-compat) `2.3`
 - [Veil](https://modrinth.com/project/veil) `4.5.2`
-- [Veil Bonk](https://www.curseforge.com/projects/1781467) `veil_bonk-1.21.1-0.3.2-neoforge`
-- [vista](https://modrinth.com/project/vista_tv) `1.21.1-5.6.5`
+- Veil Bonk `veil_bonk-1.21.1-0.3.2-neoforge` (curseforge)
+- [vista](https://modrinth.com/project/vista_tv) `1.21.1-5.6.8`
 - [Vista - All The Cassettes](https://modrinth.com/project/vista-all-the-cassettes) `1.2.0+neoforge.mc1.21.1`
 - [Vista: Recipes](https://modrinth.com/project/vista-recipes) `v3.1`
 - [Vivecraft](https://modrinth.com/project/vivecraft) `1.21.1-1.3.15-neoforge`
 - [ViveCraft Compat](https://modrinth.com/project/vivecraft-compat) `1.21-1.5.1`
 - [VS / Sable Hose Connectors](https://modrinth.com/project/vs-hose-connectors) `0.2.2`
 - [Wakes Reforged](https://modrinth.com/project/wakes-reforged) `1.4.1`
+- [What Are They Up To (Watut)](https://modrinth.com/project/what-are-they-up-to) `1.21.0-1.2.7`
 - [When Dungeons Arise](https://modrinth.com/project/when-dungeons-arise) `2.1.68`
 - [WorldEdit CUI (Unofficial Forge Port)](https://modrinth.com/project/worldeditcui-forge) `1.21.1+01-SNAPSHOT`
 - [Xaero's Minimap](https://modrinth.com/project/xaeros-minimap) `neoforge-1.21.1-26.6.0`
 - [Xaero's World Map](https://modrinth.com/project/xaeros-world-map) `neoforge-1.21.1-1.47.0`
-- [Yet Another Memory Optimization (YAMO)](https://www.curseforge.com/projects/1211937) `yammo-1.0.6.jar`
+- Yet Another Memory Optimization (YAMO) `yammo-1.0.6.jar` (curseforge)
 - [YUNG's Better Desert Temples](https://modrinth.com/project/yungs-better-desert-temples) `1.21.1-NeoForge-4.1.5`
 - [YUNG's Better Dungeons](https://modrinth.com/project/yungs-better-dungeons) `1.21.1-NeoForge-5.1.4`
 - [YUNG's Better End Island](https://modrinth.com/project/yungs-better-end-island) `1.21.1-NeoForge-3.1.2`

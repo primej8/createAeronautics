@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "BPD5ZhBo",
       "slug": "emf-compat-carry-on",
-      "versionId": "4yBpZGK7",
-      "versionNumber": "2.1.1",
-      "filename": "emf_compat_carry_on_neoforge_1.21.1_2.1.1.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/BPD5ZhBo/versions/4yBpZGK7/emf_compat_carry_on_neoforge_1.21.1_2.1.1.jar",
-      "sha1": "4897c5eb54bf485564bddf996ad4c7411ce31ace",
-      "sha512": "402ff580377a6fd3877261a6e41251915d8b66973b93fa5fb91fb7e1daf4396367d281adc5daaff50e42552e66a00615372da3c08f12f9088a8fb0af0b4c96cf",
-      "fileSize": 229504
+      "versionId": "rWi4iYwg",
+      "versionNumber": "2.2.0",
+      "filename": "emf_compat_carry_on_neoforge_1.21.1_2.2.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/BPD5ZhBo/versions/rWi4iYwg/emf_compat_carry_on_neoforge_1.21.1_2.2.0.jar",
+      "sha1": "341ab26cb8d688253ac837caa052499b8072e169",
+      "sha512": "5a1d21eb360a2cc4caffc099b0f0011738b3692c5888d281c329afbeb565fcce42605204b16398221cc8b250542cd7bbd73829ef325c46ed757b7fa339961eec",
+      "fileSize": 229644
     }
   },
   "dependents": [],

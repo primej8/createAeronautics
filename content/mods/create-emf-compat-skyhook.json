@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "J9McOdzy",
       "slug": "create-emf-compat-skyhook",
-      "versionId": "i61xLd9M",
-      "versionNumber": "2.1.0",
-      "filename": "emf_compat_create_neoforge_1.21.1_2.1.0.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/J9McOdzy/versions/i61xLd9M/emf_compat_create_neoforge_1.21.1_2.1.0.jar",
-      "sha1": "aea909266b5d11c93b30ad7ed8fbe7c49bfd577e",
-      "sha512": "c09ef061875024096e9acb4644d7be3ff8cf4560591c8b3edfe9748c082b34ad2b8bac82fc8c255aefc5607d76bfc7d7e6b5ef74ff9e0fe870e3d6cb3670f719",
-      "fileSize": 169763
+      "versionId": "w9CLlrNR",
+      "versionNumber": "2.1.1",
+      "filename": "emf_compat_create_neoforge_1.21.1_2.1.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/J9McOdzy/versions/w9CLlrNR/emf_compat_create_neoforge_1.21.1_2.1.1.jar",
+      "sha1": "53d602150942c5c2460892795fae04b70927028f",
+      "sha512": "139a19b98d2330d3d96a5e346616d6f5f98f6ac8fba3a58de82d3f7a59729f42a03bfe93591ba31e632b7d064a8f82b3e982c717c3e1e790742c544c3f040da8",
+      "fileSize": 169833
     }
   },
   "dependents": [],

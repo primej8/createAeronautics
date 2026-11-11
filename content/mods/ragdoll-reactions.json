@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "6awFMFjR",
       "slug": "ragdoll-reactions",
-      "versionId": "yx32Af0N",
-      "versionNumber": "0.7.0",
-      "filename": "ragdoll_reactions-1.21.1-0.7.0.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/6awFMFjR/versions/yx32Af0N/ragdoll_reactions-1.21.1-0.7.0.jar",
-      "sha1": "60fd4e9695b4cc3055ef728dc1023f0a335cfc32",
-      "sha512": "aab94063635d8790a33a9eb2191d7fc8b3b38b1b2885c0de96573ab3fbcb9a62b904f1512e6f39c3e13648b65b76f211f1b816608535174aac713b3d61364765",
-      "fileSize": 226506
+      "versionId": "ITBE1E6c",
+      "versionNumber": "0.8.0",
+      "filename": "ragdoll_reactions-1.21.1-0.8.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/6awFMFjR/versions/ITBE1E6c/ragdoll_reactions-1.21.1-0.8.0.jar",
+      "sha1": "d83c0ae9c4edc45fd9607f2758a3c4734827d3ca",
+      "sha512": "3f5aadd27f8ba2f19cdf432e052617f2ddd9abf152c36edd2eacd3e944b43faea57ec86f198b998bdfff776d6aa82709f5e0b52c9cb8e185d3fc1860a7e65cfd",
+      "fileSize": 226703
     }
   },
   "dependents": [],

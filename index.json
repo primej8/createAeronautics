@@ -5,8 +5,12 @@
       "sha1": "5df20ef18ed1ce310aa1a5d9dd374944417e81c9"
     },
     {
+      "path": "content/mods/adventurers-harness.json",
+      "sha1": "7de698887bc63fe098db42aee078788ed8b90c9a"
+    },
+    {
       "path": "content/mods/ae2.json",
-      "sha1": "a68698f652480a4afea98509ad5bd8d2bfefdbb8"
+      "sha1": "5087f6282d0e1223dcd0e52cc3fb1630b75f4b18"
     },
     {
       "path": "content/mods/almanac.json",
@@ -34,7 +38,7 @@
     },
     {
       "path": "content/mods/ars-nouveau.json",
-      "sha1": "37c49d0fd2584c2b3f2f1f41906006a82701b3dd"
+      "sha1": "05279afd9c9aa583884c1bf9db77a01385256b89"
     },
     {
       "path": "content/mods/ars-sable.json",
@@ -62,7 +66,7 @@
     },
     {
       "path": "content/mods/carry-on.json",
-      "sha1": "a5d87d1cbfe24ce04f5df70e5199d0a743bca933"
+      "sha1": "f2fcafbf2a7a4ef8c07a9bde33efedf660563b42"
     },
     {
       "path": "content/mods/catalogue.json",
@@ -129,12 +133,20 @@
       "sha1": "0175e9566c43eb1ddf4060908a545f8efd2261eb"
     },
     {
+      "path": "content/mods/coroutil.json",
+      "sha1": "d51bcebe04afbcc82bcc4d247b227c39d21f70fb"
+    },
+    {
       "path": "content/mods/crash-assistant.json",
       "sha1": "17fb326d78adb5315cca44b67ed5fca4e3c55e2c"
     },
     {
+      "path": "content/mods/create-adventurers-harness.json",
+      "sha1": "c3a1e039c79a7b81f64872cac424fc0566e8e00d"
+    },
+    {
       "path": "content/mods/create-aeronautics-gadgets-and-gizmos.json",
-      "sha1": "823087cfd6664cfae0931b27338e98894fd4a304"
+      "sha1": "2d3aa11e5c55de4f712f6c64aa565ca9c45adbef"
     },
     {
       "path": "content/mods/create-aeronautics-harness.json",
@@ -142,7 +154,7 @@
     },
     {
       "path": "content/mods/create-aeronautics.json",
-      "sha1": "b47c0bd3ca350236a0ee1adbd9cca6bf844263cd"
+      "sha1": "663ade82cdfc17d59d9b59f1aa63980551896843"
     },
     {
       "path": "content/mods/create-aeroworks.json",
@@ -206,7 +218,7 @@
     },
     {
       "path": "content/mods/create-emf-compat-skyhook.json",
-      "sha1": "930e62b2f86a4c3a622277b8733da2eb0fe89788"
+      "sha1": "85aba04746671599acc12bd622c5970a6bfc82fa"
     },
     {
       "path": "content/mods/create-enchantment-industry.json",
@@ -262,7 +274,7 @@
     },
     {
       "path": "content/mods/create.json",
-      "sha1": "a1741f5259e0f9fdcc8aa877571ea87b4022058c"
+      "sha1": "62a8bffcaa39822c88c21f1a71aee1ec09a81910"
     },
     {
       "path": "content/mods/createaddition.json",
@@ -298,7 +310,7 @@
     },
     {
       "path": "content/mods/drive-by-sable.json",
-      "sha1": "369106d65f9c2b82aac669b90bd12f01c89227d9"
+      "sha1": "0563e2bca19ab69f38f7474dfdcc8c64a0510908"
     },
     {
       "path": "content/mods/dungeons-and-taverns.json",
@@ -306,15 +318,15 @@
     },
     {
       "path": "content/mods/emf-compat-carry-on.json",
-      "sha1": "227b46d80391a2ee78acc7f890004efa214adf38"
+      "sha1": "040ac89a077676f928e552fa42c71c6e65b01218"
     },
     {
       "path": "content/mods/emf-compat-core.json",
-      "sha1": "793163a2a4db6fd437aa4a40be9321b826fd06c2"
+      "sha1": "8d5ea95bd3f8b306cb74b860ffafdbe470a40fc1"
     },
     {
       "path": "content/mods/emf-compat-exposure.json",
-      "sha1": "8f78aab209fff99f843bcdcabae8260223105450"
+      "sha1": "57695e0e214e6b9064981bd48353e31abfb09b60"
     },
     {
       "path": "content/mods/emi-enchanting.json",
@@ -322,7 +334,7 @@
     },
     {
       "path": "content/mods/emi-for-create.json",
-      "sha1": "f5081600c2beb97383ddc7963dd8eb0115459e0f"
+      "sha1": "eae3176966999bec10e05898c4ddfb43abd52d30"
     },
     {
       "path": "content/mods/emi-loot.json",
@@ -362,7 +374,7 @@
     },
     {
       "path": "content/mods/entitytexturefeatures.json",
-      "sha1": "6ea8300ef4fa603f04d9d657f829edac7e24bd0d"
+      "sha1": "9284329655629dbea87b483501375efc50cdf865"
     },
     {
       "path": "content/mods/euphoria-patches.json",
@@ -378,7 +390,7 @@
     },
     {
       "path": "content/mods/exposure-polaroid.json",
-      "sha1": "deadb43f44e8bf4a1d7c42890ab9b1970a8da61b"
+      "sha1": "cf9b6fac025e5a480f4b2d647f377ea66a485876"
     },
     {
       "path": "content/mods/exposure-space.json",
@@ -386,7 +398,7 @@
     },
     {
       "path": "content/mods/exposure.json",
-      "sha1": "94fc4b91b7b1471efa2dd68d860d4dfb5cf1a07d"
+      "sha1": "88c67653fea5e7769ed0f79404eacdd0f36826cc"
     },
     {
       "path": "content/mods/extended-ae.json",
@@ -442,7 +454,7 @@
     },
     {
       "path": "content/mods/iris-bonk.json",
-      "sha1": "cac24715a7ac537430bd747535ac9f5f6c97a42a"
+      "sha1": "7139d296ddee419d1f6836a1615b6a8b3b53fb69"
     },
     {
       "path": "content/mods/iris-veil-compat.json",
@@ -518,7 +530,7 @@
     },
     {
       "path": "content/mods/moonlight.json",
-      "sha1": "738c3d57927121fc890f33c126e11cfc19beb14c"
+      "sha1": "f2e4ae73f2cbc7a3e7fdafadae984fe47a5c564d"
     },
     {
       "path": "content/mods/moreculling.json",
@@ -538,7 +550,7 @@
     },
     {
       "path": "content/mods/notenoughrecipebook.json",
-      "sha1": "0b73084211019eb39d352ea8c0d0cb409ca7dbee"
+      "sha1": "98338f08ed850c99fbc72a91cb5b87f915e4b3b1"
     },
     {
       "path": "content/mods/pehkui.json",
@@ -550,7 +562,7 @@
     },
     {
       "path": "content/mods/punchy-fpa.json",
-      "sha1": "d35e9071c57b74b346c6be6cf7aac5ccdff89e18"
+      "sha1": "1973d167e470f84ce6c04c585423c85b94985e8c"
     },
     {
       "path": "content/mods/punchymoves.json",
@@ -558,7 +570,7 @@
     },
     {
       "path": "content/mods/ragdoll-reactions.json",
-      "sha1": "7898c5a6d4f8963188b70676f0025e14e17b6c5f"
+      "sha1": "eb174b27bba7fff74add56ccc0ac5519eed2a69e"
     },
     {
       "path": "content/mods/redirected.json",
@@ -598,11 +610,11 @@
     },
     {
       "path": "content/mods/sable-ragdoll-corpse.json",
-      "sha1": "fc6379e62edb70a6251f2c8c62665b452985badf"
+      "sha1": "2780798a9623a62ef5e4b452e1b9e5a497e3082d"
     },
     {
       "path": "content/mods/sable-ragdolls.json",
-      "sha1": "31bb99e43f11fad96a584e3ba30ecf31e101420e"
+      "sha1": "3a2eb5b9cae0fd8f717b727caf06c4685beb437a"
     },
     {
       "path": "content/mods/sable.json",
@@ -662,11 +674,11 @@
     },
     {
       "path": "content/mods/sophisticated-backpacks.json",
-      "sha1": "842239d7a37a9deda8f8977393389f58bd311e23"
+      "sha1": "15519ac83022e238f2748919299732afe2db4f57"
     },
     {
       "path": "content/mods/sophisticated-core.json",
-      "sha1": "aa28fb497392d054e917e3fed9e05e4b1b4dd535"
+      "sha1": "c5848be2b8609788482b0a0e7e3619e232d64bd1"
     },
     {
       "path": "content/mods/ssrd.json",
@@ -690,7 +702,7 @@
     },
     {
       "path": "content/mods/touch-and-motion.json",
-      "sha1": "28d4e8a91e7cbc5272ed2c15bd3db661cf04d0a6"
+      "sha1": "6e63d71b17bd995ee4431276c60af2077cf34207"
     },
     {
       "path": "content/mods/txnilib.json",
@@ -706,7 +718,7 @@
     },
     {
       "path": "content/mods/veil-bonk.json",
-      "sha1": "98f966537bcb75b615eff3c112150daf114f393e"
+      "sha1": "ce979701c12d80c90f6b531c3c3306f58973c9a2"
     },
     {
       "path": "content/mods/veil.json",
@@ -722,7 +734,7 @@
     },
     {
       "path": "content/mods/vista_tv.json",
-      "sha1": "85d7d1c9f1e04a2a17cca737451696fb9d68073f"
+      "sha1": "530bb91ec5b778f150b958a6529c164fa34adc02"
     },
     {
       "path": "content/mods/vivecraft-compat.json",
@@ -743,6 +755,10 @@
     {
       "path": "content/mods/wakes-reforged.json",
       "sha1": "b41bccee9caa9930622aab5f9ab2edf51023e4cf"
+    },
+    {
+      "path": "content/mods/what-are-they-up-to.json",
+      "sha1": "5fe1c1560d32efcf5ee9d3c0a21a600aa6f7261a"
     },
     {
       "path": "content/mods/when-dungeons-arise.json",
